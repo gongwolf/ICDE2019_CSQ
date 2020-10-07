@@ -12,6 +12,7 @@ The code implements four methods that is used solve the constrain skyline query 
 - [Apache commons-io](http://commons.apache.org/proper/commons-io/)
 - [Apache commons-math3](https://commons.apache.org/proper/commons-math/)
 - [Apache commons-cli](https://commons.apache.org/proper/commons-cli/)
+- JAVA 8
 
 ## Compile
 Execute the maven command, ```mvn clean compile assembly:single```, The executable jar file is placed under the *'target'* folder. 
