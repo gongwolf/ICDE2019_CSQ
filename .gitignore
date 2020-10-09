@@ -1,6 +1,7 @@
 target
 classes
-Data
+!Data/POIs_Data
+!Data/RoadNetworks
 output
 .idea
 ICDE_ConstrainSkylineQuery.iml

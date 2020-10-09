@@ -1,0 +1,1540 @@
+0,40.7933478,-73.9722111,2.1,2.5,7.0,ChIJJa_dHSj2wokRsGexQ6u8Jhw,Days Inn Hotel New York City-Broadway
+1,40.7603197,-73.9877785,2.2,2.5,7.0,ChIJuVnVHlRYwokRYyfYgd3o_9M,New York Inn
+2,40.7587485,-73.9884719,1.6,2.5,7.0,ChIJUUgge1RYwokRYPkWTLt7MSE,Row NYC
+3,40.7487243,-73.9916396,1.2,2.5,7.0,ChIJWbSN8q5ZwokR0OoCnsrZnrQ,Manhattan NYC, An Affinia Hotel
+4,40.7564251,-73.9855534,0.7,2.5,7.0,ChIJZ6wMJFVYwokRfoSIFactWm0,Casablanca Hotel Times Square
+5,40.752722,-73.9936052,1.2,2.5,7.0,ChIJX44S6a1ZwokRvIWf4R_fdiI,The New Yorker A Wyndham Hotel
+6,40.7643608,-73.9805231,1.4,2.5,7.0,ChIJqbB8KPhYwokR_yAXsuOuI54,Wellington Hotel New York
+7,40.7613648,-73.986455,0.9,2.5,7.0,ChIJI1vLm1ZYwokRBinvjuB-HiE,Hilton Garden Inn Times Square
+8,40.756633,-73.971413,1.4,2.5,7.0,ChIJjzyoyPxYwokReeBZIuWqIeo,DoubleTree by Hilton Hotel Metropolitan
+9,40.7458813,-73.9792498,0.7,2.5,7.0,ChIJR7SnMP5YwokRfGDJLM1-t9Q,Dumont NYC, an Affinia Hotel
+10,40.7548069,-73.9731814,1.4,2.5,7.0,ChIJt4TrE_1YwokRVedrKxaqYoo,The Lexington New York City, Autograph Collection®
+11,40.7595152,-73.9907249,1.4,2.5,7.0,ChIJqwmGhlVYwokRugWRyD4-Wb8,Comfort Inn Times Square West
+12,40.761291,-73.991736,0.3,2.5,7.0,ChIJhwBD1VNYwokR7eKcshuz914,414 Hotel
+13,40.752828,-73.983762,0.7,2.5,7.0,ChIJvbGg56pZwokRXbiknwoJA6Q,Bryant Park Hotel
+14,40.7522927,-73.9855489,1.7,2.5,7.0,ChIJnZMMbqpZwokR24YkG4iAQUo,Americana Inn New York
+15,40.7633181,-73.9857804,0.8,2.5,7.0,ChIJzwjZq1dYwokRp3aIwhqEuE4,Hampton Inn Manhattan-Times Square North
+16,40.764389,-73.963081,1.0,2.5,7.0,ChIJ9dPN_OhYwokRRKPwdsxuno8,Gardens NYC, an Affinia Hotel
+17,40.7646554,-73.9809221,1.3,2.5,7.0,ChIJjUGQIPhYwokRHeD9KPkNSfE,Park Central Hotel
+18,40.7499427,-73.9909421,2.3,2.5,7.0,ChIJWbSN8q5ZwokRpLN00upxy8g,Hotel Pennsylvania
+19,40.760978,-73.985501,1.1,2.5,7.0,ChIJGSNzZVZYwokRJWw6Ji1jta0,The Time New York Hotel
+20,40.745371,-73.99225,1.3,2.5,7.0,ChIJXzk5v6hZwokRIoDdundSlro,Holiday Inn Manhattan 6Th Ave - Chelsea
+21,40.7623557,-73.9796262,1.1,2.5,7.0,ChIJKZVnwFVYwokRgDw_sxw3NCo,New York Hilton Midtown
+22,40.7644524,-73.9819808,1.3,2.5,7.0,ChIJxbdMGfhYwokRspYBtV5T7qY,Dream Midtown
+23,40.7451031,-73.9338614,1.9,2.5,7.0,ChIJvw9M5dRewokREFWKM5CUOjU,Days Inn Long Island City
+24,40.7588465,-73.984326,0.8,2.5,7.0,ChIJKZVnwFVYwokRxW7I_MAa0MY,DoubleTree Suites by Hilton Hotel New York City - Times Square
+25,40.758618,-73.98622,0.7,2.5,5.0,ChIJiVXoAFVYwokREqPijh-d8xg,New York Marriott Marquis
+26,40.7787641,-73.9845878,0.4,2.5,7.0,ChIJ1c_Hv2FYwokRD-UX61MByx8,Inn New York City
+27,40.7521911,-73.9794947,0.6,2.5,7.0,ChIJebujAAFZwokRKeKF6sJ0lNQ,Library Hotel
+28,40.7545408,-73.9925985,0.6,2.5,7.0,ChIJjZabD61ZwokRnRwUJ6aFHJo,Courtyard by Marriott Manhattan Times Square West
+29,40.7572369,-73.9844131,0.9,2.5,7.0,ChIJR-etc1VYwokRaDhSYw8Jd5I,Night Theater District
+30,40.7455199,-73.993757,1.1,2.5,7.0,ChIJB7VeR6VZwokRjvql6CK49FM,Hilton New York Fashion District
+31,40.7563008,-73.9931262,1.0,2.5,7.0,ChIJ3-T6NK1ZwokR6wU9jhUJk3c,Holiday Inn Express New York City Times Square
+32,40.666058,-73.7846056,1.4,2.5,7.0,ChIJYWxh7-dmwokRNre_Fuocl_8,Holiday Inn Express New York JFK Airport Area
+33,40.7097058,-74.0138809,0.6,2.5,7.0,ChIJ9TRDoBBawokRJgmlJa_UJ0E,World Center Hotel
+34,40.757624,-73.989125,0.8,2.5,7.0,ChIJheoaY1NYwokRpkXrShShXe8,The Westin New York at Times Square
+35,40.752039,-73.97638,0.9,2.5,7.0,ChIJsS1xLQJZwokRGfXJPMwXA1A,Grand Hyatt New York
+36,40.7560262,-73.971437,0.8,2.5,7.0,ChIJ3yce1fxYwokRUCx9dU2c1MA,The San Carlos Hotel
+37,40.7623268,-73.9712816,0.7,4.0,6.0,ChIJ68J3tfpYwokR2HaRoBcB4xg,Four Seasons Hotel New York
+38,40.6778392,-73.9855708,1.0,2.5,7.0,ChIJbbhVClVawokRvFU-hqN-lvk,Super 8 Brooklyn / Park Slope Hotel
+39,40.7527069,-73.9389328,1.8,2.5,7.0,ChIJTd9mhdRYwokRjhxs5VAkcWU,Country Inn & Suites New York City at Queens
+40,40.7503711,-73.9866018,0.9,2.5,7.0,ChIJq0GzZKlZwokRKu6tu8pJ6Cg,Hilton Garden Inn New York/West 35th Street
+41,40.755726,-73.9691,1.0,2.5,7.0,ChIJ61dEHeNYwokR7ZRDdDhMsys,Pod 51 Hotel
+42,40.7607762,-73.9694581,0.8,2.5,7.0,ChIJxRSyBOVYwokRVV4NWXvL8H8,Renaissance New York Hotel 57
+43,40.7423317,-74.0034779,1.0,2.5,7.0,ChIJxbdMGfhYwokRDcRg7ylApUI,Dream Downtown
+44,40.7493848,-73.9765885,0.8,1.0,5.0,ChIJkRO8-ANZwokRsnWy3do8Pw0,Pod 39 Hotel
+45,40.6781466,-73.9487632,0.8,2.5,7.0,ChIJZRdCJptbwokRz1kjJswgHWA,Best Western Plus Arena Hotel
+46,40.745778,-73.988285,0.7,2.5,7.0,ChIJT2h1HKZZwokR_Nwoxn8RfU0,Ace Hotel New York
+47,40.7212029,-73.9927321,0.9,2.5,7.0,ChIJp7VyeoZZwokRWeeZAd0UlxU,Off Soho Suites
+48,40.7604787,-73.9691078,0.6,2.5,6.0,ChIJm41mHeVYwokRxiuLqdYBIJw,Fitzpatrick Manhattan Hotel
+49,40.7526333,-73.9745545,0.8,2.5,7.0,ChIJMTryXgJZwokRvBURd2YnuhU,Fitzpatrick Grand Central
+50,40.7208832,-74.0042355,1.1,2.5,7.0,ChIJ53en5IpZwokR3FOXk9Da3gY,Sheraton Tribeca New York Hotel
+51,40.7690287,-73.981609,1.2,2.5,6.0,ChIJh5JzbfZYwokR_28ru8Q14wM,Trump International Hotel & Tower New York
+52,40.7761914,-73.9776325,1.6,2.5,7.0,ChIJE88lcYtYwokROrHaZcVRPCY,La Quinta Inn
+53,40.7166627,-73.950645,0.5,2.5,7.0,ChIJD9IFbVpZwokR92FuLYKsEBw,Hotel Le Jolie
+54,40.754865,-73.972666,0.7,2.5,7.0,ChIJ26JjQP1YwokRm5mHF_sVyCI,Residence Inn by Marriott New York Manhattan/Midtown East
+55,40.80184,-73.966645,1.8,2.5,7.0,ChIJdcuBtiT2wokRlaX9jgeuwx4,Morningside Inn
+56,40.7601734,-73.9582572,1.4,2.5,7.0,ChIJNyFAat1YwokRe9y05CWG4p8,The Bentley Hotel
+57,40.7387434,-73.9945091,1.6,2.5,7.0,ChIJxWJ90qJZwokRgqGGYyoL2qs,Chelsea Inn
+58,40.7934789,-73.9721232,1.3,2.5,7.0,ChIJKV8nGij2wokRBbBYLAxxsyU,The Hotel Newton
+59,40.795548,-73.972243,2.1,2.5,7.0,ChIJ2--3iSj2wokR_7IEBW5FKOQ,Royal Park Hotel
+60,40.797865,-73.969927,1.1,2.5,7.0,ChIJt8HE4CX2wokRetJC31LNnvg,Broadway Hotel & Hostel
+61,40.7889031,-73.9751046,1.3,2.5,7.0,ChIJvwN3iYNYwokRlAMgjbg1gF4,The Belnord Hotel
+62,40.798766,-73.9683461,1.7,2.5,5.0,ChIJ0TFuyiX2wokRNOpXvfCxv-g,Marrakech Hotel-NYC
+63,40.7986607,-73.9665698,0.7,2.5,7.0,ChIJOwc3aCT2wokRZGbII0D83Mk,HI New York City Hostel
+64,40.798094,-73.960939,1.8,2.5,7.0,ChIJl4z0ZyL2wokRhpZ5rNVeqRQ,Jazz on The Park Hostel
+65,40.7830052,-73.9736309,1.4,2.5,7.0,ChIJj5ghhY9YwokRvlbqmzErHNg,The Excelsior Hotel
+66,40.7855792,-73.9817166,1.4,2.5,7.0,ChIJ7dNP6odYwokRzsg_22RfqGI,Riverside Tower Hotel
+67,40.783526,-73.9784078,0.8,2.5,7.0,ChIJ19oTTvRYwokRVikZzFtQBuY,The Lucerne
+68,40.782303,-73.980635,1.0,2.5,7.0,ChIJAQAAAIVYwokRgjSEms1j39E,NYLO New York City
+69,40.7824796,-73.9813688,1.1,2.5,7.0,ChIJZ-wCRohYwokRvnOFofo8F7A,Hotel Belleclaire
+70,40.78477,-73.955669,0.8,2.5,7.0,ChIJTakbxqNYwokRm4mt0vw9OgA,Hotel Wales
+71,40.7798178,-73.9545099,1.5,2.5,7.0,ChIJ10JGurxYwokR6f32knf8sPk,The Franklin Hotel
+72,40.7742859,-73.9639685,0.8,3.0,7.0,ChIJCcAxi5RYwokRUyhXQvDUJsY,The Surrey
+73,40.774416,-73.9631559,1.2,2.5,7.0,ChIJEQ6D9pRYwokR5TXzH7ACo7I,The Carlyle, A Rosewood Hotel
+74,40.7830078,-73.9475482,0.9,2.5,7.0,ChIJeSk5Yq9YwokRQpjsEEtuPMM,The Marmara Manhattan
+75,40.8090775,-73.9514775,0.8,2.5,7.0,ChIJ67XxORP2wokR_aG7N_4gWRw,Aloft Harlem
+76,40.7714959,-73.9826673,1.5,2.5,5.0,ChIJuXQtkvVYwokReuWRquUId9M,The Empire Hotel
+77,40.7690089,-73.983011,0.6,2.5,7.0,ChIJL83lHfZYwokRnd7wA8PLD1E,Mandarin Oriental, New York
+78,40.7667087,-73.9683038,0.5,2.5,7.0,ChIJmepRX-5YwokRyCRgIYoMueA,Hôtel Plaza Athénée New York
+79,40.7682395,-73.9849147,1.5,2.5,7.0,ChIJ8--d7VhYwokRW24NNfC67zg,Hudson New York
+80,40.7675702,-73.9831802,1.0,2.0,6.0,ChIJoxGBgFhYwokRIQV6z5YKvNY,6 Columbus
+81,40.7724074,-73.9491419,1.8,2.5,7.0,ChIJlWMqtblYwokRWcGxQN9DkIA,Gracie Inn
+82,40.768324,-73.987319,1.4,2.5,7.0,ChIJ2ZbjDllYwokR-pulBBkdbr8,Holiday Inn New York City-Midtown-57Th St.
+83,40.7662166,-73.9785754,0.6,2.5,7.0,ChIJtVazIfdYwokRgdtzmjoI1zQ,JW Marriott Essex House New York
+84,40.7657507,-73.9786867,2.0,2.5,7.0,ChIJWzKtFfdYwokRasyZTuhvG7o,Park Savoy Hotel
+85,40.7652944,-73.9760468,0.4,4.0,7.0,ChIJ4yNdwPBYwokRqc1lCC4n89w,The Ritz-Carlton New York, Central Park
+86,40.7648577,-73.9753473,1.2,2.5,7.0,ChIJmU5P6vBYwokRO73p8vAMXUE,Park Lane Hotel New York
+87,40.7656514,-73.9829954,1.9,2.5,7.0,ChIJ1byF4vdYwokRRf7c3fGg4-s,Da Vinci Hotel
+88,40.7645047,-73.9691671,0.8,2.5,4.0,ChIJC0Xwu-9YwokRDQBat_jlgQ4,Loews Regency New York
+89,40.7643133,-73.9725243,0.4,2.5,7.0,ChIJxd6mE_BYwokR9x3fxAYpcRU,The Sherry-Netherland
+90,40.7643281,-73.9756584,0.3,2.5,7.0,ChIJ9XkMovBYwokRRuMiMP7-IuM,AKA Central Park
+91,40.764856,-73.9812104,1.0,2.5,7.0,ChIJtxZJIPhYwokR61Ynm-nHnnk,The Manhattan Club
+92,40.7651625,-73.9829544,1.0,2.5,7.0,ChIJVR83_vdYwokRTqURR3cOg6w,The Moderne Hotel
+93,40.764325,-73.977931,0.8,2.5,7.0,ChIJ8dMVWPdYwokRaeji99j9uIw,West 57th Street by Hilton Club
+94,40.7642505,-73.9785605,0.8,2.5,4.0,ChIJwfFb4flYwokRa1Y4QKuhSwE,Le Parker Meridien New York
+95,40.7640167,-73.9828109,1.0,2.5,7.0,ChIJHUH-CPhYwokRmzMne93wopY,Ameritania at Times Square
+96,40.7634381,-73.9805361,0.8,2.5,7.0,ChIJmUhQSfhYwokRezAHYGPpwZM,The London NYC
+97,40.7628579,-73.9753905,0.3,2.5,7.0,ChIJxfoeGvpYwokRz30b1_ccQOE,Chambers New York Hotel
+98,40.7624809,-73.976372,1.3,3.0,7.0,ChIJt76oPPpYwokRR4Vj9oMB7EA,Shoreham Hotel
+99,40.762364,-73.9782111,0.8,2.5,7.0,ChIJFVWAmflYwokRSGrDEu4bnyc,Warwick New York
+100,40.7623829,-73.9796782,0.8,2.5,7.0,ChIJKZVnwFVYwokRiQTSnFTdrAA,The Hilton Club - New York
+101,40.762468,-73.981557,1.2,2.5,7.0,ChIJw_JUgvhYwokR91EMxVDhB8M,Sheraton New York Times Square Hotel
+102,40.7617151,-73.975267,0.5,2.5,7.0,ChIJ57WmTfpYwokRZAuLuP6R_E0,The Peninsula New York
+103,40.7614222,-73.9747694,0.5,2.5,7.0,ChIJT_kaUvpYwokRJ-Sl4G4kZ_Q,The St. Regis New York
+104,40.7625249,-73.9837987,0.7,2.5,7.0,ChIJr9cp0ldYwokRxolUb1zQPzE,Hotel Novotel New York Times Square
+105,40.7632631,-73.9867977,1.3,2.5,7.0,ChIJmZ57HFdYwokRzZhnLwoZMf4,Washington Jefferson Hotel
+106,40.760613,-73.970449,0.6,2.5,7.0,ChIJLxY62ORYwokRCrCLXz44VAo,The Lombardy Hotel
+107,40.7643802,-73.9924603,1.2,2.5,7.0,ChIJB6n99VBYwokRrgHxooXkoKc,The Skyline Hotel
+108,40.7614289,-73.982458,0.4,3.0,7.0,ChIJb2q-m_hYwokRFLZdzzJP3mo,The Michelangelo
+109,40.7599065,-73.9732006,0.7,2.5,7.0,ChIJPyNgE_tYwokRI5vRxa_eSTs,Hotel Elysee New York
+110,40.7613617,-73.9855813,0.5,2.5,7.0,ChIJz1fgZlZYwokRHsV8DDTh-aM,Pearl Hotel
+111,40.7612745,-73.9858772,1.6,2.5,7.0,ChIJm8F7ZVZYwokRsmQdJ6soYX4,Mayfair New York
+112,40.759788,-73.977671,0.6,2.5,7.0,ChIJNUB2OPlYwokRA7Xe8PHIZEg,The Jewel Hotel
+113,40.8222464,-73.9488832,1.4,2.5,7.0,ChIJn8ET3GT2wokRROqZ4_pijPU,Sugar Hill Harlem Inn
+114,40.764078,-73.994782,0.8,2.5,7.0,ChIJcfmS1FFYwokR98RN442V41c,Holiday Inn Express Manhattan Midtown West
+115,40.764568,-73.995995,0.6,3.0,7.0,ChIJf5OYzE9YwokREJzjUSSeMaI,Kimpton Ink48 Hotel
+116,40.759431,-73.974949,0.6,2.5,7.0,ChIJI3SRhvtYwokR8s2C4Ady-nA,Omni Berkshire Place
+117,40.7607,-73.985273,0.9,2.5,7.0,ChIJP79nc1ZYwokRkfeUgsDBspQ,Crowne Plaza Times Square Manhattan
+118,40.7589384,-73.969515,0.4,2.5,7.0,ChIJXbLvk-RYwokRtZEKtAXhQGE,Carvi Hotel New York
+119,40.764572,-73.978478,0.7,2.5,7.0,ChIJjY9pXvdYwokR6C6KMs2XZH8,Viceroy Central Park New York
+120,40.7604746,-73.9880019,0.9,2.5,7.0,ChIJ-4dOHFRYwokRS2MaHOVd3WM,Econo Lodge Times Square
+121,40.75802,-73.9749775,0.6,3.0,7.0,ChIJu6kY43RawokRnmczCmSH-_s,Lotte New York Palace
+122,40.7554202,-73.9823776,0.8,3.0,7.0,ChIJpSMN7_9YwokRkCnu6yqV-Rk,Royalton New York
+123,40.7575008,-73.9700082,0.9,2.5,7.0,ChIJB1QFaONYwokRd566RKNxjbM,Courtyard New York Manhattan/Midtown East
+124,40.7647021,-73.9773752,0.5,2.5,7.0,ChIJ698lVPdYwokRKFk9Px12FQk,The Quin
+125,40.7581118,-73.983429,1.0,2.5,7.0,ChIJ1eNig1VYwokRaYklB7yT0mo,Broadway @ Times Square Hotel
+126,40.7578857,-73.9837592,0.7,3.0,7.0,ChIJCSBig1VYwokRGLqXYWMv74w,The Kimpton Muse Hotel
+127,40.756744,-73.973837,0.9,4.0,7.0,ChIJTzi6VfxYwokRDtjrgLbTvH4,Waldorf Astoria
+128,40.7571862,-73.9812342,1.0,2.5,7.0,ChIJ96Uaof9YwokRqS9Eb-rsPyg,The Hotel @ Times Square
+129,40.7574214,-73.9838645,0.7,2.5,7.0,ChIJ3YpBd1VYwokRLEOmlKSMn3Q,Room Mate Grace Hotel
+130,40.756252,-73.9714386,0.7,2.5,7.0,ChIJL9YF0_xYwokRhTL1rNk1wME,The Kimberly Hotel
+131,40.7571604,-73.9833158,1.3,2.5,7.0,ChIJaz7WYlVYwokR5RBlzAiHxpw,Hotel St. James
+132,40.758573,-73.989548,0.9,2.5,7.0,ChIJmR9pnVNYwokRqHaZ7QNK4fE,Intercontinental New York Times Square
+133,40.7561,-73.970992,0.7,2.5,7.0,ChIJS-P2K-NYwokReedP72Q0NlA,Fifty NYC
+134,40.75602,-73.9724449,1.3,2.5,7.0,ChIJw8jO2PxYwokRh5R3sWGnwC0,W New York
+135,40.75575,-73.973452,1.1,2.5,7.0,ChIJd0IHD_1YwokRDNtaRxktO4M,Intercontinental New York Barclay
+136,40.755679,-73.97211,1.1,2.5,7.0,ChIJ_6VUJP1YwokRkyOwrhW8ytk,Best Western Plus Hospitality House
+137,40.760241,-73.9959774,1.6,2.5,7.0,ChIJF7GMl01YwokRmRIs_AxP9r0,Travel Inn Hotel
+138,40.7567555,-73.9843377,0.7,2.5,7.0,ChIJDUW-a1VYwokR6L1u9X92HSM,AKA Times Square
+139,40.756345,-73.982217,0.5,2.5,7.0,ChIJjbRGkv9YwokRopbkOohDlDE,Cassa Hotel 45th Street New York
+140,40.7559436,-73.980187,1.5,2.5,7.0,ChIJR3-eNP5YwokRELLrZn6A4H8,Holiday Inn Express New York City Fifth Avenue
+141,40.7554222,-73.9726915,1.0,2.5,7.0,ChIJ7VuNF_1YwokRljM85_XB7yU,New York Marriott East Side
+142,40.75603,-73.981337,1.1,2.5,7.0,ChIJS7d0yP9YwokR0apO6V0EPjQ,Club Quarters Hotel, Midtown
+143,40.7564316,-73.9842868,1.0,2.5,7.0,ChIJWZVoalVYwokRiKS594qHz1g,Hotel Mela
+144,40.7564592,-73.9845479,0.2,2.5,7.0,ChIJ613balVYwokR2Sd7fEqauZs,The Chatwal, a Luxury Collection Hotel, New York City
+145,40.755291,-73.973007,0.8,2.5,7.0,ChIJ6aeZFv1YwokRQ2S6JcGP0_k,Hotel 48LEX New York
+146,40.7579627,-73.9645773,0.8,2.5,7.0,ChIJVxMh2eRYwokRXteR4rg3E0M,AKA Sutton Place
+147,40.7559406,-73.9821117,1.2,2.5,7.0,ChIJTzk87v9YwokR2exR3ZVeQRg,City Club Hotel
+148,40.755436,-73.978108,0.8,2.5,7.0,ChIJk_AcE_5YwokR7431QLgRGAM,The Gotham Hotel NY
+149,40.7558728,-73.9819764,0.4,2.5,7.0,ChIJcRWp7_9YwokRxz99Wmr_Zhc,The Iroquois New York
+150,40.7547022,-73.9734355,0.8,2.5,6.0,ChIJlZOlbf1YwokR9C15XBjlxdQ,Roger Smith Hotel
+151,40.7641784,-73.9949817,1.2,2.5,7.0,ChIJ3dvT1E9YwokRoywVkHxTm6c,Comfort Inn Midtown West
+152,40.7550474,-73.9810776,1.6,2.5,7.0,ChIJsykw2f9YwokRzurrhmMoEnI,The Mansfield Hotel
+153,40.7583093,-73.9947798,1.6,2.5,7.0,ChIJ1_HBYU1YwokR_iNldE5EvCc,Metro Apartments
+154,40.766492,-73.9336329,1.2,2.5,7.0,ChIJk97mgjVfwokRDPgsZDRthjs,Super 8 Long Island City LGA Hotel
+155,40.7567124,-73.9927998,0.5,2.5,7.0,ChIJ8cSQzFJYwokR582FK5BKsZk,Distrikt Hotel New York City
+156,40.7566135,-73.992663,0.7,2.5,7.0,ChIJG5JhL61ZwokR4d7aSIVkF3g,Staybridge Suites Times Square - New York City
+157,40.7564481,-73.9923079,1.0,2.5,7.0,ChIJU_0s01JYwokRvTNwLmqQDEY,Four Points by Sheraton Midtown - Times Square
+158,40.7563987,-73.9924886,0.9,2.5,7.0,ChIJYwxW1VJYwokRTZu3DY8tRwI,Fairfield Inn & Suites New York Manhattan/Times Square
+159,40.7532831,-73.9711262,1.5,2.5,5.0,ChIJm91rq-JYwokRT45xayJrXiw,Vanderbilt YMCA
+160,40.756273,-73.992829,1.0,2.5,7.0,ChIJiePzNq1ZwokRWlec_8oT1JU,Hampton Inn Manhattan/ Times Square South
+161,40.756279,-73.992947,0.7,2.5,7.0,ChIJG5JhL61ZwokRnJIYIY4nbVg,Candlewood Suites New York City Times Square
+162,40.7557439,-73.9915558,1.6,2.5,7.0,ChIJ27Du26xZwokRYyVpEVuZTTE,Comfort Inn Times Square South
+163,40.7557983,-73.9917782,0.9,2.5,7.0,ChIJCQeW2KxZwokRcFA1jngEs_8,Element New York Times Square West
+164,40.7525789,-73.9713762,0.5,2.5,7.0,ChIJ44hwswJZwokRNU7abYxgTUc,AKA United Nations
+165,40.752839,-73.98095,0.6,2.5,7.0,ChIJ8-Y8XgBZwokRsEH1qIwmChU,Andaz 5th Avenue
+166,40.7574377,-73.9986577,1.6,2.5,7.0,ChIJF_EKzUxYwokRWYyPtq-h5jQ,Magnuson Convention Center Hotel
+167,40.754775,-73.991067,2.4,2.5,7.0,ChIJiaWI5axZwokR5NXy7cJgMQI,Manhattan Broadway Hotel
+168,40.7527062,-73.9725136,1.5,2.5,7.0,ChIJiW0WvwJZwokRIWyzCvo3o5k,Wyndham Midtown 45
+169,40.752124,-73.981083,1.1,2.5,7.0,ChIJzT6g9gBZwokRXCp_-VjhYMk,Courtyard New York Manhattan/Fifth Avenue
+170,40.7528438,-73.9859636,1.0,2.5,7.0,ChIJUyVsVKpZwokRwyknPdvbprs,Residence Inn New York Manhattan/Times Square
+171,40.7516345,-73.9790926,1.5,2.5,7.0,ChIJ3TH9CwFZwokRB7gdOhj0exc,Dylan Hotel
+172,40.7522068,-73.9853708,0.6,2.5,7.0,ChIJl6r9TqpZwokRqsh-zI3NRs0,Refinery Hotel
+173,40.750959,-73.972216,0.8,2.5,7.0,ChIJXWOUJgNZwokR0VrAkVbSZkM,Hampton Inn Manhattan Grand Central
+174,40.754334,-73.99414,1.2,2.5,7.0,ChIJl64LeK1ZwokR7u2JvudWqgM,DoubleTree by Hilton Hotel New York - Times Square South
+175,40.7553166,-73.9973521,1.6,2.5,7.0,ChIJzQhU8LJZwokRwz8prI_a5F8,Quality Inn Convention Center
+176,40.75053,-73.969444,1.1,2.5,7.0,ChIJEU2H4BxZwokRNsE531E6mZM,ONE UN New York
+177,40.750369,-73.973953,0.8,2.5,7.0,ChIJTQ_vCwNZwokRuxUsMUImL5M,The Westin New York Grand Central
+178,40.7539223,-73.9494071,1.4,2.5,7.0,ChIJ3WLA6dlYwokR81I-XRvWxEc,Ravel Hotel
+179,40.7512435,-73.9848667,0.6,2.5,7.0,ChIJRXHwO6pZwokRJewZmciclE4,The Strand Hotel
+180,40.7511669,-73.9845479,0.9,2.5,7.0,ChIJu7vQO6pZwokR0H_dAkHRyXQ,Fairfield Inn & Suites New York Manhattan/Fifth Avenue
+181,40.764393,-73.982607,0.5,2.5,7.0,ChIJFW5PCPhYwokRHIA6ooz5dVQ,Residence Inn New York Manhattan/Central Park
+182,40.752379,-73.991199,1.4,2.5,7.0,ChIJy6vSMKxZwokR67SnIyQnBxY,Wingate by Wyndham Manhattan Midtown
+183,40.7496467,-73.9762878,1.2,2.5,7.0,ChIJA5_N8QNZwokRtSgGptyUP_k,Seton Hotel
+184,40.7498687,-73.9797197,1.0,2.5,7.0,ChIJSy13KwFZwokRRswL0oBiHng,70 Park Avenue Hotel
+185,40.749992,-73.9809504,1.8,2.5,7.0,ChIJ00Iw0gBZwokRPcEnWA-nhJE,NH Jolly Madison Towers
+186,40.749478,-73.971875,1.8,2.5,5.0,ChIJEeuVRwNZwokR_dVqI2ApUhE,Hilton Manhattan East
+187,40.7502318,-73.9837629,0.2,2.5,7.0,ChIJMYIE-KlZwokRycIVPvElep8,Langham Place, New York, Fifth Avenue
+188,40.756003,-73.941466,0.7,2.5,7.0,ChIJP3NE19NYwokR_rbtO1DMppQ,Sleep Inn
+189,40.7506039,-73.9860472,0.6,2.5,7.0,ChIJNz28f6lZwokRG7XqHzfM0Us,Holiday Inn Express Manhattan Times Square South
+190,40.74981,-73.981129,0.8,2.5,7.0,ChIJx4xoMwdZwokRljVzooZSJSM,Morgans New York
+191,40.7494703,-73.9777704,1.2,2.5,7.0,ChIJFfgorQZZwokRIZhD77mzNyE,The Court - A St Giles Premier Hotel New York
+192,40.75119,-73.984596,0.7,2.5,7.0,ChIJ79ykPapZwokRwqBwCrWPPWw,SpringHill Suites New York Midtown Manhattan/Fifth Avenue
+193,40.7495306,-73.9798551,0.6,2.5,7.0,ChIJuVfl1AZZwokRkFnqI4l6_EU,The Kitano New York
+194,40.8176316,-73.9466646,5.0,2.5,7.0,ChIJaxd_PnD2wokRmdavSUo2nbI,Allie's Inn Bed & Breakfast
+195,40.7492193,-73.9763858,1.3,2.5,7.0,ChIJS7uGBwRZwokRmPf42MZu3w0,Murray Hill East Suites
+196,40.7558344,-73.9410685,1.2,2.5,7.0,ChIJh0W82tNYwokRk-pWEkG3qYQ,Best Western Plaza Hotel
+197,40.7595726,-73.9870887,1.7,3.0,7.0,ChIJmzdAP1RYwokRmZAtbkFvlq4,Paramount Hotel
+198,40.7502872,-73.9863911,0.7,2.5,7.0,ChIJj3HneqlZwokRSLaBk4rvMcw,Hampton Inn Manhattan-35th St/Empire State Bldg
+199,40.7500815,-73.986072,0.6,2.5,7.0,ChIJs7IqeKlZwokRlpCSZp2ALCE,Hotel Metro New York
+200,40.7568704,-73.9844513,0.8,2.5,7.0,ChIJg56VbFVYwokRWbuhFlj0ZEY,The Premier Hotel New York
+201,40.753181,-73.974512,0.9,2.5,7.0,ChIJobQtYwJZwokRSkKFrVxEGik,Club Quarters Hotel, Grand Central
+202,40.752156,-73.995159,0.7,2.5,7.0,ChIJ8yCgBrJZwokRL09ISkkQwBs,Fairfield Inn & Suites New York Midtown Manhattan/Penn Station
+203,40.758075,-73.975368,0.8,2.5,7.0,ChIJq6wTbPxYwokRAFSU2xCgptg,The Towers at Lotte New York Palace
+204,40.7649803,-73.9783327,1.2,2.5,7.0,ChIJVTdcW_dYwokRoiN-lwmxZG8,Salisbury Hotel
+205,40.7644691,-73.9744877,0.5,4.0,7.0,ChIJYaVdffBYwokRnTOoCzCq9mE,The Plaza
+206,40.7805859,-73.9810966,0.6,2.5,7.0,ChIJk_trlYlYwokR_-YnHRnfqYk,Hotel Beacon
+207,40.7596485,-73.986132,1.6,2.5,7.0,ChIJq38lzVVYwokRDhgb0tE_sC0,Hotel Edison
+208,40.7802598,-73.945991,1.1,2.5,7.0,ChIJ8chHwq9YwokRcIXTNY1pbCU,Courtyard New York Manhattan/Upper East Side
+209,40.749086,-73.9837068,1.1,2.5,7.0,ChIJ9fnl56lZwokR3sfRq4PmKfk,Hotel 373 Fifth Avenue
+210,40.7483624,-73.9879009,1.2,2.5,7.0,ChIJk5Yr2KhZwokRXH_ZR7btGdI,Radisson Martinique on Broadway
+211,40.7482339,-73.987454,1.1,2.5,7.0,ChIJoS_d36hZwokRtJmqzJNEsrs,Hotel Stanford New York
+212,40.7497142,-73.9957025,1.9,2.5,7.0,ChIJY3CCzLFZwokRvTBHVZTPPKY,Riff Chelsea
+213,40.7478353,-73.9864992,1.0,2.5,7.0,ChIJ3fZz-6hZwokRul77rQFZXo0,La Quinta Inn & Suites Manhattan
+214,40.748342,-73.994637,1.1,2.5,7.0,ChIJXzk5v6hZwokR6aBXNc1gjQU,Holiday Inn Express Nyc Madison Square Garden
+215,40.74723,-73.987004,1.1,2.5,7.0,ChIJ5_uwwKhZwokRykJmdId_ffw,Herald Square Hotel
+216,40.747202,-73.989978,0.5,3.0,7.0,ChIJ_U_NR69ZwokRkOaA92AjJ4U,Kimpton Hotel Eventi
+217,40.7470111,-73.9913739,1.2,2.5,7.0,ChIJ1-macK9ZwokRQAbWUXznXjA,DoubleTree by Hilton Hotel New York City - Chelsea
+218,40.7466702,-73.9866854,1.2,2.5,7.0,ChIJl-7lkahZwokRycfAXa0Tv_o,Wolcott Hotel
+219,40.7466796,-73.9846108,0.8,2.5,7.0,ChIJJ2SiaqhZwokRZJ22ZidkSco,The Avalon Hotel
+220,40.7467198,-73.9917768,1.1,2.5,7.0,ChIJzcTNeK9ZwokR_k7nzAKe2_I,Hotel Indigo New York City - Chelsea
+221,40.7466079,-73.9914765,1.0,2.5,7.0,ChIJ0xgafK9ZwokRixdC-73WCX4,Hilton Garden Inn New York/ Manhattan-Chelsea
+222,40.7483536,-73.977846,0.9,2.5,7.0,ChIJCdj3vAZZwokRC6_23bTOr5s,Shelburne NYC, an Affinia Hotel
+223,40.7462092,-73.99144,1.0,2.5,7.0,ChIJgXlbh6VZwokRbhvJi3Dvi2o,Fairfield Inn & Suites New York Manhattan/Chelsea
+224,40.7459342,-73.9851868,0.8,2.5,7.0,ChIJ0xq7fKhZwokRwf3BoZ_i8R4,Hotel Chandler New York City
+225,40.745595,-73.984195,0.7,2.5,7.0,ChIJv6KqDahZwokRhKsCVGiUoJg,The Roger New York
+226,40.7505311,-74.0033991,1.1,2.5,7.0,ChIJLS7K_7ZZwokR8b4MjGtTK08,Hotel Americano
+227,40.7449631,-73.9885493,0.5,2.5,7.0,ChIJ-eorCqZZwokRU-91WeuBj6w,The Nomad Hotel
+228,40.7445066,-73.9890815,1.0,2.5,7.0,ChIJNSqI2KVZwokRqDfSCaCYgK4,Broadway Plaza Hotel
+229,40.744558,-73.984587,1.1,2.5,7.0,ChIJW48HxKdZwokRJl80L3KXcYA,The Redbury New York
+230,40.74495,-73.9942389,1.4,2.5,7.0,ChIJ-eArMKVZwokRnKTYspOYmuE,Four Points by Sheraton Manhattan Chelsea
+231,40.7440286,-73.9869573,1.2,2.5,7.0,ChIJH4GkW6ZZwokR9TZqm6sXzXQ,The Evelyn
+232,40.7440223,-73.9893361,1.1,2.5,7.0,ChIJgcd90aVZwokROXowppOHnY0,Flatiron Hotel
+233,40.74457,-73.9818134,1.0,2.5,7.0,ChIJSRDADAhZwokR4YTn63TTlQ8,Hotel 31
+234,40.7441347,-73.9832507,1.4,2.5,7.0,ChIJ0QWi9KdZwokRNjBKIyQxLmo,Clarion Hotel Park Avenue
+235,40.7435367,-73.9862288,1.5,2.5,7.0,ChIJ5xRdUaZZwokR2e0Zsl9EYrg,The MAve NYC
+236,40.7438807,-73.9812125,1.5,2.5,7.0,ChIJscNXaghZwokRVnv-s_OPVFs,Ramada New York/Eastside
+237,40.743628,-73.9931469,0.9,2.5,7.0,ChIJTzYJ56RZwokRNxDpngJ0fh0,Hampton Inn Manhattan-Chelsea
+238,40.7431933,-73.9901183,1.1,2.5,7.0,ChIJr9hyM6RZwokRUxI8r-vIktM,Heritage Hotel New York City
+239,40.7432782,-73.9910191,1.2,2.5,7.0,ChIJmfPuRKRZwokRkHUKmzQ49hI,Wyndham Garden Manhattan Chelsea West
+240,40.7428031,-73.9830678,0.8,2.5,7.0,ChIJ5QZ6gKdZwokRBdxQSJKrBqk,Park South Hotel
+241,40.7446403,-73.9993732,1.5,2.5,7.0,ChIJTwFUybtZwokRTaeS1iEsTlI,Gem Hotel - Chelsea, An Ascend Hotel Collection Member
+242,40.744878,-73.999983,0.8,2.5,7.0,ChIJsXmO0btZwokRwynj1-BY2sY,Colonial House Inn
+243,40.7421174,-73.984741,0.7,2.5,7.0,ChIJPS6wE6dZwokR9SZxhHay_FI,Hotel Giraffe
+244,40.7461268,-74.0048919,0.7,3.0,7.0,ChIJ-1XDX7hZwokRHLjn63mDetU,The High Line Hotel
+245,40.7385229,-73.9856332,0.8,2.5,7.0,ChIJ2YfN_aBZwokRjuOd2LzekC0,Gramercy Park Hotel
+246,40.7402471,-74.0030962,2.2,2.5,7.0,ChIJMRX2Ub5ZwokROCYDU6a83k0,Hotel 309
+247,40.7402918,-74.0034123,0.2,2.5,7.0,ChIJnYYGU75ZwokRFQBV3A_Jlnk,Chelsea Pines Inn
+248,40.736579,-73.988603,0.8,2.5,7.0,ChIJpX1_-aFZwokRnSNMK95ppp4,W New York - Union Square
+249,40.739921,-74.0057586,1.0,2.5,7.0,ChIJE02ojL9ZwokROU4RMbSR_HI,Gansevoort Meatpacking NYC
+250,40.7409232,-74.008111,0.8,3.0,7.0,ChIJN-93ZsBZwokRKqmdupb-XFA,The Standard, High Line
+251,40.7348192,-73.9846557,1.1,2.5,7.0,ChIJCU_R7J9ZwokRJM6NSRTv1hY,Hotel 17 New York
+252,40.7382803,-74.0093997,1.2,2.5,7.0,ChIJ7eAGYupZwokR7JF4wWDS5MM,The Jane Hotel
+253,40.7325,-73.998692,0.8,2.5,7.0,ChIJs_xsNJFZwokRhqdldztPi2U,Washington Square Hotel
+254,40.7293539,-73.9898467,1.5,2.5,7.0,ChIJl3GCkJtZwokRdwxzDrGAFh4,St Marks Hotel
+255,40.7278783,-73.9907891,0.8,2.5,7.0,ChIJgWmjF5tZwokRiP8Uj3l8gXE,The Standard, East Village
+256,40.7495292,-73.9517235,1.2,2.5,7.0,ChIJz02KaSdZwokRG1YYOPmgK3E,Wyndham Garden Long Island City Manhattan View
+257,40.7500195,-73.9412934,1.3,2.5,7.0,ChIJc44U5NVYwokR_CRas-JQdhY,Comfort Inn
+258,40.755175,-73.9365974,2.0,2.5,7.0,ChIJU1pzMNNYwokRrILJL1NqAhU,Ramada Long Island City
+259,40.752166,-73.935624,1.3,2.5,7.0,ChIJ8XDoSStfwokRokHK7TgDnms,Verve Hotel, an Ascend Hotel Collection Member
+260,40.7533677,-73.9339343,1.2,2.5,7.0,ChIJD6a3oyxfwokR6GwgxEH9EK0,Hotel Vetiver
+261,40.7520201,-73.9344792,1.3,2.5,7.0,ChIJ6Z7FQStfwokRiV4PZCJuKUc,Quality Inn
+262,40.727566,-74.005879,0.7,2.5,7.0,ChIJT0DdRo1ZwokRkufwSD-TdGM,Courtyard New York Manhattan/SoHo
+263,40.7248889,-73.9985375,1.1,2.5,7.0,ChIJzyx3-o5ZwokR9DTHgZ521n8,The Mercer
+264,40.72697,-74.006192,1.1,2.5,7.0,ChIJ0f8UMY1ZwokRb9wR5codn2g,Four Points by Sheraton Manhattan SoHo Village
+265,40.7254695,-74.0053343,0.8,2.5,6.0,ChIJazM5w4xZwokRr28B0Zb4tCE,Trump SoHo New York
+266,40.723144,-73.990236,1.7,2.5,7.0,ChIJRy7taYRZwokRfnCpq8qqtwg,Gatsby Hotel, an Ascend Hotel Collection Member
+267,40.7230126,-73.997417,0.4,2.5,7.0,ChIJpYIgKY9ZwokRMt2wXGRZ1fg,Crosby Street Hotel
+268,40.7239619,-74.0031077,0.9,2.5,7.0,ChIJn5JZY4xZwokRGuB2wgUuMos,SIXTY SoHo Hotel
+269,40.7436904,-73.9273336,1.8,2.5,7.0,ChIJrV7j69ZewokRyw0BpULOlJM,La Quinta Inn Queens (New York City)
+270,40.7360226,-73.9341323,1.9,2.5,7.0,ChIJD4dOGc1ewokRlZsut_cEgqE,City View Inn
+271,40.7362002,-73.936708,1.2,2.5,7.0,ChIJ-0-o1zJZwokRHHda5AWw89k,Fairfield Inn New York Long Island City/Manhattan View
+272,40.7368721,-73.9280344,1.7,2.5,7.0,ChIJZ91HJc5ewokRBLSt5VngFbk,Red Roof Inn QUEENS
+273,40.742656,-73.9115584,1.8,2.5,7.0,ChIJa0e7Y-BewokR1BdwpdmN8YM,Quality Inn
+274,40.7378255,-73.9537094,0.5,2.5,7.0,ChIJIcUvdjxZwokR7SMTXclK5Pc,The Box House Hotel
+275,40.7270195,-73.9532781,1.2,2.5,7.0,ChIJPS1AsUZZwokRfambmOUxaD8,Greenpoint YMCA
+276,40.726393,-73.9072111,1.6,2.5,7.0,ChIJM59TE-tewokREVDGYRaj50I,Holiday Inn Express Queens - Maspeth
+277,40.7499515,-73.9374943,1.2,2.5,7.0,ChIJFd1mFdVYwokRa2H13ptXTQk,Q4 Hotel
+278,40.7208944,-73.9554315,1.0,2.5,7.0,ChIJaw29yFxZwokRZNBXqJAWZtQ,McCarren Hotel & Pool
+279,40.767672,-73.905814,0.7,2.5,5.0,ChIJR6wGD2xfwokRxltquPnyWQ0,Fairfield Inn by Marriott New York LaGuardia Airport/Astoria
+280,40.75142,-73.935123,0.9,2.5,6.0,ChIJoQEYMitfwokRlum3uRghW9E,Fairfield Inn & Suites New York Queens/Queensboro Bridge
+281,40.7390866,-73.8880034,1.7,2.5,7.0,ChIJI1zBdVVewokRvgqlRskGsUs,Hotel Q New York
+282,40.764429,-73.886738,2.5,2.5,7.0,ChIJAzi5Qp5fwokRWxCvHq_-Oes,Airway Inn at LaGuardia
+283,40.7043572,-73.9376704,0.7,2.5,7.0,ChIJbXM8y_hbwokRpiIT0G7-Tp8,NY Moore Hostel
+284,40.7671723,-73.8966808,1.3,2.5,7.0,ChIJEeAO3HNfwokRrhaeArbQRrw,Westway Hotel & Hostel
+285,40.750395,-73.985816,0.9,2.5,7.0,ChIJq7MzgKlZwokRzkp9sskfGV8,Hyatt Place New York/Midtown-South
+286,40.7290389,-73.904781,1.4,2.5,7.0,ChIJMUkrIexewokRsalvWGR63Y0,Comfort Inn & Suites Laguardia Airport
+287,40.691398,-73.9845409,1.0,2.5,7.0,ChIJf_pNZktawokReRbW-4GgV0U,Aloft New York Brooklyn
+288,40.691435,-73.984531,1.2,2.5,7.0,ChIJuw1VZ0tawokRJbjRretbzwM,Sheraton Brooklyn New York Hotel
+289,40.6912126,-73.9841095,0.9,2.5,7.0,ChIJd6tqXUtawokR6ktE_of5qTU,Hotel Indigo Brooklyn
+290,40.6886601,-73.9886532,0.8,2.5,7.0,ChIJd_2i1k1awokRLE53o5sdZ08,NU Hotel
+291,40.68054,-73.983481,0.9,2.5,7.0,ChIJqV3RpFRawokRPr-hSqO5pmk,Fairfield Inn & Suites By Marriott New York Brooklyn
+292,40.679214,-73.983116,2.1,2.5,7.0,ChIJNw_kzFRawokRESt-098Pb7Q,Union Hotel, An Ascend Hotel Collection Member
+293,40.6781608,-73.984431,1.6,2.5,7.0,ChIJqelgPVVawokRx4ZXqXaIHew,Holiday Inn Express New York-Brooklyn
+294,40.7081065,-74.0013876,0.9,2.5,7.0,ChIJHVAgsjxawokRubPAV8hL_mk,Best Western Plus Seaport Inn Downtown
+295,40.7050627,-74.0061767,1.7,2.5,7.0,ChIJ7xcL8z1awokRPFmLkB9tXHc,Eurostars Wall Street
+296,40.681562,-74.006223,1.5,2.5,7.0,ChIJBZ9p1F9awokRPmJeI5w7ouE,Brooklyn Motor Inn
+297,40.708883,-74.00203,0.9,2.5,7.0,ChIJJe9tSCNawokRctegHjoZK-o,Hampton Inn Manhattan-Seaport-Financial District
+298,40.7055616,-74.0071891,0.9,2.5,7.0,ChIJuydjIhZawokRG1-vnBMShEw,Holiday Inn Express New York City-Wall Street
+299,40.7051609,-74.008124,0.5,2.5,7.0,ChIJbd_WExZawokRbBhzy1Hc4Ms,Andaz Wall Street
+300,40.680051,-74.005935,1.7,2.5,7.0,ChIJxbj-5F9awokRRTukNhEd9MI,Comfort Inn Red Hook
+301,40.7046417,-74.0103215,0.7,2.5,7.0,ChIJ_7B6nRZawokRRg3UBR5XohI,The Wall Street Inn
+302,40.7079177,-74.0072143,0.8,2.5,7.0,ChIJNfKP5xdawokRyCFSWap_ogE,Gild Hall
+303,40.7136097,-73.9936334,1.3,2.5,7.0,ChIJHXf7kyhawokR4l7whUY9R4U,Hotel 91
+304,40.6732603,-73.9870895,1.2,2.5,7.0,ChIJyafC7v5awokRmgKhrJt1GK0,Hotel Le Bleu
+305,40.70672,-74.008815,1.1,2.5,7.0,ChIJ-ziaVBZawokRj7B7C4qAWPY,Club Quarters Hotel, Wall Street
+306,40.714137,-73.9938651,2.2,2.5,7.0,ChIJw2JajihawokRn7PkGt0sSDU,Mayor Hotel
+307,40.7039468,-74.012356,1.4,2.5,7.0,ChIJ0fci9hNawokRJVR9hdTAt80,DoubleTree by Hilton New York City Financial District
+308,40.708985,-74.0091629,1.1,2.5,7.0,ChIJPTJohhdawokR5-M2cwZ2WDo,Holiday Inn New York City-Wall Street
+309,40.6992512,-73.9591455,0.9,2.5,7.0,ChIJ3yM80elbwokRcZez-cr-iv8,Pointe Plaza Hotel
+310,40.7152511,-73.9994765,0.7,2.5,7.0,ChIJGcnS2CZawokR2T8vG-n1_5k,Hotel Mulberry
+311,40.7166782,-73.9949362,1.1,2.5,7.0,ChIJiVxQ_SdawokR4D1mrT8onkM,Comfort Inn Manhattan Bridge
+312,40.7170783,-73.9953373,1.1,2.5,7.0,ChIJCQoR-CdawokR-IYo_NWTz2s,Wyndham Garden Chinatown
+313,40.711251,-74.0102962,1.0,2.5,7.0,ChIJh-L3uxlawokRDwLmkKwLIvY,The Millenium Hilton
+314,40.717396,-73.9959457,2.8,2.5,7.0,ChIJx-Py9SdawokRw3naoIDNYBU,Sun Bright Hotel
+315,40.709217,-74.013711,0.9,2.5,7.0,ChIJUXPOvRBawokR2iT8sI7Mq3U,W New York - Downtown
+316,40.7185788,-73.989838,1.2,2.5,7.0,ChIJjadrJIdZwokRg-ePuGXTdSw,Blue Moon Hotel
+317,40.6687298,-73.9929897,1.3,2.5,7.0,ChIJbfSN6_pawokRLgPnk-HHjsE,La Quinta Inn & Suites Brooklyn Downtown
+318,40.709595,-74.013876,0.7,2.5,7.0,ChIJ9TRDoBBawokR5gdcflPqvjE,Club Quarters Hotel, World Trade Center
+319,40.7184293,-73.9951831,1.0,2.5,7.0,ChIJkzxFc4hZwokRoNVRLPGrvOc,Best Western Bowery Hanbee Hotel
+320,40.7056439,-74.0174953,0.6,4.0,7.0,ChIJU8eb_BFawokRJUHmNa83dSk,The Ritz-Carlton New York, Battery Park
+321,40.719762,-73.988093,0.9,3.0,7.0,ChIJAZJEOIFZwokRW2wqvoRYkM8,Hotel on Rivington
+322,40.719434,-73.9947186,1.1,2.5,7.0,ChIJ98gO1YdZwokR5CQeeK9hCKk,Sohotel
+323,40.7203383,-73.9881219,1.4,2.5,7.0,ChIJI-vVRYFZwokRoc8kQXbTOP8,Comfort Inn
+324,40.7159471,-74.0073669,1.2,2.5,7.0,ChIJ7UBKbh9awokRsLNXAfxLoHs,Duane Street Hotel
+325,40.7151997,-74.0091202,0.4,2.5,7.0,ChIJ_1qwJx9awokRl0bFrNhhRBs,Smyth, a Thompson Hotel
+326,40.715475,-74.008909,1.0,2.5,7.0,ChIJYSjtGB9awokRvtwfGw4UEpc,Cosmopolitan Hotel Tribeca
+327,40.7197687,-73.9989773,1.1,2.5,7.0,ChIJtRQRo4lZwokRcr3b1ZW0L3o,The Solita Soho Hotel, An Ascend Hotel Collection Member
+328,40.7206308,-73.9953539,0.7,2.5,7.0,ChIJB6VxnIhZwokRJMCgC4HaAQM,The Nolitan Hotel
+329,40.719883,-74.000157,0.9,3.0,7.0,ChIJM8mGj4lZwokRSbZBvNOVNKM,NOMO SOHO
+330,40.7220729,-73.9885083,1.0,2.5,7.0,ChIJXzu49YNZwokReLKTeGP1_PE,SIXTY LES Hotel
+331,40.7219874,-73.9936795,1.5,2.5,7.0,ChIJTwUiDIZZwokR6NkBJCir1Ws,The Bowery House
+332,40.7193951,-74.0048395,0.7,2.5,7.0,ChIJteYXl4pZwokRyx61ICQfyH8,The Roxy Hotel
+333,40.7182762,-73.9862337,0.9,2.5,7.0,ChIJM36R_oBZwokRJLeeu_r-7R8,Holiday Inn NYC - Lower East Side
+334,40.715015,-74.015249,0.5,2.5,7.0,ChIJ-8HrdxtawokREfw5AkGs_Os,Conrad New York
+335,40.720864,-74.005445,0.7,2.5,7.0,ChIJgwIJ14pZwokRsaE1jN-3W_8,Hilton Garden Inn New York/Tribeca
+336,40.719822,-74.0098607,0.5,3.0,6.0,ChIJTWkuhfVZwokRvaommqZ2oqA,The Greenwich Hotel
+337,40.7226824,-74.00485,0.6,3.0,7.0,ChIJq9ZiaYtZwokRK60-dYxlsLo,The James New York
+338,40.723867,-74.005273,1.2,2.5,7.0,ChIJt_urp4xZwokR7Rt6Tk0IaKU,Hampton Inn Manhattan-SoHo
+339,40.6602481,-73.9985618,1.1,2.5,7.0,ChIJ_RDSpOlawokREo6D8L5rq18,Best Western Plus Prospect Park Hotel
+340,40.7007563,-73.9405305,1.8,2.5,7.0,ChIJs0MplflbwokRRsY2Ez1DPpw,Sumner Hotel
+341,40.7134464,-73.9928974,1.0,2.5,7.0,ChIJMfwrwihawokR67IhRCN0xX8,Fairfield Inn & Suites New York Manhattan/Downtown East
+342,40.732629,-73.9968658,0.6,2.5,7.0,ChIJuac4MpdZwokRPSTvSd3DmME,The Marlton Hotel
+343,40.6587891,-73.9577408,0.4,2.5,7.0,ChIJo0yWlGxbwokRuf1rPUy438U,Lefferts Manor Bed & Breakfast
+344,40.714713,-73.9931072,1.4,2.5,7.0,ChIJKy0hWShawokRKSNsQTmguhY,Howard Johnson Manhattan Soho
+345,40.6904765,-73.9811354,5.0,2.5,7.0,ChIJD963m7RbwokREMCvU9Ug0_w,BNAIP Intern & Student Housing
+346,40.6522394,-74.0050193,2.1,2.5,7.0,ChIJfYIuC8dawokRCFYfQQYTezY,Days Inn Brooklyn
+347,40.6628658,-73.9980002,1.5,2.5,7.0,ChIJ7SQXKelawokRm6Sv5xf8Dlc,Sleep Inn
+348,40.7199106,-73.9831711,0.5,2.5,6.0,ChIJ65Kl4oFZwokRVfuYD6-U4hM,Sanctuary NYC Retreats
+349,40.7271802,-73.9921623,1.2,2.5,7.0,ChIJNao20ZpZwokRsL8vS8h_Mg8,Lafayette House
+350,40.7218887,-73.9580971,0.8,2.5,7.0,ChIJucbIy0JZwokRvgoW5tnNHM0,Wythe Hotel
+351,40.6813649,-73.984562,1.4,2.5,7.0,ChIJQ34cYFNawokRL3ABr6bcDFI,Red Lion Inn & Suites Brooklyn
+352,40.7284059,-73.9850707,1.4,2.5,7.0,ChIJ53BQpp1ZwokR4P5e0Nk5e5s,East Village Hotel
+353,40.7260867,-73.9921614,2.3,2.5,7.0,ChIJRehmL4VZwokRcHY9s1Kw7Vc,Bowery's Whitehouse Hotel of NY
+354,40.7186487,-73.9925872,1.7,2.5,7.0,ChIJdf8HsIdZwokRPDg3c5PfsYU,Windsor Hotel
+355,40.656598,-74.003342,1.5,2.5,7.0,ChIJ1WFtqsFawokREP-2JB6N6y8,Hotel BPM Brooklyn
+356,40.7188724,-73.9950847,0.6,2.0,7.0,ChIJmS85cYhZwokR7013k7BaZYw,Capitale
+357,40.7362184,-73.9966292,0.7,2.5,7.0,ChIJPzlfwZdZwokRBQGVyJJiJCM,Walker Hotel Greenwich Village
+358,40.7190384,-74.0016848,1.3,2.5,7.0,ChIJIe8qEopZwokRO4PyE5yWVaE,Tribeca blu
+359,40.717468,-73.9949346,3.0,2.5,7.0,ChIJdzH8A4hZwokRYOMOXt-6ZD0,New World Hotel
+360,40.7229214,-73.9893621,0.9,2.5,7.0,ChIJ81Hnc4RZwokRfWWztzfiGu0,Hotel East Houston
+361,40.6974452,-73.9589089,0.7,2.5,7.0,ChIJW_Ff9-lbwokR4wSluIZLi4c,Condor Hotel - Williamsburg, Brooklyn
+362,40.7241288,-73.9784756,0.5,2.5,7.0,ChIJGfbt53lZwokRknAlStqO9a4,East Village Bed & Coffee
+363,40.7080233,-73.9560099,1.7,2.5,7.0,ChIJ6eG_tAb2wokR4r-1F9X2wvU,International Student Residence
+364,40.722055,-74.004447,0.7,2.5,7.0,ChIJH8Pll4pZwokR8v9iZ3fgZ-Q,Soho Grand Hotel
+365,40.6504655,-74.0030568,1.7,2.5,7.0,ChIJ-Z6RScZawokRSCju-5bBbYY,Red Carpet Inn Brooklyn
+366,40.7160818,-73.9951885,0.4,2.5,7.0,ChIJARle5ydawokRY-2v6RClKzk,The Leon Hotel
+367,40.6590809,-73.9586426,1.2,2.5,7.0,ChIJ0WROxmxbwokRo0PpULAor78,Serenity at Home Guest House
+368,40.7031044,-74.0123645,0.9,2.5,7.0,ChIJTxnhdxRawokRh21EGO7ZEqs,Hampton Inn Manhattan/Downtown-Financial District
+369,40.7298303,-74.0012505,5.0,2.5,7.0,ChIJm2ENJZJZwokRywAO0VuPcIs,Minetta Suites Hotel
+370,40.6978041,-73.9930027,0.9,2.5,7.0,ChIJS0YD5zdawokRY0jTwjuKSl4,St George Hotel
+371,40.734654,-73.996098,1.0,2.5,7.0,ChIJp1shdZdZwokRs14DLbCrpYI,Larchmont Hotel
+372,40.7330969,-73.986342,1.2,2.5,7.0,ChIJv8on_J5ZwokR4gUHgxgRdVU,Union Square Apartments
+373,40.719825,-74.000076,1.1,2.5,5.0,ChIJM8mGj4lZwokRWqyD_feWwNI,Mister H
+374,40.7122242,-73.992694,1.2,2.5,7.0,ChIJH2m3zShawokRXyUcpf6ipa0,Comfort Inn Near Financial District
+375,40.678023,-73.9450426,1.7,2.5,7.0,ChIJ7T90AYVbwokR_x7WpJCEqqk,Hotel Lynx
+376,40.6764542,-73.9684402,1.1,2.5,7.0,ChIJb7_hqqdbwokRKGw3V57WuHs,The Sofia Inn
+377,40.7213701,-73.9993458,0.7,2.5,7.0,ChIJP3yIa4lZwokR-01FuhDu-vI,The Broome Hotel
+378,40.7081035,-73.9560595,1.8,2.5,7.0,ChIJkRfOI-FbwokRgeeiuzPusZ0,B Hotel and Hostel
+379,40.7154853,-74.0040315,5.0,2.5,7.0,ChIJLUturiFawokRqWpW9e2Xb3Q,Federal Protective Service
+380,40.7359652,-73.9871034,5.0,2.5,7.0,ChIJFQa-2KFZwokR3IcXmgXlh-8,Inn At Irving Place
+381,40.7256564,-73.9903408,0.5,2.5,7.0,ChIJH5lBuIRZwokRxXEN7e1Ymok,East Village Apartments
+382,40.7182232,-74.0026983,0.8,2.5,3.0,ChIJh7EhnSBawokROF_mYcYdm9c,Eden Day Spa
+383,40.658706,-73.9590172,5.0,2.5,7.0,ChIJ706JtmxbwokRFB9vtrpAS9Q,Lefferts Garden Bed and Breakfast
+384,40.7228172,-73.9894241,5.0,2.5,7.0,ChIJmxnWc4RZwokR-emQOkJHL_g,Soho New York Lodging LLC
+385,40.6671568,-73.975546,5.0,2.5,7.0,ChIJp-Iv8wRbwokRYjPqCAKQgU0,Park Slope Bed and Breakfast
+386,40.682505,-73.932676,0.6,2.5,7.0,ChIJTZ5Yi3ZcwokRKS-1rp2DwxU,Akwaaba Mansion
+387,40.7189771,-73.994395,2.8,2.5,7.0,ChIJFT7_2YdZwokRWwv5qpV05OM,Bowery Grand Hotel
+388,40.7166865,-73.9953895,1.9,2.5,7.0,ChIJu9E15SdawokRwx0W6imj1P8,Manhattan Bowery Lodge
+389,40.6924776,-73.9923629,5.0,2.5,7.0,ChIJLXaB0khawokR7xKRUmoZz0Q,Packer Summer Day Camp
+390,40.7264116,-74.0088736,0.7,2.5,7.0,ChIJwz3PA_NZwokRPj6-eZIAc5Q,Hotel Hugo
+391,40.7111926,-73.9429236,5.0,2.5,7.0,ChIJtXSCFFZZwokRs0GnM3tGkQ4,Brooklyn Arthouse Deluxe
+392,40.735964,-73.987068,1.1,3.0,3.0,ChIJFQa-2KFZwokRE89uuDTQsdE,Lady Mendl's Tea Salon
+393,40.7298997,-73.9993408,0.7,1.0,6.0,ChIJtdLanpFZwokR31y0jfXWuuI,SHADE BAR NYC
+394,40.734646,-73.9880727,0.9,2.5,7.0,ChIJydq1OZ9ZwokR4RdP6may_Cg,Seafarers & International House
+395,40.684107,-73.959302,5.0,2.5,7.0,ChIJN4DF2JdbwokRqXvthCeKky0,Brooklyn Suites - Furnished Apartment Rentals - Clinton Hill Location
+396,40.733381,-73.990235,0.6,2.5,7.0,ChIJZQhAJJlZwokRyL7BAxqSduI,Hyatt Union Square New York
+397,40.7052502,-74.016215,5.0,2.5,5.0,ChIJjUw7LxJawokRRJ9bpAqYr2w,Downtown Athletic Club
+398,40.724677,-74.00971,5.0,2.5,7.0,ChIJPU6YhPNZwokRHpO-7RRIoTM,The Canal Park Inn
+399,40.7109336,-73.9655297,5.0,2.5,7.0,ChIJaYBh1NhbwokR6pv2cCcJrWY,Bridge Seal B&B
+400,40.672491,-73.9917702,0.6,2.5,7.0,ChIJ0b6Gf_lawokReZ8TkhZ9CIg,Celeste Guest House
+401,40.705732,-74.013969,5.0,2.5,6.0,ChIJu6dYXBFawokR6EBfCmfWimA,Your World Vacations
+402,40.7238431,-73.9995495,5.0,2.5,6.0,ChIJIWTSvo5ZwokR61bqU55Y8uY,The Alaska House
+403,40.6858162,-73.9884728,0.9,2.0,6.0,ChIJ7-cwHFJawokRYc2hTrsF-gs,Brooklyn Inn
+404,40.6815265,-73.9951496,5.0,2.5,7.0,ChIJ2flz7FlawokRgYjLuKKvOu0,Carroll Gardens House
+405,40.7322854,-73.9885494,5.0,2.5,7.0,ChIJVVVVVcZZwokRnt6BBNtOeyM,Parsons The New School for Design
+406,40.7221165,-73.9886525,1.5,2.0,5.0,ChIJXzu49YNZwokRGE5ABlfFk44,Above Allen
+407,40.7257378,-73.9968285,5.0,2.5,5.0,ChIJrUjFuo9ZwokRJmPOTX-ycjw,Felix Rey
+408,40.695686,-73.9839742,0.4,2.5,7.0,ChIJHZKNpkpawokR2ZDLbgRD26s,Hampton Inn Brooklyn/Downtown
+409,40.6974811,-73.9587678,0.6,2.5,7.0,ChIJ-y_v-OlbwokR5Re8Ev067qc,The Condor Hotel
+410,40.7061846,-74.01571,5.0,2.5,7.0,ChIJxdrskBFawokRQEVBq_5DHJ8,Aurora Deluxe B&B
+411,40.7310188,-74.0048433,1.1,2.0,3.0,ChIJw4UQHpNZwokRFoesUz-GbeY,Snack Taverna
+412,40.6815626,-73.9470202,5.0,2.5,7.0,ChIJhaqE5Y9bwokRcnGY9bN-5wg,Sankofa Aban Bed & Breakfast
+413,40.7094856,-73.9514481,5.0,2.5,7.0,ChIJ7zWzROJbwokRyS_fwWfphEQ,Billyburg Inn
+414,40.708049,-73.956112,5.0,2.5,7.0,ChIJucglIuFbwokRVd5bPLsQOTo,B Hotel & Hostel
+415,40.7258311,-73.9968847,5.0,2.5,7.0,ChIJQzh3uY9ZwokRtP9lkwbxU2A,USA Welcome LLC
+416,40.7385531,-73.985895,5.0,2.5,6.0,ChIJ2YfN_aBZwokRvLwNKEIEiDE,Jade Bar at Gramercy Park Hotel
+417,40.7099828,-74.0086795,5.0,2.5,7.0,ChIJld2QOhhawokRtPNDNs5-AF4,17 John St Associates
+418,40.7263209,-73.9912862,5.0,2.5,7.0,ChIJqVc60oRZwokRdpBSK-zvOjY,Three East Third Dorm
+419,40.677838,-73.971973,5.0,2.5,7.0,ChIJ0xVBl6hbwokRtSsPoU-9wXA,Garden Green Bed & Breakfast
+420,40.7059252,-74.0048473,0.7,2.5,4.0,ChIJ-cLamD1awokRhIfng6G7DqA,Fairfield Inn New York Manhattan/Financial District
+421,40.715519,-74.0088438,5.0,2.5,7.0,ChIJ-wlUIh9awokRJRy-PL2wIRg,Bond Hotel
+422,40.6936518,-73.990858,5.0,2.5,5.0,ChIJicsKEUlawokRr8JDpp3S6WM,Camp Kinderland Inc
+423,40.678427,-73.993652,5.0,2.5,7.0,ChIJ5WY16VdawokR0YjMFcH_RCg,Inn on Second
+424,40.7179141,-73.9953772,1.9,2.5,7.0,ChIJWfX_BYhZwokRqo5pp7vdw-8,U.S. Pacific Hotel
+425,40.7278061,-73.9925385,5.0,2.5,7.0,ChIJE614w5pZwokRjiZYfIvr6kk,Andre Balazs Properties
+426,40.7212778,-73.9984457,5.0,2.5,7.0,ChIJfYJEF4lZwokRlMwbjmhTvmI,Elegant Too
+427,40.6723957,-73.9829749,5.0,2.5,5.0,ChIJbS-K3wFbwokR5S2TTzAs7aE,Kim's Kids Summer Camp, Inc
+428,40.7130994,-73.9493826,5.0,2.5,7.0,ChIJaXlfSlhZwokRgrxEtusf8IM,The Williamsburg Guesthouse
+429,40.7235639,-73.9879485,5.0,2.5,7.0,ChIJ3yDFgoNZwokRX3WQWsEVLZg,Hampshire Brands
+430,40.7258592,-73.9910064,5.0,2.5,7.0,ChIJ331Yz4RZwokRUlbbJpeWjOU,Third Street Men's Shelter
+431,40.6693812,-73.9494856,5.0,2.5,7.0,ChIJw_onvXdbwokR-WWVNPCDyJE,Parkway Suites
+432,40.7056275,-74.0076321,5.0,2.5,7.0,ChIJey-BPhZawokRAnQE62CNK7g,Hotel Outsource Management International Inc
+433,40.7286411,-73.979681,5.0,2.5,7.0,ChIJH3g59HZZwokRnboxxOPdHqw,East Village Suites
+434,40.7096234,-73.9398681,2.0,2.5,7.0,ChIJaTAKiVVZwokRGE8hHcZUMxA,Bushwick Hotel
+435,40.7051392,-74.0062351,5.0,2.5,7.0,ChIJjfbc9D1awokRwfkYeQzOPxE,Exchange Hotel
+436,40.6795666,-73.9774657,5.0,2.5,7.0,ChIJR1q7_KtbwokRNYGxtKY8b0s,Community Be Good Guest House Bed and Breakfast
+437,40.6701229,-73.9738083,5.0,2.5,7.0,ChIJRff0eAZbwokRAH_APohKid4,Calder's Flat
+438,40.671565,-73.971349,2.5,2.5,7.0,ChIJlTbQKQZbwokRr6fJzx2R8EQ,At Home In Brooklyn
+439,40.7236471,-73.9875615,5.0,1.0,7.0,ChIJLTMxdYNZwokRbNvB1Obvi-I,Waikiki Wally's
+440,40.7074764,-74.0122945,5.0,2.5,7.0,ChIJMw2wKhdawokRFNnREvyOn5k,ALLCITY Extended Stay
+441,40.7189731,-73.997659,5.0,2.5,6.0,ChIJSftbNYhZwokR-Vv5SXy51pA,Mulberry Suites
+442,40.7303118,-73.9939988,5.0,2.5,7.0,ChIJmbJve5pZwokRH4E27C-8Gyo,Village Apartments
+443,40.6889121,-73.9887719,5.0,2.5,4.0,ChIJ6evc1U1awokRMFPciEGcRtw,Misdemeanor
+444,40.6865274,-73.9529571,5.0,2.5,7.0,ChIJs0yaV5FbwokR-pJnc-sUy0o,Yellow Block Bed & Breakfast
+445,40.6757041,-73.9810847,5.0,2.5,5.0,ChIJD332dQBbwokRYSXrpz33oIA,Night and Day
+446,40.6740702,-73.9566719,5.0,2.5,5.0,ChIJE1twrZ9bwokR0Nyfokl_QoQ,Bk Bound Vacation Rentals
+447,40.698268,-73.956177,5.0,2.5,7.0,ChIJhzdTDOlbwokRktKdHIKsBek,Condor
+448,40.7170701,-73.9978055,5.0,2.5,7.0,ChIJBXlAeCdawokRdseXVl6kbt4,Tropical Productions
+449,40.7104228,-74.0068403,5.0,2.5,7.0,ChIJo9qmdBhawokRUC9CeeHpYT4,Palmy Inn Productions
+450,40.7065668,-74.0090422,5.0,2.5,7.0,ChIJa168WRZawokRQeW3LEKbsGw,Rai Hotel Acquisition Group
+451,40.6926714,-73.9860434,1.2,2.5,7.0,ChIJLwn1oEtawokRp4-8IYE05Z0,Brooklyner
+452,40.6964453,-73.9843605,1.2,2.5,7.0,ChIJmWCzYDVawokRMF8GPwpHxXI,Dazzler Brooklyn
+453,40.6978152,-73.9939694,5.0,2.5,7.0,ChIJ9bYn5TdawokRhY42lkV0pWk,New York University-Clark Street Residence Hall
+454,40.6905106,-73.9808366,5.0,2.5,7.0,ChIJkxevYrNbwokRYcxlN-OWsQc,British North American Internship Program
+455,40.6873557,-73.9825546,1.1,2.5,7.0,ChIJmSP_y7JbwokRRj_zLiH8EvE,Holiday Inn Brooklyn Downtown
+456,40.665627,-73.784744,1.1,2.5,7.0,ChIJYVL1t-dmwokRJfvPlVd3ZXY,Best Western Jfk Airport Hotel
+457,40.6656024,-73.7842343,1.6,2.5,7.0,ChIJ0UPl6edmwokR6d5rYomFoEo,Days Inn Jamaica - JFK Airport
+458,40.6661763,-73.7822914,2.9,2.5,7.0,ChIJZaYNEehmwokR-BbeDiBKeo8,JFK Inn
+459,40.6676385,-73.7864943,1.7,2.5,7.0,ChIJ_XHigN1mwokRK7RneOx0C_4,Garden Inn & Suites
+460,40.6665005,-73.7800694,0.9,2.5,7.0,ChIJi8RA1OlmwokRorQgjXISzck,Fairfield Inn New York JFK Airport
+461,40.6685436,-73.7813111,1.6,2.5,7.0,ChIJoypg7MJmwokRpzC_FRvDnhc,Howard Johnson Inn Jamaica JFK Airport NYC
+462,40.6672669,-73.7940004,0.9,2.5,7.0,ChIJn3dIO-BmwokRx73btKlDuZk,Courtyard New York JFK Airport
+463,40.667479,-73.794837,1.1,2.5,7.0,ChIJi5pe3x9nwokR2pTa8hZw0_Y,Hampton Inn NY-JFK
+464,40.6673566,-73.7957355,1.3,2.5,7.0,ChIJXzr_7B9nwokRIENMrfJN6VY,Hilton New York JFK Airport
+465,40.6658461,-73.8062638,1.6,2.5,5.0,ChIJLQD6-BlnwokR7pMRUpSeSVE,Hilton Garden Inn Queens/JFK Airport
+466,40.6657449,-73.8066809,1.4,2.5,7.0,ChIJqdccVRdnwokR9WvrYsuGyxQ,Sheraton JFK Airport Hotel
+467,40.6836101,-73.8068415,1.7,2.5,7.0,ChIJtZ9P3jFnwokRFy0il1E4k6w,La Quinta Inn & Suites JFK Airport
+468,40.7052633,-73.7822936,1.3,2.5,7.0,ChIJlaffNz1hwokR0QibYoX3ZJs,Sleep Inn Jfk Airport
+469,40.7026388,-73.81247,1.7,2.5,7.0,ChIJMZm4dcZgwokR9Xs8oUN8MNg,Knights Inn JFK Airport NYC
+470,40.6672965,-73.7984382,1.6,2.5,7.0,ChIJ6--xBB9nwokRCjahSChwI8M,Radisson Hotel JFK Airport
+471,40.665437,-73.785168,1.9,2.5,7.0,ChIJzWrnsedmwokRn-Ty0VpKtfE,Comfort Inn JFK Airport
+472,40.7090028,-73.7972847,1.7,2.5,7.0,ChIJEz_meOBgwokRFQUcgnFqb8Q,Ramada Jamaica/Queens
+473,40.6767864,-73.8249553,2.5,2.5,7.0,ChIJ83bM60NnwokRFWFdyFLzDk4,Econo Lodge
+474,40.6499121,-73.8372359,1.3,2.5,7.0,ChIJU8wWtoZnwokRNIWurgS7khc,Surfside Motel
+475,40.6672332,-73.7994976,1.1,2.5,7.0,ChIJ89kXPR9nwokRcos07uBve4M,Crowne Plaza Jfk Airport New York City
+476,40.7026173,-73.8152367,2.2,2.5,7.0,ChIJNaxANMZgwokRWkBf66zP2GQ,Lexington Inn at JFK Airport
+477,40.668949,-73.7815625,1.3,2.5,7.0,ChIJ0X2w58JmwokR9Zj7xGM0lAs,Sleep Inn Jfk Airport Rockaway Blvd
+478,40.7028569,-73.812985,5.0,2.5,7.0,ChIJz04bccZgwokR0Ib5vVOLaSg,AAE New York Hostel
+479,40.6675903,-73.7833195,1.7,2.5,7.0,ChIJ4bmB-tdgwokR5A9xBv8EPI4,Super 8 Jamaica North Conduit
+480,40.6996768,-73.8111353,1.7,2.5,7.0,ChIJm2i0Rs9gwokR5rfvkonGgjk,Howard Johnson Jamaica NY Near AirTrain JFK
+481,40.6454195,-73.7852071,5.0,2.5,7.0,ChIJm0ZZVFdmwokRQZTVWFjQX40,Alliance Hotel Reservations
+482,40.6722148,-73.7959879,1.5,2.5,7.0,ChIJS5JxkiBnwokRXyFaYCmGbL0,JFK BED & BREAKFAST
+483,40.645119,-73.7848138,5.0,2.5,7.0,ChIJm0ZZVFdmwokRz0eMTsYmBso,Accommodations Plus Inc
+484,40.6598559,-73.7705243,5.0,2.5,7.0,ChIJCWDAWpNmwokRTs09b5C3-BU,Marriott Maintenance Corporation
+485,40.6395952,-73.7436123,1.2,2.5,7.0,ChIJibMyofhmwokREyNwXiMwwZs,Holiday Inn New York JFK Airport
+486,40.6682181,-73.7809105,1.6,2.5,7.0,ChIJpYiG7cJmwokRGqKrVmYfRpY,Airport Motor Inn
+487,40.6437458,-73.7818638,5.0,2.5,7.0,ChIJQ8ytUepjwokRNc8uaE6PcSI,Smarte Carte Inc
+488,40.6589027,-73.765479,5.0,2.5,6.0,ChIJxfIPAZRmwokRjYRUrKoaHPM,Compare Hotel Rates
+489,40.6680391,-73.783104,2.9,2.5,7.0,ChIJCbspH91mwokRYxQdawmeJlc,Rodeway Inn Near JFK Airport
+490,40.6673122,-73.7985184,5.0,2.5,7.0,ChIJw_CsBB9nwokRV1ATWOkC0IY,Ramada Inn
+491,40.6666645,-73.7361685,5.0,2.5,4.0,ChIJOyApnhBkwokR8Ba3gUJxzVE,Mona Prep
+492,40.6989407,-73.8007181,0.9,2.5,7.0,ChIJwVGcrtBgwokRsNtlVzw6a3g,Days Inn & Suites Jamaica JFK Airport
+493,40.693348,-73.824554,5.0,2.5,7.0,ChIJw5nAVrNgwokRHiXX8NR8KG4,AP Photo & Video Studio
+494,40.7057454,-73.7987767,1.3,2.5,7.0,ChIJmQ92SsZgwokRpfKUXe3TlXM,Comfort Inn
+495,40.671251,-73.842636,2.2,2.5,7.0,ChIJA0z6BIpdwokR8VMPK6EzGzg,Crossbay Motor Inn
+496,40.6719275,-73.8129412,5.0,2.5,7.0,ChIJfVysBj5nwokRgGeuszOg27c,Eaglestay
+497,40.6550116,-73.8387324,5.0,2.5,6.0,ChIJCczUlu1nwokRWBTYKQ6pEKo,Crossbay Motor Inn
+498,40.6738965,-73.7277673,5.0,2.5,7.0,ChIJJZn8XQFkwokRfJpHioRFkxU,Robert Miller Associates
+499,40.6659993,-73.7790513,2.0,2.5,5.0,ChIJvdjY3OlmwokRjALmXSHHlgA,China Inn Express
+500,40.6438897,-73.7820817,5.0,2.5,7.0,ChIJ5aPXw1lmwokRiQnVZPdTNbw,Host International Inc
+501,40.6673122,-73.7985184,2.9,2.5,7.0,ChIJw_CsBB9nwokR9-7wA2o9mnE,DoubleTree
+502,40.6673883,-73.7985013,5.0,2.5,7.0,ChIJ6Y7OBB9nwokRYzMsXMYujkk,lexington inn
+503,40.6712616,-73.8032959,5.0,2.5,5.0,ChIJnQAxZyJnwokRQka5OgJlGxs,Ardhanishwar Mandir
+504,40.665749,-73.806255,5.0,2.5,7.0,ChIJ-Zgs_xlnwokRpvbg-anYgYQ,Garden Inn
+505,40.6771983,-73.8031462,5.0,2.5,7.0,ChIJ71h5USRnwokRMYss2uaIBd4,Crown Plaza
+506,40.6685159,-73.8192849,5.0,2.5,7.0,ChIJDxBZRmtnwokRKf2vmV-NBu8,NY Crashpad
+507,40.668575,-73.822099,5.0,2.5,7.0,ChIJqXcNkGtnwokR0EPaO8tIZsQ,Crashpad
+508,40.6834741,-73.7512898,5.0,2.5,7.0,ChIJSwgE3FRhwokRMAxiH9ip1BU,Monikerr's Townhouse
+509,40.6968931,-73.7911265,5.0,2.5,7.0,ChIJOwzj8ihhwokRYgKPVbFeUBc,Lebanon Lodge
+510,40.6811077,-73.7405106,5.0,2.5,7.0,ChIJbfzaofhjwokRpzrPGh3HHyo,Abode
+511,40.7032254,-73.8016194,5.0,2.5,7.0,ChIJFcRiRdlgwokRm3bEEpy9btA,Best Choice Discount
+512,40.6998781,-73.8145529,5.0,2.5,7.0,ChIJJ5ck7MhgwokRlRHp4PT0M5Q,Lincoln Atlantic Motor Inn Inc
+513,40.7054665,-73.8027059,5.0,2.5,7.0,ChIJY5PvbtxgwokRBYISvqYfgFA,Path Shelter
+514,40.7055331,-73.80838,5.0,2.5,7.0,ChIJeUCEncRgwokRkAWuS0FZqxg,H & G Hotel Corporation
+515,40.7406268,-74.0060203,0.6,2.5,7.0,ChIJQy-Jj79ZwokRBqj3oqd0q7c,Soho House New York
+516,40.7432453,-73.999046,1.8,2.5,7.0,ChIJ6YqhkrtZwokR88lSnKlwZ5g,Chelsea International Hostel
+517,40.7439778,-73.996092,1.4,2.5,7.0,ChIJmwcyPbtZwokRqukL1h9BzK0,Chelsea Savoy Hotel
+518,40.7438524,-73.9840767,1.1,2.5,7.0,ChIJz_ekk6dZwokRp0S_5kTYwE4,Gansevoort Park Avenue NYC
+519,40.739512,-73.9822415,1.3,2.5,7.0,ChIJnRQyDwpZwokRrkYPdUU9JRw,The Marcel At Gramercy
+520,40.742447,-74.0039062,0.8,2.5,7.0,ChIJPTCEJr9ZwokROGgsXOTMZms,The Maritime Hotel
+521,40.7410391,-74.0082567,1.0,2.5,5.0,ChIJN-93ZsBZwokRpyoeLj9bzqQ,Le Bain
+522,40.7473814,-73.9862974,1.1,2.5,7.0,ChIJA34-5ahZwokRtVmPqibesEw,nyma, The New York Manhattan Hotel
+523,40.7507908,-74.0041432,0.4,2.5,5.0,ChIJFTweVbZZwokRNkSu_ncOwJs,The McKittrick Hotel
+524,40.7401133,-73.9828756,0.5,2.5,7.0,ChIJJXrc9QlZwokRnHkGeuThFo0,Carlton Arms Hotel
+525,40.7419124,-74.0085794,0.4,2.5,7.0,ChIJS7_57cBZwokR1cGVNBJHGrU,Liberty Inn
+526,40.7437155,-74.0009529,0.6,2.5,7.0,ChIJxZ21XrlZwokReklxbPLEEuU,Chelsea Lodge
+527,40.7469246,-73.9930734,0.8,2.5,5.0,ChIJW8GS9K9ZwokRjwR6ie5wKjA,New York Habitat
+528,40.7438423,-73.9831275,1.2,2.5,7.0,ChIJeSqeiqdZwokRTbI-RPAIC4M,Hotel Deauville
+529,40.748223,-73.991199,0.7,2.5,7.0,ChIJFQEgD69ZwokR3_UUCqb0gTg,Courtyard New York Manhattan/Chelsea
+530,40.745607,-73.9998883,1.1,2.5,5.0,ChIJp8v1MLpZwokRrCh4faGuWi0,The Leo House
+531,40.748049,-73.990182,0.9,2.5,7.0,ChIJuyEmPa9ZwokRE0zkFnH6YDk,Hampton Inn
+532,40.7461645,-73.9833645,0.7,2.5,7.0,ChIJffqrHqhZwokRXrmHxEOIpvk,Hotel 32 32
+533,40.7382408,-74.0094121,0.7,2.0,6.0,ChIJ7eAGYupZwokRDL2qRdwav4Y,Jane Ballroom
+534,40.7454415,-73.977903,0.5,2.5,7.0,ChIJRy49EwZZwokRreGD6COv0PI,New York Budget Inn
+535,40.7409488,-73.9834386,0.6,2.5,7.0,ChIJlWdWV6dZwokRSsGTfWfAPCI,Lex Hotel NYC
+536,40.7471514,-73.9917766,1.1,2.5,5.0,ChIJ0Rnwdq9ZwokRKxDqQaBUK78,Simple Studios - rehearsal space
+537,40.7441667,-73.9895701,5.0,2.5,6.0,ChIJB4BC0KVZwokRVZl1BNQ3F7M,Micato Safaris
+538,40.6467084,-73.9968469,1.6,2.5,7.0,ChIJ2xynvc9awokRZSpyMvD2hOU,Kings Hotel
+539,40.6490972,-74.0150499,1.8,2.5,7.0,ChIJFdAs-LBawokR2SJKw7_JmBg,Sleep Inn
+540,40.6772048,-73.931605,1.6,2.5,7.0,ChIJwQGdv3lcwokRK2sYK1dITDE,Atlantic Motor Inn
+541,40.6364781,-73.9937889,0.7,2.5,7.0,ChIJ42O8QS1FwokRi1k6SsRpets,Park House Hotel
+542,40.6440248,-73.9878908,1.5,2.5,7.0,ChIJw_4O29ZawokRJRc2loT7NZ8,Sleep Inn Prospect Park South
+543,40.6364019,-73.9912022,0.8,2.5,7.0,ChIJxT3S6SxFwokRPvS3zBMr4CE,Avenue Plaza Hotel
+544,40.6581954,-73.9557411,5.0,2.5,7.0,ChIJMapGb2xbwokRPPbikSoIYlc,Casa Bonita B&B
+545,40.6581313,-73.9620451,5.0,2.5,7.0,ChIJ7WQSghRbwokRrjmJpy1E818,parkside bed and breakfast brooklyn
+546,40.6674488,-73.9509688,5.0,2.5,5.0,ChIJnckA3HZbwokR5EwbkUOOn5k,Four Seasons
+547,40.6827241,-73.9339294,5.0,2.5,5.0,ChIJR64oaHZcwokRFEZGd4UTEbU,Macon Manor
+548,40.6869803,-73.9824378,5.0,2.5,7.0,ChIJ22fKt7JbwokRsYywg72CrzA,Steppingstone Residence
+549,40.6875331,-73.9818856,1.0,2.5,7.0,ChIJGc9ew7JbwokRlin0NckKwsM,EVEN Hotels Brooklyn
+550,40.6835598,-73.9664136,5.0,2.5,7.0,ChIJOdezTLtbwokR5LZ_RXJkQRk,UNITED HAJJ TRAVEL
+551,40.661439,-73.997636,5.0,2.5,7.0,ChIJ44O74uhawokRs0Acr4Xlx70,Howard Johnson
+552,40.675761,-73.9534822,5.0,2.5,7.0,ChIJ87UXHpxbwokRyn_m2LowTHA,Oyo Bed and Breakfast
+553,40.6830358,-73.9534739,5.0,2.5,7.0,ChIJneb9yZBbwokRpSj5k87dFVw,Brooklyn Houze
+554,40.678853,-73.9512442,0.7,2.5,7.0,ChIJeXrnrJtbwokRC3B9Tp-iHLk,The Brooklyn A Hotel
+555,40.6590886,-73.9587791,5.0,2.5,5.0,ChIJD11-yGxbwokRkWbVQlX6PXk,Lefferts Garden Suite
+556,40.6517772,-74.0044257,1.0,2.5,7.0,ChIJx_0JpsdawokRsyOO6RbwbxA,Wyndham Garden Brooklyn Sunset Park Hotel
+557,40.650024,-73.9658089,5.0,2.5,7.0,ChIJY1SjGDxbwokRmztrIWQBd-w,A & Faye Bed and Breakfast
+558,40.7039915,-74.0110917,5.0,2.5,6.0,ChIJ35sSqi2sw4kRneNxf_R46oU,Study Abroad Apartments
+559,40.7055787,-74.0083779,5.0,2.5,7.0,ChIJo8rwQRZawokRvJu1iYJA440,Brown Sharon L
+560,40.7060081,-74.0088151,5.0,2.5,7.0,ChIJJ-NqWxZawokRzbiaA3Qt2uw,wearebty hq
+561,40.7060081,-74.0088151,5.0,2.5,7.0,ChIJJ-NqWxZawokRZHqR0HnCa-s,BTY grand lodge
+562,40.707452,-74.006392,1.3,2.5,7.0,ChIJRSCYYT1awokRviir9Iw_Cqo,Four Points by Sheraton New York Downtown
+563,40.6701398,-73.9424446,5.0,2.5,7.0,ChIJt-BOqHhbwokRxuzGG4Bq4JM,Eshel Hotel
+564,40.665629,-73.94411,5.0,2.5,7.0,ChIJV6owfXlbwokRKe-Z7PYG_ro,Peretz Inc
+565,40.7070864,-74.007817,5.0,2.5,7.0,ChIJ21LTzhdawokRhO_BKW14_AM,holiday inn
+566,40.7103728,-74.0067316,1.4,2.5,7.0,ChIJV1SvDBhawokR7cvd4TTrcHA,Aloft Manhattan Downtown - Financial District
+567,40.7084385,-74.0136868,1.0,2.5,7.0,ChIJF1VuxBBawokR2RHRIrJX26Y,Riff Downtown
+568,40.7082509,-74.014061,1.0,2.5,7.0,ChIJqfaZ6BBawokRwUMbI6oSFHM,Holiday Inn Manhattan-Financial District
+569,40.7080494,-73.9561122,5.0,2.5,6.0,ChIJsUFvIeFbwokR4VAaQCWPnCk,The B Hotel & Hostel
+570,40.7055787,-74.0083779,5.0,2.5,7.0,ChIJZe-xQRZawokRcf3JlpG03kw,AAAA Services Resource Ind
+571,40.7093932,-74.0128916,5.0,2.5,7.0,ChIJezJerhBawokRJy_9CW727PQ,Courtyard New York Downtown Manhattan/World Trade Center Area
+572,40.7042203,-74.0124588,5.0,2.5,6.0,ChIJ1xE79hNawokR3i0Nu7Tqhc8,Kura River Management Ltd
+573,40.7093441,-74.0140737,5.0,2.5,7.0,ChIJeTrb7RBawokRMm9kPXe_qBg,Marriott
+574,40.6869462,-73.9658262,0.9,2.5,7.0,ChIJOd55jLtbwokRT_vIoPLKRlU,Washington Hotel Corporation
+575,40.67865,-73.9336219,5.0,2.5,7.0,ChIJe0HnKHhcwokRykNzQBcDYJs,PRINCE HOSTEL
+576,40.706339,-73.958943,5.0,2.5,7.0,ChIJiQwyWudbwokR2D0hvN1c3kM,B & B Management Co
+577,40.6973131,-73.938198,5.0,2.5,7.0,ChIJ00zUr_dbwokRuruGERghi6k,SUMNER HOUSES
+578,40.7068089,-74.0094276,5.0,2.5,7.0,ChIJI3aq-BZawokRlNYYkkgOP60,Hart & Co
+579,40.7193235,-73.9874465,5.0,2.5,6.0,ChIJAfSkPIFZwokRq7firjB8gcQ,Breezy Hill Orchard
+580,40.7195238,-73.9848232,5.0,2.5,7.0,ChIJObwBvoFZwokReJlOySbKyjI,East Villiage Guesthouse
+581,40.637972,-73.964943,5.0,2.5,7.0,ChIJ14BKCTRbwokR-jDZIvDzFSg,The Isabella at Ditmas Park Bed & Breakfast
+582,40.7007561,-73.9392613,1.2,2.5,7.0,ChIJ91fktflbwokRCrBZsIIRlco,BKLYN House Hotel
+583,40.7181413,-74.0025244,5.0,2.5,7.0,ChIJd3kwnCBawokR-XjdgZxeUL0,Selfie Space
+584,40.71936,-73.99677,0.2,2.5,7.0,ChIJ51nrRYhZwokRJNjqTsFLYvM,NobleDen Hotel
+585,40.7187086,-74.0005102,0.8,2.5,7.0,ChIJAceR94lZwokRgwQpJIMmwLw,CITY ROOMS NYC SoHo
+586,40.7190192,-74.0016845,1.1,2.5,7.0,ChIJr25wEYpZwokRlpJiPWvnYkU,Soho Garden Hotel
+587,40.7206,-73.9939,5.0,2.5,7.0,ChIJKUHsPIZZwokRM2MoDzzCgBw,The James
+588,40.7211752,-73.9889956,1.0,2.5,7.0,ChIJQwElq4ZZwokRUBB32g_IfQk,Orchard Street Hotel
+589,40.6916113,-73.9864233,1.3,1.0,5.0,ChIJv4ibhktawokRWuOlanxc43o,Lee's Villa
+590,40.7132566,-73.9517382,5.0,2.5,7.0,ChIJ1f8D5FhZwokRLGOP4g4Ml6I,La Quinta Inn & Suites Brooklyn Williamsburg
+591,40.7208865,-73.9973401,5.0,2.5,7.0,ChIJe_SI44hZwokRE-wo3revLd0,New York University-Broome Street Residential College
+592,40.7217754,-73.9878745,0.3,2.5,7.0,ChIJ03EE5oNZwokRVyo_F06puDQ,Hotel Indigo Lower East Side New York
+593,40.7218344,-73.9873537,0.9,2.5,7.0,ChIJ9Xkow4NZwokR9xWefHeEII8,The Ludlow Hotel New York
+594,40.7216894,-73.9920508,5.0,2.5,7.0,ChIJ38IRf4ZZwokRZjOAZn_6LbI,Capital laboratories inc.
+595,40.7220757,-73.988508,0.7,2.5,7.0,ChIJLbf69oNZwokRiEWqaFf1FcM,SIXTY Lower East Side
+596,40.6950777,-73.9957363,5.0,2.5,7.0,ChIJSbfRMkZawokR8novyGOTjl8,Bossert Hotel
+597,40.7221165,-73.9886525,5.0,2.5,7.0,ChIJLbf69oNZwokRWOd5VPgj09s,SIXTY LES
+598,40.7065668,-74.0090422,5.0,2.5,7.0,ChIJR39JUxZawokRIm3nswA9ln8,RCQ Hotel Operator FD LLC
+599,40.6709072,-73.9307073,5.0,2.5,7.0,ChIJKyCqfX5cwokRm_XtQQm8xIY,Brooklyn Hostel
+600,40.6811954,-73.9546615,5.0,2.5,7.0,ChIJpSBi5ZlbwokRNhzLko5NK2I,Third I Sea
+601,40.7222724,-73.9941945,5.0,2.5,7.0,ChIJ5dj4_IVZwokRWw1ONuKtKWY,blue moon hotel
+602,40.695791,-73.9047932,3.0,2.5,7.0,ChIJpxPWwSRcwokRrGgXmdvKboI,Red Carpet Inn
+603,40.6761912,-73.9031325,2.0,2.5,7.0,ChIJy-XnGEVcwokRapAi1AbY9FA,Lexington Inn - Brooklyn NY
+604,40.6577135,-73.8993286,1.7,2.5,7.0,ChIJA5fBaPpcwokR7DOhNixIrE4,Americas Best Value Inn - Brooklyn/Linden Blvd
+605,40.6588425,-73.9308098,2.6,2.5,7.0,ChIJlSWBUoNcwokRsft7xLNL-cc,Comfort Inn Brooklyn City Center
+606,40.6902741,-73.9198454,2.5,2.5,7.0,ChIJGe8qvhNcwokRV2H0sLs2UD4,Kings Hotel
+607,40.6726941,-73.9246289,5.0,2.5,7.0,ChIJoc54qXxcwokRrdRpEJrJJxg,Brooklyn Hostel
+608,40.6879363,-73.9186958,2.4,2.5,7.0,ChIJcfJPZxNcwokRUfjx9Qx65Tg,Neptune Hotel
+609,40.6765349,-73.9002933,2.0,2.5,7.0,ChIJoyfbeE9cwokRZQnSeKo4dJg,Imperial Hotel
+610,40.6683103,-73.9214451,1.3,2.5,7.0,ChIJZ6JPjWJcwokRO7hOhgybwVE,La Quinta Inn & Suites Brooklyn East
+611,40.6704696,-73.9173829,5.0,2.5,7.0,ChIJdSpdQmFcwokRc2UolMHCa_g,Sun Suites 411
+612,40.678527,-73.9110929,5.0,2.5,7.0,ChIJ5eI_Z0JcwokRUZW19QHdVqc,Paper Moon Bed & Breakfast
+613,40.7055,-73.937141,1.4,2.5,7.0,ChIJ9-z7av9bwokRJ3c2nsonS5U,McKibbin Lofts
+614,40.669344,-73.91151,2.3,2.5,7.0,ChIJm86HPl5cwokRIq4_GZf0u4g,Quality Inn
+615,40.67889,-73.907888,1.2,2.5,7.0,ChIJn_solUNcwokRJ8bHBJbBi4w,73 mother gaston blvd
+616,40.667243,-73.9104289,1.2,2.5,7.0,ChIJOb9-u19cwokRV73INuGnEVs,Howard Johnson Brooklyn
+617,40.7122718,-73.9464893,0.3,2.5,4.0,ChIJ8Zy7mVdZwokRrjbANmuKTLc,Urban Cowboy
+618,40.643155,-73.9465929,5.0,2.5,7.0,ChIJP_iH3FpbwokRnnQ9hDTVtv8,Clarendon Gardens
+619,40.6943044,-73.9076731,5.0,2.5,7.0,ChIJP87huTxcwokRaIzimENIZWI,Roberta's Bed and Bagel
+620,40.6432494,-73.9431579,5.0,2.5,7.0,ChIJm9AYy1tbwokRMSHM1PF1SBo,Fisherman's Points
+621,40.7174077,-73.9490633,5.0,2.5,7.0,ChIJt5VRaFpZwokRBF_A36TeFjs,Yotel
+622,40.718063,-73.948473,5.0,2.5,6.0,ChIJtypVfVpZwokRW97MvflS1iU,Leonard Pointe
+623,40.720444,-73.937764,5.0,2.5,2.0,ChIJR6z5EE1ZwokRTUsgTnk_1xA,The Loftmen
+624,40.6806211,-73.8918409,5.0,2.5,7.0,ChIJDURr_0pcwokRvfg2Kalg4Ak,Quality Inn
+625,40.7221193,-73.95703,0.7,2.5,7.0,ChIJT0OO0UJZwokRDV4t1oFOrso,The William Vale Hotel
+626,40.7007064,-73.9540013,5.0,2.5,7.0,ChIJWf4ct-hbwokRRTxKVttW4YU,Studio 12
+627,40.6855994,-73.9851632,5.0,2.5,7.0,ChIJTbC_mlJawokRqyRdkZoWcXU,Boerum Hill Guest House
+628,40.6791735,-73.9478749,5.0,2.5,7.0,ChIJ-csazZpbwokRd54qMBO7gyE,Street On Place
+629,40.6781159,-73.9446731,5.0,2.5,7.0,ChIJiyf3qoVbwokRuVjNJj4NeYE,Hotel gregory, brooklyn, ny
+630,40.678278,-73.9529179,5.0,2.5,7.0,ChIJTSRP25tbwokRgR7wIsJGq_0,atlantic ave armory
+631,40.6787972,-73.9530018,5.0,2.5,7.0,ChIJNUiR0ZtbwokRZV4WEiA8ztM,1440 Euros - Studio
+632,40.681348,-73.9510647,5.0,2.5,7.0,ChIJ5c-reJpbwokR3yZ_gGqyBVk,Arlington Place
+633,40.6744868,-73.9499262,5.0,2.5,7.0,ChIJ8TB3-pxbwokRlH_TkuK7Lcw,Alexa's Beauty Salon
+634,40.675927,-73.942124,5.0,2.5,7.0,ChIJI_heHIRbwokRJ6v62ptS3w4,HEBERGEMENT KAREN BROOKLYN
+635,40.672319,-73.9516639,5.0,2.5,6.0,ChIJVTKnkZ1bwokRWd4mTBRA09w,Madhi Food - Vegetarian Catering - By Appt
+636,40.674937,-73.957148,5.0,2.5,7.0,ChIJlxauB59bwokRGfKfJclARnU,Brooklyn Community Housing & Services
+637,40.6808221,-73.9371728,5.0,2.5,7.0,ChIJWWeKPohbwokRq0X9MuVAQ38,New York Nocleg
+638,40.68539,-73.940135,5.0,2.5,7.0,ChIJc6U2w4tbwokRSNsYONA9NxQ,Urban International Life Hostel
+639,40.668383,-73.951585,5.0,2.5,7.0,ChIJ_QDL73ZbwokR7lpC_ZfJEHU,Brooklyn Apartment
+640,40.686091,-73.938659,5.0,2.5,7.0,ChIJa6J1TIpbwokRWcl7p17cWpY,Reggae Den
+641,40.6714601,-73.9355099,5.0,2.5,7.0,ChIJp2SSg39cwokR7sGo98mTdkE,Hipsters Cove
+642,40.6899278,-73.9443099,2.5,2.5,7.0,ChIJo-xu0YxbwokRrctlyCApVVA,Rhondas Bed and Breakfast
+643,40.6902804,-73.9517143,5.0,2.5,7.0,ChIJjaU2PJNbwokRQH0RHL0-OZM,Edwin Simon, LCSW
+644,40.6651316,-73.9411388,5.0,2.5,6.0,ChIJXU0CqH5bwokRozxqNntAKA0,Hospitality Linen
+645,40.6935125,-73.9542505,5.0,2.5,7.0,ChIJNYMhZetbwokRPi2VARGtDWc,Sally Loft bird
+646,40.67234,-73.9726929,5.0,2.5,7.0,ChIJ-_oFygdbwokRCQg9Lm3HAYg,Baum + Whiteman
+647,40.6949547,-73.9614659,5.0,2.5,7.0,ChIJp0l2T8BbwokRW5285grrlXw,Loft172
+648,40.6734387,-73.9735868,5.0,2.5,7.0,ChIJk7pRmAdbwokRj0HPhcJaU4c,La Casita de Concha-Oida
+649,40.697873,-73.949088,5.0,2.5,7.0,ChIJncm7N-5bwokR88Mrl_GFwyg,Park Manor
+650,40.6755828,-73.9762756,5.0,2.5,7.0,ChIJ93wT5albwokR2TgFqYZWZAs,Bayazit B2B
+651,40.659643,-73.962233,5.0,2.5,7.0,ChIJy4utCxNbwokRxxgO4rytrkw,Rochdale Village Inc.
+652,40.694043,-73.967284,5.0,2.5,7.0,ChIJd2vJZcdbwokRg7MvWaAgTsg,The Justice Manor
+653,40.698935,-73.9397689,5.0,2.5,7.0,ChIJJ0V_ZfdbwokRGqHX1ogwAkY,Park Stronghold
+654,40.6865273,-73.9766382,5.0,2.5,7.0,ChIJ9coOjLFbwokR9vDI_PIBXnc,The One Hundred
+655,40.682194,-73.918711,5.0,2.5,7.0,ChIJ81woBGxcwokR1SD4Rc4mXXc,A & G Bed and Breakfast
+656,40.6712451,-73.9195188,5.0,2.5,7.0,ChIJPfZn82NcwokRTKMER7dmacQ,Omni DCA
+657,40.654835,-73.953656,5.0,2.5,7.0,ChIJvb8H1mtbwokRulH-pwPy_Ws,CASITA
+658,40.6540483,-73.94665,5.0,2.5,7.0,ChIJI4XLMGZbwokRuY2t9n4kDhU,Residential life & Services
+659,40.6945883,-73.972951,5.0,2.5,7.0,ChIJ90k6IchbwokRM5p8J_NlbGg,Pastoral & Education Services Inc
+660,40.703653,-73.957972,5.0,2.5,7.0,ChIJBWzTvedbwokR8C4DXb6VMzY,Ichud Hatalmidim Inc
+661,40.695823,-73.97474,5.0,2.5,7.0,ChIJo9YsyMlbwokR3FIuzTWEE8c,Mario Castillo
+662,40.684236,-73.913973,5.0,2.5,7.0,ChIJA6erlGpcwokRBKA37IB5e9s,Dream Hostel
+663,40.7043562,-73.9376474,5.0,2.5,7.0,ChIJl6lTNP9bwokRo_6sPAT4zx8,NY Moore Hostel
+664,40.6820905,-73.9847416,5.0,2.5,7.0,ChIJycFnaVNawokR7LOVC0wDPHM,Frankie Houses
+665,40.703888,-73.933192,1.0,2.5,7.0,ChIJVe1k1gBcwokR0tMJ6GAssl4,Bogart Hotel
+666,40.7055211,-73.93726,5.0,2.5,7.0,ChIJ5Vqqa_9bwokR9xfpOomQLxU,Hotel Brooklin
+667,40.6690875,-73.9851759,5.0,2.5,6.0,ChIJ7VI-pf1awokR1oV61IjcmYI,Jary Park Plaza Inc
+668,40.7058267,-73.936955,5.0,2.5,7.0,ChIJD7pFbv9bwokRsN__sPLm-e4,Casa Elene
+669,40.695163,-73.917294,5.0,2.5,7.0,ChIJtcxHRxdcwokRPDtO1NJ3LzM,Williamsburg Hostal
+670,40.6708927,-73.9098442,5.0,2.5,2.0,ChIJSeDv011cwokRfF36SCEsUQA,LEE OF ALL TRADES!
+671,40.708135,-73.9562157,5.0,2.5,7.0,ChIJeWk2H-FbwokRUbFOuGE52S8,Internacional student
+672,40.702017,-73.921789,5.0,2.5,7.0,ChIJJ7ZEghxcwokRNE_O_ruHsto,Papi
+673,40.6635769,-73.985805,5.0,2.5,7.0,ChIJJzIdU-JawokRj1KHF2gkhno,DBASTUDIO Jordan Rogove
+674,40.6894094,-73.9882011,5.0,2.5,7.0,ChIJTffiLUxawokR3uAU3YD2yQ4,Hilton Brooklyn
+675,40.6678438,-73.9889715,5.0,2.5,7.0,ChIJ9Qe4WPtawokRUHajU1RA4-w,Park Slope Pups
+676,40.671043,-73.9907103,5.0,2.5,7.0,ChIJsyHSwPtawokR3el0gy4B_5M,202 Hostel
+677,40.674724,-73.905795,5.0,2.5,7.0,ChIJ42CaTVtcwokRPcYrJJxvuhQ,Days Inn Brooklyn
+678,40.707639,-73.92558,5.0,2.5,7.0,ChIJoXg-H6hewokRMeiS5voeUIk,HOMEBASE STUDIOS
+679,40.7068169,-73.9236004,5.0,2.5,7.0,ChIJv4s0Vx1cwokR2OwL7HR21u4,wyndham garden long island city
+680,40.7048154,-73.9198021,5.0,2.5,7.0,ChIJFc-Lxx1cwokRyTaFHP42SXE,Brooklyn Apt
+681,40.7048949,-73.9194159,5.0,2.5,7.0,ChIJv2YixB1cwokRI1bYSZLhlVE,Cristian Ferrari
+682,40.7048949,-73.9194159,5.0,2.5,7.0,ChIJv2YixB1cwokR8A-Uacwo9hg,Casa
+683,40.6687677,-73.9929528,5.0,2.5,7.0,ChIJJQIH6vpawokRBfHhuegejM4,a loft hotel
+684,40.6667317,-73.9922078,5.0,2.5,7.0,ChIJHS3hJeVawokRo-zPwldxb1U,NYC Hostel
+685,40.701025,-73.913355,5.0,2.5,7.0,ChIJe5B4Th9cwokRwy4qoKF5hT8,布魯克林藝站 住的地方
+686,40.7054409,-73.9181033,5.0,2.5,7.0,ChIJk5hlCR5cwokRTxr-cENYlAw,Casa del tio Memo
+687,40.7143328,-73.9539246,5.0,2.5,7.0,ChIJJ3HP015ZwokRQK3wDxqvC2U,Mina Mikhael's apartment
+688,40.697908,-73.906915,5.0,2.5,7.0,ChIJpT8FhiNcwokRoguQCUDNijs,Zach
+689,40.700219,-73.908276,5.0,2.5,7.0,ChIJl4cYYSFcwokR6gDIq_H8CNU,Lol
+690,40.7152161,-73.958692,5.0,2.5,7.0,ChIJvbamOl5ZwokRGUMNkwFVUeI,Pod Hotel
+691,40.6819909,-73.998636,5.0,2.5,7.0,ChIJEQLcbFlawokRfHDmc8FTlKA,The Money Pit
+692,40.7148573,-73.9626577,5.0,2.5,7.0,ChIJsVNEqmFZwokR1h0n1p-29-w,Grand Suites LLC
+693,40.7164442,-73.9487936,5.0,2.5,7.0,ChIJ2YslEVpZwokRxRrPy075zgs,Ramsay
+694,40.6976543,-73.993152,5.0,2.5,7.0,ChIJpxZ63DdawokRfoCw64MUd2w,St George Management Co
+695,40.6433172,-73.9719846,5.0,2.5,7.0,ChIJFcoywy9bwokRJxXoD76VkZU,Casa NY
+696,40.697735,-73.9937916,5.0,2.5,7.0,ChIJjyxF5DdawokRuVZBhgZGSPE,Nyu school of polytecnic brooklyn
+697,40.638563,-73.9453492,5.0,2.5,7.0,ChIJhXkgU1BbwokRN0oc-ucyTjs,Jfk Aiports Intern
+698,40.7186655,-73.951627,5.0,2.5,7.0,ChIJFQipCVtZwokRVnrq8ktau6U,world trade center
+699,40.6392577,-73.9666008,5.0,2.5,7.0,ChIJo8XjXjFbwokRQ7zdfFOStzU,Studio 351
+700,40.644641,-73.98248,5.0,2.5,7.0,ChIJVRZkJChbwokRAQAbTOGj_G4,Tehama Tenants Corporation
+701,40.7018675,-73.9018706,5.0,2.5,7.0,ChIJRwRZySdcwokRFk2yVrCzvjI,Casa Amor
+702,40.719988,-73.9608263,5.0,2.5,7.0,ChIJ3woIn2dZwokRb29mX0TFiKM,PointB
+703,40.6382222,-73.969357,5.0,2.5,7.0,ChIJY9C6ODJbwokRoHzn7jOm5CI,Jewish Education Programs
+704,40.7196995,-73.9648658,5.0,2.5,7.0,ChIJsYLglWZZwokR1OHotNef0OA,Olive Place
+705,40.7533245,-73.9349961,0.8,2.5,7.0,ChIJLZEQpyxfwokRvWi6_2rcWOw,Nesva Hotel
+706,40.7529978,-73.9745696,0.6,2.5,7.0,ChIJ0_McZAJZwokRSd6P31EDubo,Hotel Boutique at Grand Central
+707,40.7520234,-73.9474364,1.2,3.0,7.0,ChIJ3WLA6dlYwokRuzgLA1oIuZI,Z NYC Hotel
+708,40.7547625,-73.9774361,1.5,2.5,7.0,ChIJmSOiBv5YwokR6EhyoFNCayA,The Roosevelt Hotel
+709,40.7544703,-73.9759853,5.0,2.5,7.0,ChIJQUen-f1YwokRr4jyxOjb3C4,Helmsley Enterprises Inc
+710,40.815131,-73.9160135,0.5,2.5,7.0,ChIJCWzLnMj1wokR5ciYSnXHmmw,Opera House Hotel
+711,40.7848803,-73.9816664,1.8,2.5,7.0,ChIJjQod4YdYwokRKljcm5cog2c,Imperial Court Hotel
+712,40.764608,-73.981454,0.7,2.5,7.0,ChIJq05aJPhYwokRAj0fuEBVFoY,WestHouse Hotel New York
+713,40.781897,-73.98194,0.9,2.5,7.0,ChIJM-UOy4lYwokRLNC_cNfAYOM,The Milburn Hotel
+714,40.7985602,-73.9600465,2.9,2.5,7.0,ChIJsZL1fCL2wokRxVli412A6og,Astor on the Park
+715,40.7941584,-73.9748597,2.0,2.5,7.0,ChIJLdGTzyn2wokRBPY0_qJ-sZg,Hotel Alexander
+716,40.8222276,-73.9488395,5.0,2.5,7.0,ChIJd0kI3GT2wokROVaADfdfZ68,Sugar Hill Suites
+717,40.8081676,-73.9509827,5.0,2.5,7.0,ChIJj7t6HBP2wokRINT5VLT1pss,The Harlem Flophouse
+718,40.7616773,-73.9880399,1.0,2.5,7.0,ChIJ0U-MulZYwokRAqJQCS7sUbw,Belvedere Hotel
+719,40.785341,-73.9561646,0.6,2.5,7.0,ChIJxx4f0qNYwokR6ogwEStjnLk,Stay the Night Bed & Breakfast
+720,40.7617382,-73.9852527,1.9,2.5,7.0,ChIJfSszQ1ZYwokRXR1nPUuqhQM,Amsterdam Court Hotel
+721,40.7828986,-73.952773,1.0,2.5,7.0,ChIJbQ4shqRYwokRf4o26aqNav4,92YResidence
+722,40.7652431,-73.972003,0.5,2.5,7.0,ChIJBxesOvBYwokR519Koj1ulDY,The Pierre, A Taj Hotel, New York
+723,40.7643032,-73.9827026,0.8,2.5,4.0,ChIJRcRPCPhYwokR4TR-cHYsphI,Courtyard New York Manhattan/Central Park
+724,40.763491,-73.979764,0.5,2.5,7.0,ChIJlQEQe1RYwokRDHQuwLVVKQc,The Blakely New York
+725,40.7649526,-73.9633824,5.0,2.5,7.0,ChIJhYeKA-lYwokRwbxrT1A_fsE,Bristol Plaza
+726,40.7744864,-73.9831212,0.5,2.5,7.0,ChIJV6D-V_VYwokRPRUFETVCKAw,Phillips Club
+727,40.7862204,-73.9489988,5.0,2.5,7.0,ChIJcfoAPaZYwokRweKosObY3jw,Campus Square East
+728,40.7635573,-73.9723018,5.0,2.5,7.0,ChIJkXlwdPBYwokR8WhYhXCuako,Laitman Samuel H
+729,40.796685,-73.9625822,1.7,2.5,7.0,ChIJmdCc1SP2wokRK9kQWlKfokI,Central Park Apartments
+730,40.7901057,-73.9461205,0.6,2.5,7.0,ChIJgVQTlwL2wokRy5YQ4S9gIvc,Upper Yorkville Suites
+731,40.8111784,-73.944178,0.7,2.5,7.0,ChIJ5bFWBnP2wokRkbqLsjmI-7c,Chez Michelle NYC
+732,40.760184,-73.965885,0.2,2.5,7.0,ChIJA_Aa0-VYwokRgkG3zLyPaPA,Ivy Terrace
+733,40.784287,-73.95064,5.0,2.5,7.0,ChIJvxU8M6RYwokR_wVGCCRJVtU,Wanderers Inn
+734,40.759988,-73.978235,1.1,2.5,7.0,ChIJqQjIRflYwokROxwBdMCJE1Q,Club Quarters Hotel, opposite Rockefeller Center
+735,40.7657302,-73.9542457,0.6,2.5,7.0,ChIJof8P5MNYwokRxKNkJ7IuwDg,Helmsley Medical Tower
+736,40.7833689,-73.97524,5.0,2.5,7.0,ChIJ4VWtZo9YwokR6bd4eo2SApE,Brownstone Bed and No Breakfast
+737,40.7599281,-73.9829769,1.0,2.5,7.0,ChIJAQAAAFtYwokRumD7ih9C_fg,Radio City Apartments
+738,40.7641697,-73.9674314,5.0,2.5,7.0,ChIJc_zyEu9YwokRdjoIjeY4cTc,1871 House
+739,40.7653771,-73.9790722,0.4,2.5,7.0,ChIJpQr2a_dYwokRoYDzhaXxroc,Park Hyatt New York
+740,40.798292,-73.9412566,5.0,2.5,7.0,ChIJ_0_MAgb2wokRGTwYBzyy7DM,Rostel
+741,40.7605661,-73.9863241,1.9,2.5,7.0,ChIJJYb2gVZYwokRACPvkxjVzxw,The Gallivant Times Square
+742,40.79665,-73.970953,1.7,2.5,7.0,ChIJ7WDeGCb2wokRraPGf_92bO0,Hotel 99
+743,40.8065607,-73.9462604,1.4,2.5,7.0,ChIJoT3ilw32wokRBAom-f6kAd4,The International Cozy Inn
+744,40.7644726,-73.983115,0.9,2.5,7.0,ChIJ7QDN4ldYwokRqgAOsPXeQFI,Hilton Garden Inn Central Park South
+745,40.7617011,-73.9752461,5.0,2.5,7.0,ChIJ-zmhTfpYwokRhCTZavY3ZjE,Hong Kong & Shanghai Hotels
+746,40.7834767,-73.9784141,5.0,2.5,7.0,ChIJ5YYLvYhYwokRyRgHCKTSF7s,Empire Hotel Group
+747,40.8047479,-73.9485429,1.1,2.5,5.0,ChIJdWmtBBL2wokRCMZ9tovIOXU,Efuru Guest House & Suites
+748,40.7644681,-73.9702793,5.0,2.5,7.0,ChIJW_dJAkME9YgRrcs1mTZE2pY,Loews Corporation
+749,40.7608506,-73.9716148,5.0,2.5,7.0,ChIJ2z3GYfxYwokRMt9e5g9TP_o,L R Global
+750,40.7619505,-73.9742997,5.0,2.5,7.0,ChIJ1f7JVvpYwokRNfgnuHPemH8,Island Global Yachting Ltd
+751,40.7629523,-73.9842325,2.7,2.5,5.0,ChIJK4VyzldYwokRIrhq1eMq4ws,TOUCH
+752,40.77873,-73.977831,5.0,2.5,7.0,ChIJJctW-4tYwokRnjkEc6SQ31s,The Central Park Bed and Breakfast
+753,40.759293,-73.985601,0.8,2.5,7.0,ChIJfVrZy1VYwokRJ3yWvZD0IYU,W New York - Times Square
+754,40.766288,-73.9825184,5.0,2.5,7.0,ChIJkW0InftYwokR3ysDEHuerf8,Elbow Beach Bermuda
+755,40.7641859,-73.9625732,5.0,2.5,7.0,ChIJR72E_uhYwokRXE8RaAdVDS0,Marriott-Execustay
+756,40.7615112,-73.9849525,0.3,2.5,7.0,ChIJD7NlQVZYwokRUIDluhjtu94,citizenM hotel New York Times Square
+757,40.7644387,-73.9745146,1.3,4.0,4.0,ChIJYaVdffBYwokRCwC_C_S-tbs,The Palm Court
+758,40.773671,-73.9512784,5.0,2.5,7.0,ChIJ9aeRDrlYwokRODhfJHBmELA,City Lights Bed and Breakfast
+759,40.7795429,-73.9866364,2.9,2.5,7.0,ChIJib2demFYwokR4DJ5OCoP7iI,Hotel Riverside Studio's
+760,40.7613647,-73.9826847,1.1,2.5,7.0,ChIJzccxmvhYwokRXi8wgUuxRfY,Executive Plaza at Rockefeller Center
+761,40.8086889,-73.9454778,5.0,2.5,7.0,ChIJb-VrLg32wokRJ6tvettcYfM,Harlem Deluxe Apartment C
+762,40.788589,-73.974737,1.5,2.5,7.0,ChIJWz81f4RYwokRFisTMU1m-_w,Central Park West Hostel
+763,40.7987633,-73.9704417,5.0,2.5,7.0,ChIJi_d78iX2wokRGy9kBiXsiMU,Chocolat Hostel
+764,40.8033829,-73.9493379,5.0,2.5,7.0,ChIJbXDMvxH2wokR_HZ0BIX-qiM,102Brownstone
+765,40.759011,-73.9844722,0.9,2.5,7.0,ChIJFVBZmGnlrjMRQV2KoE8pEKg,Riverside Inn
+766,40.8047795,-73.9458235,0.1,2.5,7.0,ChIJ5YpO3A32wokRBCzsWKT5WtU,Mount Morris House Bed and Breakfast
+767,40.8045382,-73.94989,5.0,2.5,7.0,ChIJ5eYAhhH2wokRYAtzbqYJ6Cs,New York Gisele's Guest House
+768,40.762342,-73.9814329,5.0,2.5,7.0,ChIJb2LKZfhYwokRCBi_Q4RUdwk,Sheraton
+769,40.8063812,-73.9405375,5.0,2.5,7.0,ChIJQbmfcgv2wokRNzn-a1dullQ,Achieve Housing
+770,40.7743101,-73.9630723,5.0,2.5,7.0,ChIJEQ6D9pRYwokR_epMyXN2IE0,Spa at The Surrey
+771,40.8282209,-73.9472168,5.0,2.5,7.0,ChIJM2XM-Hz2wokR35QGXViVpVc,Harlem Landmark Guest House
+772,40.7877949,-73.9689726,5.0,2.5,5.0,ChIJCWDpgpxYwokRN52QV1b6vrU,Park View Apartments
+773,40.8225734,-73.9446216,0.6,2.5,7.0,ChIJCy4Wn3v2wokRjHU_2qz2Dmg,SANFERMIN BED AND BREAKFAST
+774,40.7806158,-73.9811078,5.0,2.5,7.0,ChIJk_trlYlYwokR2kyAlCY2qnA,Beacway Operating LLC
+775,40.7648347,-73.9710574,5.0,2.5,7.0,ChIJjd4c2-9YwokRvhtw79Y2UP4,Resorts International
+776,40.7621674,-73.9830332,5.0,2.5,7.0,ChIJH1OSgvhYwokRsVC3CqqR8YQ,Executive Class at MTS Hotel
+777,40.7677065,-73.9835852,5.0,2.5,5.0,ChIJxX5-j1hYwokRbIjUzzp6_rg,Allcity Corporate housing
+778,40.8038719,-73.9465965,5.0,2.5,7.0,ChIJLR6SCw72wokRRTEscv-BUG4,Luxe Apt Bed and Breakfast
+779,40.8015264,-73.9636933,5.0,2.5,7.0,ChIJE2VCNCP2wokR2EzMhZNjb9U,Valley Lodge
+780,40.7616238,-73.9903386,5.0,2.5,7.0,ChIJ6bVfXVFYwokRu9bnshEoIkc,My City House
+781,40.7575997,-73.9655553,5.0,2.5,7.0,ChIJMxRr_-NYwokRcH4GOT2WFv4,ALTRO Sutton Place by Globe Quarters
+782,40.8042227,-73.9485499,5.0,2.5,7.0,ChIJhxL_-hH2wokRAiRfx102lpc,Indigo Arms
+783,40.7886988,-73.9798407,5.0,2.5,7.0,ChIJNXMO14ZYwokRDo54Kd5mWC0,Brandon Residence For Women
+784,40.7694861,-73.9592715,5.0,2.5,7.0,ChIJjw2zKcBYwokR-2IP_039nIM,St Mary's Residence
+785,40.777681,-73.976716,5.0,2.5,7.0,ChIJDRX0c4xYwokRZFJZdqVzoVM,Park Royal Owners Inc
+786,40.7604548,-73.9707425,5.0,2.5,7.0,ChIJkW0InftYwokRNVQEOV-JTXg,Oberoi Hotels
+787,40.7977877,-73.9687112,5.0,2.5,7.0,ChIJw1f01iX2wokRzntgUK-dow0,Frant Hotel
+788,40.7657137,-73.9541682,1.0,2.5,7.0,ChIJof8P5MNYwokRYmtbaOklYdY,NewYork-Presbyterian Guest Facility
+789,40.7629516,-73.9692965,5.0,2.5,7.0,ChIJ0SFDYuVYwokRHkMLgqtyoyU,Willow Hotels LLC
+790,40.759263,-73.9627884,5.0,2.5,6.0,ChIJ46ei--ZYwokRUMLMahob0H4,Stay Smart NYC
+791,40.8092154,-73.9543735,5.0,2.5,7.0,ChIJD5syoxT2wokRdAg90ALiW2I,Harlem Grand
+792,40.783641,-73.9776195,5.0,2.5,7.0,ChIJ867wq4hYwokRBAdJkJxmOmA,Chesterfield
+793,40.7599197,-73.9704955,0.9,2.5,7.0,ChIJIeOEz-RYwokRwfGtyvr_G68,Concorde Hotel New York
+794,40.7966765,-73.9625633,5.0,2.5,7.0,ChIJ4zGFAZpYwokR1HSxoaMVRQM,Central Park Hostel
+795,40.7983242,-73.9519593,1.7,2.5,7.0,ChIJryRsRhr2wokRFFsRB2_z9Go,Park View Hotel
+796,40.8078578,-73.9430539,5.0,2.5,7.0,ChIJE-5yuQz2wokR9JuM_pMbYhg,Spot Hostels
+797,40.7806869,-73.9810357,0.8,2.5,7.0,ChIJzyb0lYlYwokR7eqBC77yDWI,Beacon Bar at the Beacon Hotel
+798,40.7807671,-73.9824335,5.0,2.5,7.0,ChIJd90c54lYwokRludh1zkTt4k,St Agnes Residence
+799,40.8029878,-73.9638629,5.0,2.5,5.0,ChIJAU7hLhr2wokRI4hvjXYwWoA,Harlem Volley
+800,40.8038191,-73.9501792,5.0,2.5,6.0,ChIJ_UAlmRH2wokRE0wS4px2iDY,the harlem flat
+801,40.7939571,-73.9499213,5.0,2.5,7.0,ChIJjS3jkRz2wokRqiuQWE3-wks,Yai
+802,40.7573478,-73.9882262,2.3,2.5,7.0,ChIJuxDDm1RYwokR_6W9XoX6gVo,Hotel Carter
+803,40.756656,-73.973445,0.6,2.5,7.0,ChIJTzj67_xYwokRIuhApClQ2Ww,The Towers of the Waldorf Astoria New York
+804,40.758401,-73.98329,0.6,2.5,7.0,ChIJMdMjiVVYwokRqVlf2umuDqI,Sanctuary Hotel
+805,40.76035,-73.989753,0.5,2.5,7.0,ChIJuQNp5VNYwokRC4xEUKnEZKA,The French Quarters Guest Apartments
+806,40.7567352,-73.9694149,0.8,2.5,7.0,ChIJSbZuFONYwokRTIi00ahZP74,Hilton Garden Inn New York/ Manhattan Midtown East
+807,40.757506,-73.977264,5.0,2.5,7.0,ChIJwQEGnf5YwokR0ae6WUcWDZo,Omni Hotels Management Corporation
+808,40.755953,-73.9824344,0.8,2.5,7.0,ChIJeZdX8v9YwokRPnmkPLcQ7-A,The Algonquin Hotel Times Square, Autograph Collection /
+809,40.8269909,-73.9120351,1.1,2.5,7.0,ChIJNbW3ekr0wokRFRaAE90HkKE,Days Inn Bronx-Yankee Stadium
+810,40.8407524,-73.9281681,1.9,2.5,7.0,ChIJhU9bdiT0wokRe76eIwwGbsA,Howard Johnson Inn Yankee Stadium
+811,40.8044239,-73.9108939,5.0,2.5,7.0,ChIJIcQr57_1wokRDfG1riDs_k0,Jasmine Court Hdfc
+812,40.8435809,-73.9365052,5.0,2.5,5.0,ChIJrdSGIp72wokRsSR1IZr4uKE,Highbridge House
+813,40.804991,-73.946338,5.0,2.5,6.0,ChIJbaHc6Q32wokRg6TvwYgg6aY,Harlem on Location
+814,40.8258141,-73.9485627,1.8,2.5,7.0,ChIJH_14OmP2wokRR_gYOjTutV4,Hotel Caribe
+815,40.7982985,-73.9412319,5.0,2.5,6.0,ChIJtb0zGgb2wokRWxbPQG0VBxU,Royal Suites
+816,40.8049226,-73.9463879,5.0,2.5,7.0,ChIJbaHc6Q32wokR5_fJTs7A-bk,LDToone
+817,40.8176436,-73.9273188,5.0,2.5,7.0,ChIJBawt89D1wokRzEPEsvSy0PM,Hostos Center For the Arts
+818,40.8095839,-73.9460776,5.0,2.5,7.0,ChIJ5bq9yXL2wokRoN3NWzigSzI,Harlem Victorian Bed and Breakfast
+819,40.8244286,-73.9441671,5.0,2.5,7.0,ChIJr_WBZXz2wokRNhFzP5zhhNk,710 Guest Suites
+820,40.8076828,-73.9378642,5.0,2.5,7.0,ChIJ98iQ-HD2wokRB7cnWrJhHdw,I Love Dormitory
+821,40.8307209,-73.946335,0.1,2.5,5.0,ChIJEZPXdHr2wokR3i0684tJOGo,Urban Yoga Foundation
+822,40.7839594,-73.9719089,5.0,2.5,7.0,ChIJc1o6T4VYwokRXV39YS9lJLw,Central Park House - Apartment
+823,40.808153,-73.958395,5.0,2.5,7.0,ChIJuRognBX2wokRvB39fUxDyXQ,Butler Hall, Columbia University
+824,40.8003711,-73.9711826,5.0,2.5,7.0,ChIJMeeAgC_2wokRBaddktRl_-0,Master Apartments
+825,40.79616,-73.973836,5.0,2.5,7.0,ChIJsx9A-yj2wokRVx7tViNHTYc,Yale Hotel
+826,40.7980465,-73.932818,1.2,2.5,7.0,ChIJ9aUzJuP1wokR2dZI63OTfj0,CHEAP HOSTELS
+827,40.8350917,-73.9387376,5.0,2.5,6.0,ChIJrfj9VIL2wokRCXeMXngSpt8,Museum Bed and Breakfast
+828,40.8111487,-73.953932,5.0,2.5,7.0,ChIJQ5PeXWv2wokRsE-cxT5nOzY,New York Hotel
+829,40.7778076,-73.9533194,5.0,2.5,2.0,ChIJbTgVgbtYwokRCnXWuErnYkY,Best-Deals NY
+830,40.8283399,-73.942213,5.0,2.5,7.0,ChIJK9njVYf2wokRspYTt7wrMoQ,Alga Hotel
+831,40.780416,-73.984248,5.0,2.5,7.0,ChIJXxQGGWJYwokRtoeurExVhj8,172 West 77th Street Realty Co
+832,40.7815998,-73.983508,5.0,2.5,7.0,ChIJ95hYcWJYwokRJ5i1U6Ugu5I,Esplanade Hotel
+833,40.8069966,-73.9421703,5.0,2.5,7.0,ChIJ0YDvngz2wokRUlF2kOtwbYk,Jane Darling House
+834,40.7996189,-73.9702524,5.0,2.5,7.0,ChIJO9mDkCX2wokRJtQu3GnePWo,Overnight New York
+835,40.8004194,-73.954051,2.2,2.5,7.0,ChIJDRcUVhf2wokRIx1LRm9xH5c,New Ebony Hotel
+836,40.82049,-73.954306,5.0,2.5,7.0,ChIJ7XawBGb2wokRjKDtxhyRUV8,マンハッタンアパートメントホテル
+837,40.8019429,-73.9667933,5.0,2.5,7.0,ChIJR_0GyiT2wokRpsm9lTjYuHY,107 Street Hotel Corporation
+838,40.7777713,-73.9814653,5.0,2.5,6.0,ChIJtz7MQopYwokR5wXC6itH08I,NYC's Apartments
+839,40.7833596,-73.9474116,5.0,2.5,6.0,ChIJPYixX69YwokRTaOO7V2QePA,MPBHT & ASSOCIATES
+840,40.7945339,-73.9433752,5.0,2.5,6.0,ChIJDdWDcgT2wokR5gnfZUu18Ac,Jw Built
+841,40.8043702,-73.9506523,5.0,2.5,7.0,ChIJTcSJdxH2wokRpAPrKNi-w08,Harlem Short Term Stay
+842,40.8055847,-73.9460148,5.0,2.5,7.0,ChIJ42YCvA32wokRo8v8hrVPEnw,Luxurstay B&B
+843,40.805763,-73.945355,5.0,2.5,7.0,ChIJRSNVsA32wokRb0x0Z_rT3c8,Harlem Jazz and Gospel Getaway
+844,40.8127799,-73.944277,5.0,2.5,7.0,ChIJCzgiyXP2wokRDW2CVTGiIyU,My Room Nyc
+845,40.8080179,-73.937577,1.2,2.5,7.0,ChIJzd4ONXX2wokRV74WfqkxBqA,The Park Ave North
+846,40.8222957,-73.949004,5.0,2.5,7.0,ChIJ321L3GT2wokR2-mgBrSelQc,Woods Global Enterprise Inc
+847,40.7987277,-73.9666436,5.0,2.5,7.0,ChIJ-VDSayT2wokRCzs1za3Qhho,Hostel
+848,40.7987277,-73.9666436,0.8,2.5,7.0,ChIJCbHxaiT2wokRkKEt1AmT5gc,Hostelling International
+849,40.8244215,-73.9441438,5.0,2.5,7.0,ChIJsxyZZXz2wokRJJ91Hq_HuRg,710 Guest Suites
+850,40.794552,-73.935432,5.0,2.5,7.0,ChIJD1l1j_31wokRFcTEm6Gm7ic,Tiamat House
+851,40.819891,-73.927573,1.5,2.5,7.0,ChIJH1WDDtH1wokRV9-hU9KMVp8,Mi Casa Tu Casa
+852,40.812551,-73.92392,5.0,2.5,7.0,ChIJL2ExzMT1wokRQhPcA3JBDM8,Narco Freedom
+853,40.827344,-73.9373177,1.5,2.5,7.0,ChIJ2cvI5X_2wokRnwDcLr9L3os,Harlem Vista Hotel
+854,40.7870715,-73.9699841,0.8,2.5,7.0,ChIJDxuBXJtYwokROf08PyKqB9E,International Student Center
+855,40.788641,-73.974811,2.5,2.5,7.0,ChIJWz81f4RYwokRaoWUVix3SPU,Central Park West Hostel
+856,40.7805345,-73.9543962,5.0,2.5,7.0,ChIJ4YqFsrxYwokRYXny-61KfFs,UES Management
+857,40.7794416,-73.9567739,5.0,2.5,7.0,ChIJzxoWHr1YwokRkZ85HQKf2pA,111 East 85th Street Owners
+858,40.784128,-73.973225,5.0,2.5,7.0,ChIJmRhVboVYwokRBLn6qApHEbo,ICMG EXEC-STAY WEEKEND PARK PLAY
+859,40.7776046,-73.9797189,5.0,2.5,6.0,ChIJoz9-sYtYwokRJZ0MZI3xj-E,The Mandarin Treehouse
+860,40.7771655,-73.9517052,5.0,2.5,7.0,ChIJ8XtEu7tYwokRBJu-FuQ8aoQ,Georgica Condominium
+861,40.782092,-73.980633,5.0,2.5,7.0,ChIJtThUUohYwokRKFuw0xO3LtI,carlyle
+862,40.8436068,-73.9366334,5.0,2.5,7.0,ChIJVyW_Ip72wokR-gb1mJ4C3A4,Explorers in Washington Heights
+863,40.7723593,-73.9543244,5.0,2.5,4.0,ChIJCUCgML9YwokRoCDHLCqX3h0,mySpaShop, Home Spa Products, Spa Gifts, Wellness Solutions
+864,40.7708069,-73.9528262,5.0,2.5,5.0,ChIJZaAkprhYwokR0ab-C0uP8bg,Schneerson Center For Jewish
+865,40.771825,-73.956402,5.0,2.5,6.0,ChIJi7Qtdr9YwokR6jOH0HRLrzU,AFI Property Management (Corporate Housing & Extended Stays)
+866,40.7769829,-73.979636,5.0,2.5,7.0,ChIJg62pqYtYwokRCa1CUMoFINc,Hargrave House
+867,40.7762554,-73.9776259,1.1,2.5,7.0,ChIJr_xOeotYwokRKjV5Dqch70g,La Quinta Inn and Suites New York City Central Park
+868,40.7844463,-73.9558382,5.0,2.5,7.0,ChIJo1PRyaNYwokRDTlH8AcqkOg,Tuscan Dream Inc
+869,40.769443,-73.950875,5.0,2.5,7.0,ChIJl9z0dsdYwokR-JWNEc-8Yng,The Pavillion
+870,40.7987252,-73.9704168,5.0,2.5,7.0,ChIJi_d78iX2wokRwqYk1Cc8FEo,Dynasty Hotel
+871,40.7945915,-73.9749119,5.0,2.5,7.0,ChIJLfHGsCn2wokRnDGRnON1E-A,Hotel Montroyal
+872,40.8047754,-73.9388929,5.0,2.5,7.0,ChIJC7aYTAr2wokR3lPgFUqomqI,Harlem Central Hotel
+873,40.8258425,-73.9482973,1.5,2.5,7.0,ChIJ820-N2P2wokREY-Hx1-bv5A,Hotel Casablanca
+874,40.7745385,-73.982653,5.0,2.5,7.0,ChIJ3c5-UfVYwokRph9IbfJNX_I,Destinations Link Hospitality
+875,40.8153163,-73.9569938,5.0,2.5,7.0,ChIJNTzYK2r2wokRQcjOUUt3pGg,Old Broadway Hotel Corporation
+876,40.8485206,-73.9313055,1.2,2.5,7.0,ChIJoxrmIx_0wokRTXz7WTGQbi0,Hotel Cliff
+877,40.7981189,-73.9327638,5.0,2.5,7.0,ChIJ9aUzJuP1wokRcnbbldVjUVE,New York Apartament Hotel
+878,40.806824,-73.9228933,5.0,2.5,7.0,ChIJhWIrvML1wokRk7_7fIt3m_w,SoBro Guest House
+879,40.7813952,-73.9517514,5.0,2.5,7.0,ChIJAd0uwqRYwokRBFi21qQ-lq8,Jones House Bed & Breakfast
+880,40.7916791,-73.9730572,5.0,2.5,7.0,ChIJYeK964JYwokRrUBrRnCItlE,Senate Hotel
+881,40.793082,-73.969533,5.0,2.5,7.0,ChIJt0BCjCf2wokRwxfJIXbimqU,Beaulido Suites LLC
+882,40.7830545,-73.9576119,5.0,2.5,7.0,ChIJwzOe8qJYwokRmKClSfuqpdQ,17 E 89th Street Tenants Inc
+883,40.8157668,-73.9447557,5.0,2.5,6.0,ChIJCaPyB3H2wokRxHCLg1dfBRI,Uptown Central Deluxe
+884,40.7942111,-73.9749712,5.0,2.5,7.0,ChIJ568qxSn2wokRT_hl8gZ-FMk,308 W 94 St Apartments
+885,40.771543,-73.92018,5.0,2.5,7.0,ChIJt22gPERfwokRl5pqFmtXnU0,The Goodrich
+886,40.7980604,-73.9328081,5.0,2.5,7.0,ChIJ9aUzJuP1wokRg3rumfCaI4U,Hostel 104
+887,40.7775623,-73.9815947,5.0,2.5,7.0,ChIJL26MXIpYwokRqp7B3vhFbz8,Alamac Hotel
+888,40.7989913,-73.967047,5.0,2.5,7.0,ChIJfz-LQST2wokRDOvcMANZtXY,Hostel Gourmet Deli Inc
+889,40.8091276,-73.9373554,5.0,2.5,7.0,ChIJV9AbQHX2wokROL0-KpyqQrg,Heritage House
+890,40.8145124,-73.9447322,5.0,2.5,7.0,ChIJcdCEd3H2wokRJe6r0SwGchw,New York Uptown Deluxe Apartments
+891,40.788677,-73.9416273,5.0,2.5,7.0,ChIJ_TyQAKpYwokRB9qwP93mPL8,Consolidated Hotel Equipment
+892,40.8177146,-73.9468764,5.0,2.5,7.0,ChIJDeLDPHD2wokRmfTSCBiWwUM,Thomas Family B&B
+893,40.8268259,-73.9424081,5.0,2.5,7.0,ChIJ_Q483H32wokR_FCuwMrJ17Y,Dawn Hotel of NY
+894,40.8124454,-73.9424841,5.0,2.5,7.0,ChIJtU_xJHj2wokRGZ1py141vb0,Riverton Hotel
+895,40.8340855,-73.917051,5.0,2.5,7.0,ChIJJ9kPXDf0wokR1wABx-xf0aI,Dollar Resort
+896,40.8249992,-73.9442744,5.0,2.5,5.0,ChIJrc5zXnz2wokRLiLlghh5gis,A RoomsForRentInNYC.com
+897,40.777402,-73.977853,5.0,2.5,6.0,ChIJn9gnjotYwokRKWvS4NODu7s,Suite Stuff LLC
+898,40.7890614,-73.94201,5.0,2.5,5.0,ChIJA2uCAAL2wokRO_rOon7BSBw,East River Family Center
+899,40.8072544,-73.944935,5.0,2.5,5.0,ChIJMdgGHQ32wokRIh3z6O9Qgas,Grove Park
+900,40.8398828,-73.9283768,5.0,2.5,7.0,ChIJQzr-PyT0wokRhjYXLlV_ruc,Stadium Hotel
+901,40.7956313,-73.9722229,5.0,2.5,7.0,ChIJG_SqiSj2wokR5Z8PyYqGeTc,Terrilee 97 St LLC
+902,40.8085331,-73.9508146,5.0,2.5,7.0,ChIJ7wqIHxP2wokRgc0XtcBml6A,La Sienna
+903,40.8076235,-73.953043,5.0,2.5,7.0,ChIJn01_eBP2wokRMWrIEqTrQ6s,Depto NYC
+904,40.806667,-73.952174,5.0,2.5,7.0,ChIJVc83jhP2wokRdCW23E6HXcM,New York BnB
+905,40.806341,-73.9494519,5.0,2.5,7.0,ChIJ08jyQxL2wokRjukfbNBBOHc,Mende Partners Llc
+906,40.8058878,-73.9472881,5.0,2.5,7.0,ChIJkRidjg32wokRvRHADSz8u2M,NYC Student Guest House
+907,40.804386,-73.9498959,5.0,2.5,7.0,ChIJ14ZNjxH2wokReK-JGBUNM0o,Palace Bed & Breakfast
+908,40.8045339,-73.949052,5.0,2.5,7.0,ChIJSTxx9RH2wokR04pr5T7YFJQ,Apartment William
+909,40.8091685,-73.9446616,5.0,2.5,7.0,ChIJJ_YvKnP2wokRcjZ4POBkFOs,Zoo 2013
+910,40.804063,-73.947165,5.0,2.5,7.0,ChIJW_ZjBg72wokR7ZCnBVMjHzM,The Heart of Harlem
+911,40.803986,-73.946982,5.0,2.5,7.0,ChIJr16rCA72wokRVwcS4rPw1PU,The Melva Inn
+912,40.810199,-73.9435374,5.0,2.5,7.0,ChIJMfxdFHP2wokReKObM7Gcfio,Tricia
+913,40.8029364,-73.9523687,5.0,2.5,7.0,ChIJcyfQIxH2wokRRAU-JD4gqrw,Haven In Harlem
+914,40.8092663,-73.9432854,5.0,2.5,7.0,ChIJr_Q6NnP2wokR91oWgcawFZ8,Mr & Mrs Waters Unlimited
+915,40.8038995,-73.9466633,5.0,2.5,7.0,ChIJWVmvDg72wokRG5h7zPV27pE,Bed and Breakfast Mont Morris
+916,40.851318,-73.9070143,1.1,2.5,7.0,ChIJ4XNY2W30wokRFHXgvZWO4no,Morris Guest House
+917,40.8576039,-73.9271025,5.0,2.5,6.0,ChIJ76TGAgX0wokRsHdelVHKh_Y,Valentine Rentals
+918,40.8570819,-73.936119,5.0,2.5,7.0,ChIJqQFoAKj2wokRBQAKKXpvm3A,Cabrini Terrace
+919,40.8329977,-73.9024636,5.0,2.5,7.0,ChIJt2fxZkX0wokRL-5nE4y-Ofk,Children's Circle Day Care Center
+920,40.8274799,-73.8921732,0.7,2.5,7.0,ChIJxddVX1b0wokRBzxkM575J_w,Super 8 Bronx
+921,40.821579,-73.951301,5.0,2.5,7.0,ChIJtwmMr2X2wokRSXk1BnYf19k,Roberto Antonio Martinez Lora
+922,40.8197345,-73.952396,5.0,2.5,6.0,ChIJnwYNX2_2wokRGSMFyaGJCiE,Hamilton Park Condo
+923,40.8204401,-73.9536779,5.0,2.5,7.0,ChIJU7tpB2b2wokR88irXHungzM,Apartment for Usman and Ahsan
+924,40.8296725,-73.9486152,5.0,2.5,7.0,ChIJi7v8Goj2wokRu50wMqvVVIs,Collins' Apartment
+925,40.8304718,-73.9495087,5.0,2.5,7.0,ChIJ0-BOPoj2wokRPn48Mqb1DPc,Steed Hale Interior Design & company Inc.
+926,40.8166502,-73.9409078,5.0,2.5,7.0,ChIJldTRO3f2wokRYxxDbl3Wr1o,Samuel J Proctor Houses for Families
+927,40.827762,-73.939252,5.0,2.5,7.0,ChIJg48kKn72wokRiGWhx90oneU,GSHEILACOLE@GMAIL.COM
+928,40.8179218,-73.9375408,5.0,2.5,7.0,ChIJkSdAH3j2wokRvGqtg6Nho6Q,Applewhite Hospitality Academy
+929,40.8305495,-73.9418466,5.0,2.5,7.0,ChIJ91oq1YD2wokRPgNd-EnlSMM,Saint Nicholas Inn B&B
+930,40.80826,-73.9391827,5.0,2.5,7.0,ChIJT6311HT2wokRseZy8qbJS8Y,New York Hostel 99
+931,40.8359394,-73.9379222,5.0,2.5,7.0,ChIJzSnH7oL2wokR9IHLC3cGTBk,Hermosa Rubia Buena
+932,40.837299,-73.937646,5.0,2.5,7.0,ChIJN_Syy4L2wokRY5h6wxEJvUg,Tito's Apt.
+933,40.8392613,-73.9445875,5.0,2.5,7.0,ChIJkb_4Jpv2wokRMDYwN8sJ99U,99 Fort Washington
+934,40.8081331,-73.9346497,5.0,2.5,7.0,ChIJG4dv6N_1wokRR4dMrkfybis,Soldiers and Sailors Club
+935,40.8046152,-73.9607047,5.0,2.5,7.0,ChIJYQvrlj32wokRKCMictzr7rk,MHPP
+936,40.8061549,-73.96414,5.0,2.5,7.0,ChIJyTHFGTz2wokRE_Wg6woC3x4,Kappa Delta Rho
+937,40.8402342,-73.9377395,0.7,2.5,7.0,ChIJYbJDoZ32wokRs9EBWbJcRVM,Edge Hotel
+938,40.801916,-73.9488101,5.0,2.5,7.0,ChIJIS3fLhD2wokR6Iv5VWV-K9s,7midlands Hospitality Consulting Inc
+939,40.8271172,-73.9221267,5.0,2.5,7.0,ChIJT4Og7zL0wokRged3-_rKr40,Concourse Plaza Hotel
+940,40.804136,-73.9352715,5.0,2.5,5.0,ChIJj_Lf2uH1wokReeWcLnk5en4,www.aromatheraclean.com
+941,40.8377904,-73.9301944,5.0,2.5,7.0,ChIJC8xydSb0wokR3DVHDl9av-o,Stadium Motor Lodge
+942,40.8013808,-73.9525301,5.0,2.5,7.0,ChIJ3Y1VxxD2wokRyc_x4KODxOA,St Nicholas Court
+943,40.8111588,-73.9245962,5.0,2.5,7.0,ChIJ_ZaCVtv1wokR60_GeqJn5Nc,Luxe Tuscab Suite Duplex Apt
+944,40.8163104,-73.9211804,5.0,2.5,7.0,ChIJwwdLdM_1wokRDfRTOEeoojo,Doña Rosita
+945,40.80054,-73.953525,5.0,2.5,7.0,ChIJUwhCqxD2wokRdDtsX_zBV9I,2690 Webb Avenue
+946,40.8434876,-73.9410689,5.0,2.5,7.0,ChIJLQZFpZ72wokRpvcr8IzIqNA,The Old Hotel
+947,40.8061915,-73.9279959,5.0,2.5,7.0,ChIJ2bmYZOf1wokRSZ3CuZ2aKU8,91 Unit Rental Building
+948,40.8445823,-73.9431672,5.0,2.5,7.0,ChIJMVGpP5n2wokRqj0aGme9G0s,Casa Marcos
+949,40.7997091,-73.9536698,2.0,2.5,7.0,ChIJ7cihAhr2wokRTxCCxRbsiic,The Central Park North
+950,40.8002307,-73.9407965,5.0,2.5,7.0,ChIJkW6Twgj2wokR9ojb4lVUO_A,Hostel Hive
+951,40.8011422,-73.9371629,5.0,2.5,7.0,ChIJ6XNpxgn2wokRcAk9OyoJVgo,Rey"s
+952,40.7996956,-73.9396171,5.0,2.5,7.0,ChIJu1JI8gj2wokR8ocTECcorS0,CUNY Graduate Center Housing
+953,40.799953,-73.9608949,5.0,2.5,7.0,ChIJGTMnlSL2wokRaBYCpSm-8ro,Kublo
+954,40.769227,-73.879681,1.4,2.5,7.0,ChIJeVcgxZpfwokR08pVnYP1MEs,Courtyard New York LaGuardia Airport
+955,40.7658598,-73.8860585,1.7,2.5,7.0,ChIJcXzufp5fwokRm40vjXfoOFw,Comfort Inn Laguardia Airport - 83Rd St
+956,40.7979813,-73.9394772,5.0,2.5,7.0,ChIJUUbVKAb2wokRCqKiGohOSHE,Upper East Manhattan Bed & Breakfast
+957,40.7530183,-73.9340938,0.6,2.5,7.0,ChIJGV2R4ixZwokRfAlvKcOUO3U,Home2 Suites by Hilton Manhattan View Long Island City
+958,40.7412918,-73.9001823,1.3,2.5,7.0,ChIJXTX8Lv1ewokRKWJFWRE_Zxs,Woodside Motel
+959,40.7497179,-73.9781645,0.9,2.5,7.0,ChIJFfgorQZZwokRjOY9K60Volo,The Tuscany - A St Giles Signature Hotel
+960,40.7527186,-73.9275623,1.1,2.5,7.0,ChIJz7DK0C5fwokRh5_7K3D7cc4,Paper Factory Hotel
+961,40.7673734,-73.8973804,5.0,2.5,7.0,ChIJQ8Qg0XNfwokRNBHf9JbU2yc,Westway Motor Inn At LaGuardia Airport
+962,40.7520435,-73.978317,5.0,2.5,7.0,ChIJPTNHoAFZwokRJxygrVBE_MI,Kimpton Hotel & Restaurant Group
+963,40.7511579,-73.9788307,5.0,2.5,7.0,ChIJM-oWFQFZwokRW9QyqqoXHV0,Freedom Hospitality
+964,40.753313,-73.966161,1.4,2.5,6.0,ChIJz6GtD-JYwokRi9bCb5s4ENw,Beekman Tower
+965,40.7479919,-73.9783865,1.1,2.5,7.0,ChIJjf1AlAZZwokRcRIsy5TR4dg,Soldiers', Sailors', Marines', Coast Guard and Airmens' Club
+966,40.749595,-73.947825,0.5,2.5,7.0,ChIJqQHQ_CdZwokRd7UAPw_Mzlg,The Local NYC
+967,40.7449618,-73.9809603,5.0,2.5,7.0,ChIJndZg2AdZwokRk_iHhnajn-8,Broadway Suites III
+968,40.7542022,-73.9735434,0.4,2.5,7.0,ChIJgbFrPwFZwokR9qdbNny8FVk,The Leading Hotels of the World
+969,40.7505651,-73.9801905,0.2,2.5,7.0,ChIJj-PB2ABZwokRKSEZAe4fF9k,The William NYC
+970,40.7389101,-73.8904636,2.4,2.5,7.0,ChIJ3eBDLplgwokRx7hb_Rk-utE,Metro Motel
+971,40.7529175,-73.9723497,5.0,2.5,6.0,ChIJsb4luwJZwokRxzWLagbhvYo,Continental Industries Group Inc
+972,40.7565217,-73.9420004,1.7,2.5,7.0,ChIJP3NE19NYwokRLibxb27OCnU,Howard Johnson Long Island City
+973,40.7563158,-73.9663482,5.0,2.5,7.0,ChIJN_RiwuNYwokRBBAux_Pu0ec,Lyden Gardens Suite Hotel
+974,40.7382838,-73.8870134,1.7,2.5,7.0,ChIJT0GFu1VewokRESJ3GL9dqFI,Boulevard Motor Inn
+975,40.7517858,-73.9764819,0.7,2.0,4.0,ChIJsS1xLQJZwokRsxzPe8_HLgA,New York Central
+976,40.7526842,-73.9759022,5.0,2.5,7.0,ChIJzd_ZRgJZwokRlx0GVOYrG3g,Forte Hotels
+977,40.7414759,-73.900975,2.0,2.5,7.0,ChIJm_1J0uJewokRysUJtQ-KAvI,Queens Motor Inn
+978,40.7393617,-73.8893981,1.7,2.5,7.0,ChIJ12sBeP9ewokRbWeXUf8Tjhc,Crown Motor Inn
+979,40.755368,-73.970481,5.0,2.5,7.0,ChIJa24JO_tYwokR8irqDHGzzwk,Fairmont
+980,40.749401,-73.978433,5.0,2.5,7.0,ChIJETPsSQJZwokRZ5nMov09K5c,REDAC サービスアパート【38th Street Lexington】
+981,40.7275879,-73.9438948,0.8,2.5,7.0,ChIJmRctsElZwokRzkQuM3qRO3E,The Henry Norman Hotel
+982,40.7523597,-73.9793773,5.0,2.5,7.0,ChIJgYNcAQFZwokRp64tvqcrcAM,Associated Luxury Hotels International
+983,40.7526842,-73.9759022,5.0,2.5,7.0,ChIJzd_ZRgJZwokRvq5u9p6h3vk,Caesar Park Hotel & Resorts
+984,40.752119,-73.9787913,5.0,2.5,7.0,ChIJPTNHoAFZwokRnJiQKbDyW88,Hotels Around the World Inc
+985,40.7515096,-73.970534,1.5,2.5,7.0,ChIJ4RjdOh1ZwokRtJmboWLFa8c,United Nations Apartment Hotel
+986,40.7481976,-73.9749366,1.2,2.5,7.0,ChIJszFoZQRZwokRXSHulNLdO9s,Oakwood at The Nash
+987,40.7460464,-73.8887323,1.9,2.5,7.0,ChIJV5ENBqpfwokRG4_ZcpXn3Ug,Kamway Lodge & Travel Inc
+988,40.7581902,-73.9622361,5.0,2.5,7.0,ChIJb99eIOdYwokRXWbKXJebuVk,Sutton Court
+989,40.729535,-73.8903399,1.3,2.5,7.0,ChIJKYaqyvdewokRyw3_q3SbOG4,Grand Motor Inn
+990,40.749998,-73.937042,0.6,2.5,7.0,ChIJgX41a9VYwokRdkQl96aj1fE,Courtyard Long Island City/New York Manhattan View
+991,40.7679242,-73.8677356,0.9,2.5,7.0,ChIJwSNJm5JfwokR0UeM79atW7E,Hampton Inn New York - LaGuardia Airport
+992,40.752336,-73.8537307,1.2,2.5,7.0,ChIJg5cuTcNfwokRSD6-MfUc0iw,Corona Hotel
+993,40.7583208,-73.8574537,0.6,2.5,7.0,ChIJI_nawOlfwokRi1_9i7oOC1E,SpringHill Suites New York LaGuardia Airport
+994,40.769494,-73.8758,5.0,2.5,7.0,ChIJFdUZ4I9fwokRFt9_K86Mmqc,New York Accommodations
+995,40.7670678,-73.8671363,1.3,2.5,7.0,ChIJPbY_gBRawokRG3WAcH30b5Y,LaGuardia Plaza Hotel
+996,40.74009,-73.8722611,2.4,2.5,7.0,ChIJXWJTRLNfwokRtnwwb8Ken_I,Elmhurst Lodge Inn
+997,40.7583224,-73.9613812,5.0,2.5,7.0,ChIJwbIlFOdYwokRSkNoHucv2jw,Kore 58 Hotel New York City
+998,40.7608245,-73.9577135,5.0,2.5,7.0,ChIJg2oAN91YwokRehNJrbmAT4M,Faculty House
+999,40.7596526,-73.9076806,5.0,2.5,7.0,ChIJUWuBGRRfwokR1DopbXmugWs,Astoria Bed and Breakfast
+1000,40.7495972,-73.9475889,0.4,2.5,3.0,ChIJT6ofByhZwokRS7MvNa-QEWM,The Local NY
+1001,40.767224,-73.8823189,5.0,2.5,7.0,ChIJwcY6kptfwokRwcJ-JnTQQtQ,King's Inn
+1002,40.7413275,-73.9294047,5.0,2.5,7.0,ChIJgfxQXdFewokRaocFpq_piOo,LOGICOCEAN SOLUTIONS, LLC.
+1003,40.7264661,-73.9410823,0.7,2.5,7.0,ChIJf-InzktZwokRTV2V7G4fSDI,Habitat 101 Brooklyn
+1004,40.7527902,-73.8775455,5.0,2.5,7.0,ChIJW5zh06RfwokR9qTe9tgWmlY,My DreamYathra Inc
+1005,40.7614031,-73.9168242,5.0,2.5,7.0,ChIJJzkPlj5fwokR7lguzUjfYnU,iGeekSquad Technical Support
+1006,40.7531975,-73.9343614,0.7,2.5,7.0,ChIJ89bJnyxfwokRPpNxD1I6Dk4,Holiday Inn - Manhattan View
+1007,40.7505249,-73.936896,5.0,2.5,7.0,ChIJSWsCJdVYwokRi2ioXNgPa1A,Photostudio Unit505
+1008,40.7453239,-73.883303,1.0,2.5,7.0,ChIJYWW6-atfwokR91pDOrIpHBM,紐約居久民宿
+1009,40.754547,-73.93584,0.8,2.5,5.0,ChIJU197tSxfwokRmYGxzgn8yyo,The Boro Hotel
+1010,40.7525979,-73.9387517,5.0,2.5,7.0,ChIJ9XNh6TZfwokRzNaSMmDmR0g,Country Inn Hotel
+1011,40.7684112,-73.9115785,0.1,2.5,7.0,ChIJcd40bWpfwokRarqRDvYtYAM,Masjid Al-Iman
+1012,40.7610611,-73.8843287,5.0,2.5,7.0,ChIJA5lVWZ9fwokR4zGud7eXQqU,Cazzamia
+1013,40.762388,-73.881191,5.0,2.5,7.0,ChIJLckv5JhfwokR5RQfCs5fvlI,AAA
+1014,40.7257497,-73.9450501,5.0,2.5,7.0,ChIJtwWk2UhZwokRaafYgBtg9qA,Lincoln APT
+1015,40.7257273,-73.9514788,0.9,2.5,7.0,ChIJzc8wJkRZwokRj8SXtMDVgmk,Greenpoint Lodge
+1016,40.732238,-73.86636,0.4,2.5,7.0,ChIJhwphwklewokRWE26L2uDNqc,Wyndham Garden LaGuardia South
+1017,40.7308102,-73.9593408,5.0,2.5,7.0,ChIJOZOYH0BZwokR8Nkd_XEJV-A,Dermer Management
+1018,40.753023,-73.9647249,5.0,2.5,7.0,ChIJ-_bB-uFYwokREKcDOUu9Psk,FineVillas
+1019,40.734769,-73.857259,0.6,2.5,6.0,ChIJTRfrBzNewokR7UjT696_bCk,NYCBWBB
+1020,40.7586079,-73.9640065,5.0,2.5,6.0,ChIJRUqHR1hYwokRZuRrPsxrXaM,Apartment Resources
+1021,40.7504701,-73.9691221,5.0,2.5,7.0,ChIJExAj4xxZwokR1-GdXGMZKOE,One UN New York
+1022,40.7519589,-73.9344812,5.0,2.5,7.0,ChIJpbNjEytfwokRWg9pJYd5VoY,Shiv Darshan Inc
+1023,40.750532,-73.9694881,5.0,2.5,7.0,ChIJAZJz4RxZwokRUJE94Z2a8jw,UN plaza hotel
+1024,40.7601866,-73.9126628,5.0,2.5,5.0,ChIJBxxw3DxfwokRAC5s72dvR8g,Moblat Apartments
+1025,40.741339,-73.923479,5.0,2.5,7.0,ChIJswpNG9pewokRKSjbzJH3slY,Bermudez Residence
+1026,40.7431977,-73.9255995,5.0,2.5,7.0,ChIJ18wQQNdewokRUsekHpZeiDA,Alojamiento Luisina
+1027,40.7548891,-73.9040732,5.0,2.5,7.0,ChIJExEvixBfwokRuOevq0rmzx4,Samrat T USA Inc
+1028,40.758158,-73.92108,5.0,2.5,7.0,ChIJTUwBAztfwokRmuHnocPp3IU,Babs
+1029,40.742588,-73.888049,0.7,2.5,7.0,ChIJfYv0vKpfwokRrQW2bBKxWLY,紐約民宿 瑞吉屋 RG House
+1030,40.7566879,-73.9266899,5.0,2.5,7.0,ChIJaeLI1i9fwokRCJu96M26e84,Fernando
+1031,40.7541685,-73.9306124,5.0,2.5,7.0,ChIJVbJ6JCxfwokRTypQz8__ZFE,Lauren Michelle's Apt
+1032,40.761494,-73.911066,5.0,2.5,7.0,ChIJT_jxlxVfwokRBfuRNiiqpXo,The Dozing Dragon
+1033,40.7513974,-73.9352006,5.0,2.5,7.0,ChIJ-YCyOitfwokRnjGWSa2hDdM,Farifield Queens
+1034,40.7502177,-73.9368844,0.6,2.5,7.0,ChIJS4xTOtVYwokRCuB6Za-l44s,Hilton Garden Inn New York Long Island City/Manhattan View
+1035,40.7447076,-73.883558,5.0,2.5,7.0,ChIJc8o986tfwokRsESlMUEYpFU,Berkshire Green Cooperative
+1036,40.7475003,-73.8834732,5.0,2.5,7.0,ChIJb5_uMalfwokRcaLg5Suqr5w,B & B Wholesale Inc
+1037,40.7206749,-73.9073027,5.0,2.5,7.0,ChIJO4XtEpRewokRSajyrA_dO40,Anchor Inn
+1038,40.754993,-73.9361799,5.0,2.5,7.0,ChIJJQWfM9NYwokR-ceyTjvkxMM,뉴욕 압구정 하우스
+1039,40.7370183,-73.8822317,5.0,2.5,7.0,ChIJH4g27VNewokRoocViiOp7_w,51-15 Vankleeckst Elmhurst.Queens
+1040,40.7372216,-73.8817491,5.0,2.5,7.0,ChIJddXIlVNewokRzpnQfqWR4bU,Apartamento Queens
+1041,40.749531,-73.941254,5.0,2.5,7.0,ChIJtYU5-tVYwokRIORvnfFBbdg,Future Hotel
+1042,40.7360562,-73.8810772,5.0,2.5,7.0,ChIJOZ-x21NewokRQdwVIf_aFfQ,Quartier NYC
+1043,40.725946,-73.887908,5.0,2.5,7.0,ChIJk9ozRF9ewokRcM-VlL9IDUI,Carmine
+1044,40.7564419,-73.8829366,5.0,2.5,7.0,ChIJP3Ds1qNfwokR3hYgC4pukME,Casa
+1045,40.717697,-73.921396,5.0,2.5,7.0,ChIJC-oV37pewokRFXD4w65jXug,Golden City Food Service
+1046,40.7565202,-73.942003,5.0,2.5,7.0,ChIJ-75SftFYwokRy94wW6iYcPY,메이플라워 하워드 존슨 롱 아일랜드 시티/맨해튼 뷰
+1047,40.726595,-73.9400589,5.0,2.5,7.0,ChIJ_UFNtEtZwokRveI-HWp22tg,Oficina MC
+1048,40.749374,-73.947046,1.1,2.5,7.0,ChIJEYl7DyhZwokR8OBIl2a6NwI,LIC Hotel
+1049,40.744679,-73.9485424,5.0,2.5,7.0,ChIJQahc5SVZwokRHWnhSztDoe0,バーブホテル アン アセンド ホテル コレクション メンバー
+1050,40.7578219,-73.962911,5.0,2.5,7.0,ChIJ8SOw3eZYwokRZneV76_45Q8,Cottage Communications
+1051,40.7597496,-73.8810721,5.0,2.5,7.0,ChIJ84nRcaJfwokRW5D5PCPdpj4,Casa de Diego
+1052,40.7320254,-73.8752161,5.0,2.5,7.0,ChIJD-3Rs09ewokRt5pHxJwZ4LU,BuBu House
+1053,40.7140843,-73.900764,5.0,2.5,7.0,ChIJFf0aApBewokRabMwoUOgP9c,PoParazzi
+1054,40.7633369,-73.9397454,5.0,2.5,7.0,ChIJnXccccxYwokRmDWIE4SkCcg,Empire Classic Design
+1055,40.731997,-73.87478,5.0,2.5,7.0,ChIJYeQtrE9ewokR8KQrcEeTsJQ,Carlos
+1056,40.7400789,-73.8722492,5.0,2.5,7.0,ChIJXWJTRLNfwokRBU5ZPT1E1ss,Motelazo, $40
+1057,40.7515462,-73.8734894,5.0,2.5,7.0,ChIJwS_8TbpfwokR0XnZR46yCCo,Achilles International Ecuador
+1058,40.7433888,-73.8703001,5.0,2.5,7.0,ChIJ2TGFG7RfwokRjCbfo2qonho,White Oak Elmhurst Condominium
+1059,40.7731535,-73.9284285,5.0,2.5,7.0,ChIJ4SGywU5fwokRZo8I4CQFLCY,Gloria D'Amico Senior Residence
+1060,40.731551,-73.952672,5.0,2.5,7.0,ChIJ4cfmpDhZwokR-8jX6AhxIUw,Studio AVA
+1061,40.7222249,-73.9463932,5.0,2.5,7.0,ChIJTwRbmE9ZwokRmZmNrBGkfiw,Soho
+1062,40.7760221,-73.9097255,5.0,2.5,7.0,ChIJ1edPsmdfwokRg9_2ue6_QU4,The Secret House
+1063,40.7735606,-73.9289107,5.0,2.5,7.0,ChIJP_Q_lE5fwokRVB20Bns3MK8,Queens Home
+1064,40.7417438,-73.8672334,5.0,2.5,7.0,ChIJIX2kvLVfwokR90FwML-DEl4,Hunters Point Commons
+1065,40.728246,-73.951625,5.0,2.5,7.0,ChIJOcCs40ZZwokRBBpgLyM4vYg,Caryn Knutsen's Apt
+1066,40.775744,-73.903261,5.0,2.5,7.0,ChIJe5omAmVfwokRNzfHS8_LIY0,Blake's apartment
+1067,40.730775,-73.953339,5.0,2.5,7.0,ChIJl7HyU0dZwokRUlRmoZbyeSA,Château de Gato
+1068,40.7459179,-73.9571873,5.0,2.5,6.0,ChIJ7TQ8-bdZwokRvnSi33_UgPQ,Première Advisory Group INC
+1069,40.7690406,-73.9435395,5.0,2.5,7.0,ChIJIybx3slYwokRoBf-FQob0uY,rOOSEVELT ISLAND
+1070,40.761057,-73.870513,5.0,2.5,7.0,ChIJ-8HmzZVfwokRmEx9Jj2pnVU,Casa NY
+1071,40.7330808,-73.9578351,5.0,2.5,7.0,ChIJKcaRPT5ZwokRRkG5SW6KMf8,Franklin Guesthouse
+1072,40.7790773,-73.9129987,5.0,2.5,7.0,ChIJd3eB8F1fwokRq_zX4UFRWVs,Ameriwal International
+1073,40.763391,-73.871241,5.0,2.5,7.0,ChIJf2KJApRfwokRR6dgal2qwHk,Apartamento Juan
+1074,40.733128,-73.958823,5.0,2.5,7.0,ChIJUWj25z9ZwokRmzrzsY4ydDQ,Mod Lodge
+1075,40.7482322,-73.8629469,5.0,2.5,5.0,ChIJa1NH0cdfwokRlopxc6gRqoI,Chris Gomez Spa
+1076,40.770506,-73.875144,5.0,2.5,7.0,ChIJk9ujx49fwokRYtv9v0gM3jA,Lga Waiting Area
+1077,40.7363557,-73.8601511,5.0,2.5,7.0,ChIJ9SCIZjNewokRcWgERroaMig,Q4 Hotel
+1078,40.7657079,-73.954174,5.0,2.5,7.0,ChIJd2oI_cNYwokRheuA9lj9fDM,Hmt
+1079,40.7621073,-73.958225,5.0,2.5,7.0,ChIJn2rSucJYwokRZN6yagBj1eA,Maison Daing
+1080,40.77185,-73.948813,5.0,2.5,6.0,ChIJ4-upMLhYwokRkWFGv5447as,NEW YORK WAITERS BARTENDERS FOR HIRE
+1081,40.7375861,-73.8579574,5.0,2.5,7.0,ChIJ18OJycxfwokR3owjaMkeNOw,Ivy Building
+1082,40.774833,-73.945243,5.0,2.5,7.0,ChIJ89XB1rBYwokRc6wpJRr61JQ,East End Avenue Apartments
+1083,40.7624849,-73.9593726,5.0,2.5,7.0,ChIJm208p8JYwokRuN00X1f2eZ0,RelGold LLC apartment building
+1084,40.7656645,-73.9572014,5.0,2.5,7.0,ChIJj5HnL8JYwokRHKpDoU17GYs,Casa NY
+1085,40.721478,-73.958723,5.0,2.5,7.0,ChIJuSLgZ11ZwokRWNfffMrarg0,The Williamsburg Hotel
+1086,40.763368,-73.95924,5.0,2.5,7.0,ChIJsyjqnMJYwokRDu71EptkjE8,Vacayo east side apartment
+1087,40.7531486,-73.9679041,5.0,2.5,7.0,ChIJEU2H4BxZwokRXplFgpgCP3o,UN Plaza
+1088,40.732283,-73.858257,5.0,2.5,7.0,ChIJBbigXzFewokR7zPy5svietA,Erin's apt
+1089,40.7703757,-73.9537734,5.0,2.5,7.0,ChIJIe-DrMBYwokRSfIlJYwX7OM,Dpto NY
+1090,40.7689942,-73.8676576,5.0,2.5,7.0,ChIJp4AhcI1fwokRkxqudVf-Bo4,Marriott La Guardia - Phil Nugent
+1091,40.7678922,-73.9568087,5.0,2.5,7.0,ChIJ_Q5kqMFYwokRo5dt4Gk7W4M,Back Savers Inc
+1092,40.7533178,-73.9661642,0.6,2.5,6.0,ChIJc1QTEOJYwokR23a1CO3ym6M,Beekman Tower by BridgeStreet
+1093,40.7382294,-73.8506919,1.6,2.5,7.0,ChIJU0ywAtNfwokRjB-yWrMws9s,Paris Suites Hotel
+1094,40.715442,-73.8600924,1.4,2.5,7.0,ChIJTVg90xVewokRGSbBb__JLbE,Haven Motel
+1095,40.7268201,-73.8517233,5.0,2.5,7.0,ChIJ33669S9ewokRE0YU1Ek8_DI,HEAVENSDOOR FIJI
+1096,40.7287761,-73.8502925,5.0,2.5,7.0,ChIJQ372_S5ewokRtUCpW8tpK4M,Apartamento Forest Hill
+1097,40.7481475,-73.9473616,5.0,2.5,7.0,ChIJUeQCeihZwokREnvwm3IrZbY,Coos
+1098,40.704764,-73.956844,5.0,2.5,7.0,ChIJc9rmA-dbwokREoIAmPrQuOo,Zelkos Nursing Home
+1099,40.7545158,-73.8541316,1.4,2.5,7.0,ChIJpQuczMJfwokRCTdqfW5Za1o,Holiday Inn Laguardia Airport
+1100,40.754527,-73.8540895,5.0,2.5,7.0,ChIJcVHB0cJfwokRwpJzcuvZ88w,Corona Operating Co LLC
+1101,40.752057,-73.8534691,1.3,2.5,7.0,ChIJY9GUstxfwokREde8fHsotxM,Best Western Plus LaGuardia Airport Hotel
+1102,40.7843175,-73.9318873,1.2,2.5,7.0,ChIJv064SFRfwokRDOhu4g66gDg,Schwarz Assessment Facility for the Homeless
+1103,40.7777389,-73.9463741,5.0,2.5,7.0,ChIJAeOoXLBYwokRj3U3FLLWY2A,Cleggs Hotel
+1104,40.7870698,-73.9419167,5.0,2.5,7.0,ChIJwSHNialYwokRFr9jyHOfT1s,40 wall st NYC
+1105,40.7957145,-73.9314604,5.0,2.5,7.0,ChIJxbbolPz1wokR8x9H5u0O4W8,Millenium broadway hotel
+1106,40.8021344,-73.9089745,5.0,2.5,7.0,ChIJD2A_pJX1wokR09tsG6ybI9Q,HRN
+1107,40.792105,-73.940578,5.0,2.5,7.0,ChIJ1xKqawH2wokROrCQY30FzJ8,South Jamaica Houses
+1108,40.7980604,-73.9328081,5.0,2.5,7.0,ChIJ9aUzJuP1wokR3aCw4QzKJlc,New York Apt Hotel Management Inc
+1109,40.774806,-73.953558,5.0,2.5,7.0,ChIJewHbTLlYwokRj-HjstrnlCg,Bentley Hotel
+1110,40.7974926,-73.9345599,5.0,2.5,6.0,ChIJJYjyNf31wokR4LadjNq4DG0,Eben
+1111,40.773366,-73.954444,5.0,2.5,7.0,ChIJp2BH2L5YwokRAfrq1_vWCNA,Penny's condo
+1112,40.7765429,-73.954013,5.0,2.5,7.0,ChIJNTixDrxYwokRQtUxd43I7C0,Adam's Place
+1113,40.7726377,-73.9553422,5.0,2.5,7.0,ChIJh__ZFr9YwokRzS00iciQvko,Bed & Breakfast Manhattanhome
+1114,40.7829338,-73.9525147,5.0,2.5,7.0,ChIJxdUfYqRYwokR7AwUOX5YlZY,92YResidence
+1115,40.791353,-73.9465255,5.0,2.5,7.0,ChIJI1ZMwwL2wokRc7uOfoM01qo,Central Park Studios
+1116,40.789403,-73.948656,5.0,2.5,7.0,ChIJyYHV8KdYwokRaB4t8AmGJWk,Bubba and bean lodges
+1117,40.779642,-73.955196,5.0,2.5,7.0,ChIJY_TVS6NYwokRbwtQkZvwXoA,Lexington Exclusive
+1118,40.7929615,-73.946384,5.0,2.5,7.0,ChIJ6_WzPwP2wokR6pf6W9WoYd8,Air B and B
+1119,40.773008,-73.96032,5.0,2.5,7.0,ChIJM51gaJVYwokR6LXNld59Ldw,דירה ניו יורק
+1120,40.7687505,-73.9613404,5.0,2.5,7.0,ChIJGzFfW-pYwokRpqeAa_vfn9Y,Charming Studio
+1121,40.7773054,-73.9614006,5.0,2.5,7.0,ChIJwQvmcZZYwokR-VyFiiWXWaY,The Mave Hotel
+1122,40.7789883,-73.9609562,5.0,2.5,7.0,ChIJZ1zHNJZYwokRXglrR1VR2CQ,Uros NY
+1123,40.7700805,-73.9638431,5.0,2.5,5.0,ChIJ3dHmDOtYwokRwQSnout6wdc,Villa Paradiso
+1124,40.739159,-73.84851,1.4,2.5,7.0,ChIJ04WGjtNfwokR2zj6ugEyIoc,Holiday Inn Express Laguardia Airport
+1125,40.7584121,-73.8345492,0.9,2.5,7.0,ChIJHaxvRwxgwokRFVqMzrbF3F8,The Parc Hotel
+1126,40.74559,-73.834594,5.0,2.5,5.0,ChIJ2eGiwnBgwokRcGxviQ1sGCU,峰民宿
+1127,40.7538643,-73.8321393,1.2,2.5,7.0,ChIJ_____2tgwokRjY8PuCPX1qI,Lai Lai
+1128,40.7573259,-73.834542,0.9,2.5,7.0,ChIJMf8iQAxgwokRXjqYU6h3zNk,Skyview Parc
+1129,40.7259614,-73.8458886,5.0,2.5,7.0,ChIJJxcJnChewokRAQuaRmyEqgo,Zandan bataa
+1130,40.7181449,-73.8370636,5.0,2.5,7.0,ChIJ5744x55gwokRhcyKx5wn5fE,LaQuinta Inn Hotel
+1131,40.771433,-73.844467,0.9,2.5,7.0,ChIJY69rW_5fwokR-TLeBz7AbAU,Fairfield Inn New York LaGuardia Airport/Flushing
+1132,40.7812624,-73.8407973,1.0,2.5,7.0,ChIJ1XjTxKyKwokRzkb5dbCLvFo,Hotel de Point - Flushing
+1133,40.7614189,-73.8326828,1.7,2.5,7.0,ChIJwduEqA9gwokR13HK_H0ThAA,Red Roof Inn Flushing New York - LaGuardia Airport
+1134,40.7597702,-73.8328644,2.0,2.5,7.0,ChIJBRH0Xg5gwokRbBR_z_JpD48,Best Western Queens Court Hotel
+1135,40.7620744,-73.8316895,2.3,2.5,7.0,ChIJrZzRlA9gwokRJGInk6l5yGQ,Flushing Grand Hotel
+1136,40.7606915,-73.83165,1.2,2.5,7.0,ChIJR6M6NQ5gwokRhGEIGeXoapc,Howard Johnson Flushing
+1137,40.7596619,-73.8315972,1.1,2.5,7.0,ChIJe-xKRw5gwokRukjfSjSLA2o,Sheraton LaGuardia East Hotel
+1138,40.7635553,-73.8309531,0.9,2.5,7.0,ChIJx57vWgVgwokRWmFHg0ogHsA,Marco LaGuardia Hotel by Lexington
+1139,40.760728,-73.833692,1.3,2.5,7.0,ChIJtTXY5w5gwokRNl8ONiyGXPw,Quality Inn
+1140,40.7652136,-73.8312732,2.6,2.5,7.0,ChIJX_oJJAVgwokRGN-SIvIt0yU,Flushing Motel
+1141,40.7611825,-73.8323726,0.7,2.5,7.0,ChIJ1_zirw9gwokRMIookL712TQ,Asiatic Hotel
+1142,40.7593397,-73.8327127,0.7,2.5,7.0,ChIJrXWjZg5gwokRI8IwJy8rEFM,Hyatt Place Flushing/Laguardia Airport Hotel
+1143,40.7641299,-73.8321325,1.3,2.5,7.0,ChIJHd_3bAVgwokRxa-qIkwK1pA,Flushing International Hotel
+1144,40.763491,-73.828445,2.0,2.5,7.0,ChIJqSbwlhpgwokRAFY7uiw6s5w,The One Boutique Hotel
+1145,40.7567584,-73.8323413,5.0,2.5,7.0,ChIJF-kUtw1gwokRq9tVMxXUmEU,New York Bed & Breakfast - A Pine Pavilion Guesthouse
+1146,40.7567505,-73.8303903,0.9,2.5,5.0,ChIJSzkMiw1gwokRZn75kNyOePc,Eastern Hostel
+1147,40.7541798,-73.8309299,5.0,2.5,7.0,ChIJtTM1Qw1gwokRKv1bVRFW-J8,纽约家庭旅馆,纽约便宜旅店 -- 唐人客居
+1148,40.756628,-73.8326059,5.0,2.5,7.0,ChIJVaVSvRFgwokRohCAaRLOOTM,New York Family Hotel
+1149,40.7607525,-73.8326348,5.0,2.5,7.0,ChIJ0a05VQ5gwokRZ1qi1ZzxGv0,hd virtual 360
+1150,40.7615287,-73.832839,1.5,2.5,7.0,ChIJvwetpQ9gwokRxPa_9zW-r60,Ramada Flushing Queens
+1151,40.7614616,-73.8327773,5.0,2.5,7.0,ChIJZ2hXqw9gwokRAFEh9r6QTYw,Ramada Inn Flushing Queens
+1152,40.769108,-73.832742,1.5,2.5,7.0,ChIJ-bkucgNgwokRZQRd_KY_NWg,Grandview Hotel New York
+1153,40.756653,-73.832376,5.0,2.5,7.0,ChIJs52bsA1gwokRqnwaDy9iERE,南北之家 纽约法拉盛旅馆
+1154,40.7591345,-73.8308526,5.0,2.5,7.0,ChIJG6vcaA1gwokR1nRKToIQmTU,纽约华人酒店民宿
+1155,40.767203,-73.8305273,5.0,2.5,7.0,ChIJE7yLsQRgwokRbGz3ApLwkPY,Higher Suite
+1156,40.7601394,-73.8300509,5.0,2.5,7.0,ChIJESne1RFgwokRJhGR63xwass,匯客來民宿
+1157,40.7827292,-73.8460606,5.0,2.5,7.0,ChIJpao87P5fwokRPpRBE27Qgxk,Anchor Lodge F & AM
+1158,40.7605967,-73.8332121,5.0,2.5,7.0,ChIJIzQy_w5gwokR1XDvvLPIpks,舒适之家 王子街 家庭旅馆
+1159,40.7601691,-73.8326174,1.2,2.5,7.0,ChIJQZx0Wg5gwokR8PxpoDWXP6M,AnYi Guesthouse Flushing
+1160,40.764122,-73.832071,5.0,2.5,7.0,ChIJQfsfbAVgwokRJonKhdwzt5Q,丽晶
+1161,40.765334,-73.831786,5.0,2.5,7.0,ChIJFX8pHwVgwokRZoGwWtin_YA,Explore NYC Hotel
+1162,40.763954,-73.831191,5.0,2.5,7.0,ChIJp3sQRAVgwokRazLU4D4ckVg,Excelsior Hospitality Management
+1163,40.7552081,-73.8323023,5.0,2.5,6.0,ChIJLdBYBQ1gwokROWUXwQufyp8,Prasad Realty Corporation
+1164,40.7672074,-73.8305095,5.0,2.5,7.0,ChIJ4XMgsgRgwokRF4K9pqRWoGI,海悦酒店
+1165,40.7598291,-73.8299829,5.0,2.5,6.0,ChIJT8GI8BlgwokRV_VjOpojf-E,阳光罚单中心TrafficTickets交通罚单
+1166,40.7661898,-73.8283952,5.0,2.5,7.0,ChIJPWVnFBtgwokR0jhHfkV0ho0,First Service Realty
+1167,40.7286231,-73.9797903,5.0,2.5,7.0,ChIJIyk69HZZwokRd-tKUXp_ES4,533 east 12th street apt
+1168,40.7231362,-73.9902341,5.0,2.5,7.0,ChIJXTkwaYRZwokRGW_jzjR1LhM,The GEM Hotel-SoHo, an Ascend Hotel Collection Member
+1169,40.7259045,-73.9799238,5.0,2.5,7.0,ChIJG8w5dHdZwokRrWSznFt8qp4,International Student Hospice
+1170,40.7217861,-74.0094471,5.0,2.5,7.0,ChIJVVVVVfRZwokRumWa_HB_Gmk,Luxury Collection HRR
+1171,40.7236225,-74.0088041,5.0,2.5,7.0,ChIJ6x1AhfRZwokRB2lbgnbbwlo,S.A.M.S Housing Group
+1172,40.7235671,-74.002178,5.0,2.5,7.0,ChIJefFcc4xZwokRHjwM6txUozc,Booknbed
+1173,40.7400566,-73.9912851,5.0,2.5,6.0,ChIJByhgu6NZwokR-6yAMv_CKeo,Travel Ktyou
+1174,40.7432097,-73.9989857,5.0,2.5,7.0,ChIJ6YqhkrtZwokRXkJEhpO8Okw,Wanderers Inn West
+1175,40.7430001,-73.9907159,5.0,2.5,7.0,ChIJYYMRRKRZwokRQS3nzKw1vXc,La Semana Inn
+1176,40.6311882,-73.967622,0.8,2.5,7.0,ChIJ6SLfT8xEwokRsUHUZ46LYfg,Sleep Days Suites
+1177,40.632951,-73.964431,0.2,2.5,7.0,ChIJ45H1RMtEwokRpbcPMAVDmsI,Loralei Bed and Breakfast
+1178,40.633303,-73.9633109,5.0,2.5,7.0,ChIJ1eqGMctEwokR5_SK6ww_Pzo,The Blue Porch Bed and Breakfast
+1179,40.6333853,-73.9619143,5.0,2.5,7.0,ChIJG_3LLDVbwokRkzqdet5RWF8,Strange Dog Inn
+1180,40.6340189,-73.9825752,5.0,2.5,7.0,ChIJTeQqedVEwokR2Sr2nnws-E0,Mosaic Suites
+1181,40.6328967,-73.962627,5.0,2.5,7.0,ChIJod7PKMtEwokRxSmelwg01OY,The Griffin
+1182,40.6721892,-74.0113473,5.0,2.5,7.0,ChIJhWjEzo1awokRRjPppsW-aGk,Focus Travel Agency
+1183,40.6535579,-74.007277,5.0,2.5,7.0,ChIJkf42vbhawokRfrW0VOQivB4,l candlewood suites NYC tyme square
+1184,40.644647,-73.998558,5.0,2.5,7.0,ChIJb1JYks5awokRXr7PDTpa_6Y,Dartna
+1185,40.641127,-73.9859781,5.0,2.5,7.0,ChIJ7eEUzdVawokR1qCg9ssDKFM,European Boutique
+1186,40.7395488,-73.999651,5.0,2.5,7.0,ChIJPd4cx71ZwokR-XHpbbUn6g0,Chelsmore Apartments
+1187,40.7410365,-74.0037952,1.4,2.5,7.0,ChIJGy1IAr9ZwokR8zNy86WQr0o,Chelsea Mews Guest House
+1188,40.7337627,-73.9857631,1.1,1.0,7.0,ChIJLTqOqJ9ZwokRVtxC191nNB8,The Penington Friends House
+1189,40.7536542,-73.9946304,0.9,2.5,7.0,ChIJT1lEiK1ZwokRypK1zWcooRo,TRYP By Wyndham Times Square South
+1190,40.6305515,-73.9654994,5.0,2.5,7.0,ChIJPbJ4dsxEwokRRhKzTsryQlo,Bibi's Garden
+1191,40.6291968,-73.9744771,0.8,2.5,7.0,ChIJ-3-JdNFEwokRPhcIAagZh4c,LXURE
+1192,40.630317,-73.965489,5.0,2.5,7.0,ChIJ51ERdcxEwokRcX4TEP8qjkE,Honey's Bed & Breakfast
+1193,40.630816,-73.965001,5.0,2.5,7.0,ChIJiYjihctEwokRkAaGi15P5dw,Eve's Bed & Breakfast
+1194,40.6454669,-74.012895,5.0,2.5,7.0,ChIJUeat_bNawokRqE-u1XkT9VE,00
+1195,40.6442517,-74.0146209,5.0,2.5,7.0,ChIJB1GksLNawokRZ-i9m2joLKc,Hotel Palacios Del Obispo Craus
+1196,40.6423917,-74.0145227,5.0,2.5,7.0,ChIJ3wk2F7NawokRd7Z1A1uf1pY,Brooklyn Holiday 457
+1197,40.6370518,-73.9808548,5.0,2.5,7.0,ChIJBWxYwypbwokRXqyG7UiWYmU,Pearl International
+1198,40.6371519,-74.0112364,5.0,2.5,7.0,ChIJA-b0lktFwokRkbGf2426HxE,Xiyang Yang International
+1199,40.635147,-74.005437,5.0,2.5,7.0,ChIJl5bQ5TVFwokRo-yWrx8VnUU,小冰冰之家
+1200,40.7033945,-74.0113374,5.0,2.5,7.0,ChIJ28WPbBRawokRE-andznhNFI,Ace Lift Hotel
+1201,40.7047012,-74.007517,5.0,2.5,7.0,ChIJe4JdDhZawokRM_KmuquObV4,월스트리트숙소
+1202,40.7054071,-74.0048152,5.0,2.5,7.0,ChIJl-gvvD1awokRFE6NEOuvtzE,1 Seaport (Condominium)
+1203,40.703861,-74.0123307,5.0,2.5,7.0,ChIJqURuChRawokRO-tM7ZKiDDc,DoubleTree
+1204,40.7057165,-74.0052608,5.0,2.5,7.0,ChIJSQV7lz1awokRNcfrpoA3Me8,Marriott Hotel
+1205,40.7055787,-74.0083779,5.0,2.5,7.0,ChIJQfoGQhZawokRWnTzkDWoPUk,Crest Lofts
+1206,40.7056363,-74.0087422,5.0,2.5,7.0,ChIJE8lWXRZawokRovVxsApaMs8,The Crest
+1207,40.7060006,-74.008801,5.0,2.5,7.0,ChIJG8VBWxZawokRO37ylYqRKdU,Marriot Hotel, State Street
+1208,40.7080576,-74.0014377,5.0,2.5,7.0,ChIJU68UsjxawokRC7G1L76dJ0c,Hotel NY
+1209,40.7068089,-74.0094276,5.0,2.5,7.0,ChIJRQN3VRZawokRwVvpzEDOfhg,Fortune Empire
+1210,40.70776,-74.007393,5.0,2.5,5.0,ChIJO2D8whdawokRbhus9Y52SpE,Hospitality Alliance
+1211,40.7464191,-74.0028019,5.0,2.5,5.0,ChIJE4FxurlZwokRfluPIFG4w20,Dupuy's Landing Guest House
+1212,40.7378878,-74.004182,1.1,2.5,7.0,ChIJAdfxepVZwokRzluAKiaJtLM,Incentra Village House
+1213,40.7375027,-73.9998104,5.0,2.5,7.0,ChIJqUi9HJZZwokRmo92a7X0ToU,The Brand Bed and Breakfast
+1214,40.7422981,-73.9840893,5.0,2.5,7.0,ChIJU_7zXPtYwokRrHKwidRgCGo,Quikbook
+1215,40.6244116,-74.0274901,1.1,2.5,7.0,ChIJczJJtF9FwokRGr2gdcaWUUI,Best Western Gregory Hotel
+1216,40.627173,-74.0265766,2.0,2.5,6.0,ChIJyS5uujtFwokRmM5nyQMU9cw,Chico Express car and limo service Brooklyn,new york
+1217,40.6253978,-74.028347,5.0,2.5,7.0,ChIJxdyVoV9FwokRgHvoLY6AAWo,St Anselm Youth Activities
+1218,40.630659,-73.9706029,5.0,2.5,7.0,ChIJxbwY8s1EwokRVFhrvnFMlhI,Comfort Inn, Emmons Av.
+1219,40.633374,-73.962735,5.0,2.5,7.0,ChIJ4zCcK8tEwokR22PeavFBaBg,Emilia's Retreat Bed and Breakfast
+1220,40.6293631,-73.9651957,5.0,2.5,7.0,ChIJqc_i-MtEwokRlwdW1b_q7cA,Brooklyn Hotel
+1221,40.6232665,-73.9612809,2.3,2.5,7.0,ChIJY9LR3sdEwokRJkAQxi2sPVw,Midwood Suites
+1222,40.6413441,-73.9078185,0.6,2.5,5.0,ChIJD9FbRsFcwokRFMNYBLnhRQk,Delz Bed & Breakfast
+1223,40.624897,-73.927869,5.0,2.5,7.0,ChIJ-7P7t1NDwokRbeTX4uINV3k,Island party catering
+1224,40.6232456,-73.961298,5.0,2.5,7.0,ChIJS8nR3sdEwokRQkwCK75dLCY,Nuestro hotel
+1225,40.6250548,-73.9390666,5.0,2.5,7.0,ChIJCdjtfqlEwokRY4ad-H_-ItA,Eve Bed & Breakfast
+1226,40.6426364,-73.9138667,5.0,2.5,7.0,ChIJUfEZQL9cwokRvpS9XUpD6Lc,ADVENTUREHOSTEL JFK/NYC
+1227,40.639593,-73.915646,5.0,2.5,7.0,ChIJe6_HA7lcwokRjpdeHO3sTMk,Chanty
+1228,40.6175558,-73.9397148,5.0,2.5,6.0,ChIJnVas8KZEwokRRqMTTmDq1yQ,Apartment Consulting Services LLC
+1229,40.6187947,-74.0323794,2.5,2.5,7.0,ChIJj3Rjh4lPwokR8KVeHm3CYKc,Hotel Prince Spafford
+1230,40.611883,-74.028229,1.0,2.5,7.0,ChIJLfmFaX1FwokRefN8v-XTmPw,Holiday Inn Express in Building 107 On Fort Hamilton.
+1231,40.613361,-74.036275,5.0,2.5,7.0,ChIJUQUG5IVPwokRLzb3qHQCvw4,Riverside Tower Llc
+1232,40.6111709,-73.975865,5.0,2.5,7.0,ChIJMfwbo-ZEwokRj5i_6nn2Hnw,Diamond Owl
+1233,40.6565872,-73.8897607,1.9,2.5,7.0,ChIJX06K9P1cwokRAW9xnNJ_aUk,Galaxy Motel Brooklyn
+1234,40.6782012,-73.8844337,1.6,2.5,7.0,ChIJ4wAtQLRdwokRWybegvmS4bw,Riviera Motor Inn
+1235,40.6725215,-73.8852222,5.0,2.5,6.0,ChIJtzkccLJdwokR8OKqS1u39gI,Custodian Ps 158
+1236,40.7481806,-73.9748902,1.3,2.5,7.0,ChIJNdNwcwRZwokRzvDc79z52Ls,Eastgate Tower Hotel
+1237,40.7360063,-73.9870065,5.0,2.5,7.0,ChIJt0I736FZwokRk6E3P-dI1vo,Irving Inn Hotel
+1238,40.7386718,-73.9810923,5.0,2.5,5.0,ChIJyexwRwpZwokRSC0lgC0OAKs,Mi Casa Hotel Group, LLC.
+1239,40.745251,-73.981666,0.2,2.5,7.0,ChIJ8_fA4AdZwokRtVMX4Yv9niQ,The Marmara Park Avenue
+1240,40.7167475,-73.9961623,5.0,2.5,7.0,ChIJVdy87SdawokRtB8iGMp0mhs,Brilliant Forever Inc
+1241,40.733197,-73.986258,5.0,2.5,7.0,ChIJ_aJl_p5ZwokRkjsjNcEurTw,New York Inns Group
+1242,40.7279316,-73.9907857,5.0,2.5,7.0,ChIJM2JhFptZwokRMl8Kpwiu0Fg,The Standard Hotel
+1243,40.7422064,-73.979245,5.0,2.5,7.0,ChIJGwZkDglZwokRjd3kg1UaKpw,New York City Housing Authority's Nathan Straus
+1244,40.7300723,-73.9908715,5.0,2.5,7.0,ChIJFSIPuZtZwokR3J3VAJwbxoE,hilton hotel
+1245,40.6717606,-73.8442702,1.8,2.5,7.0,ChIJ0-NlJYpdwokRE9atyobJZ7Q,Comfort Inn & Suites JFK Airport
+1246,40.7059018,-73.8172906,1.4,2.5,7.0,ChIJnd6tXMdgwokRE_s0KA1_y50,Best Western Jamaica Inn
+1247,40.7060299,-73.8168701,2.5,2.5,7.0,ChIJJauGR8dgwokRmtFc8QxB9VY,Jets Motor Inn
+1248,40.6720863,-73.8441431,2.1,2.5,7.0,ChIJI1yWOIpdwokREtgGw4IDqPY,Days Inn & Suites Ozone Park/JFK Airport
+1249,40.699924,-73.826828,5.0,2.5,7.0,ChIJ0W7VDrFgwokRgN74xZjI5dM,Vashon's
+1250,40.6822066,-73.7267914,5.0,2.5,7.0,ChIJ-_k28fRjwokRgw_0WHGwX48,Holiday inn new york jfk area
+1251,40.6999841,-73.8303345,5.0,2.5,6.0,ChIJmb6DH65gwokR_FCQY_TgvqA,Celebrations Event Center
+1252,40.679643,-73.8501689,5.0,2.5,7.0,ChIJRe4qr_NdwokR_CHmlAV5VM8,Billito
+1253,40.7114619,-73.8034103,5.0,2.5,7.0,ChIJVWlPCOdgwokRTpZl7zgZBjg,Colonial Hotel
+1254,40.6747938,-73.8638657,2.4,2.5,7.0,ChIJvcKl3JVdwokRzdB2QPwgLxw,Linden Motor Inn
+1255,40.6634186,-73.8555663,5.0,2.5,7.0,ChIJVftYb5tdwokRM9YxBtkLCpA,Torres - Martinez
+1256,40.7071412,-73.8286733,5.0,2.5,5.0,ChIJVVVVFbtgwokRT0E80pOq1D8,Cherrie Hill
+1257,40.716991,-73.8186,1.6,2.5,7.0,ChIJBatNVetgwokRtlBi6nnnGOM,Kew Motor Inn
+1258,40.7129954,-73.8182244,5.0,2.5,6.0,ChIJkQL2TJVgwokRT6qzgSKJfx8,Best Paradise Vacations
+1259,40.7133547,-73.8336561,5.0,2.5,4.0,ChIJbWvFa6JgwokR4CUflfzAo9Q,Summer at Kew Forest!
+1260,40.7160721,-73.8076689,2.2,2.5,7.0,ChIJ1QVCQ-9gwokRG4e0BvRErFc,Par Central Motor Inn
+1261,40.7109756,-73.816651,5.0,2.5,7.0,ChIJFzXLPMBgwokRPiVMmR_-Nmk,Havenwood #VirninghamwiLLC
+1262,40.7065119,-73.8321969,5.0,2.5,7.0,ChIJubkk4qRgwokRsfux43x2Pl4,Crash Pad
+1263,40.708497,-73.8369578,5.0,2.5,7.0,ChIJUUhUvKZgwokR6MXxlMYVc3U,Hampton Court
+1264,40.7179188,-73.8254175,5.0,2.5,7.0,ChIJmfNwS5FgwokRd3xOO89LxxE,Jamaica Barn
+1265,40.723445,-73.810837,5.0,2.5,7.0,ChIJf7x9DPFgwokRONvZq2OpTL8,Casa Nyc
+1266,40.6958289,-73.8592855,5.0,2.5,7.0,ChIJF2d4KeJdwokRFYOJ9G1Yd5I,Casa De Rosemary
+1267,40.7257422,-73.79871,5.0,2.5,6.0,ChIJMz545f5gwokRkqjhwARcY-4,Eden Development
+1268,40.718783,-73.733576,2.1,2.5,7.0,ChIJ4R6IJc1jwokRDe_M8gDNknQ,Howard Johnson Inn Queens
+1269,40.739096,-73.787589,2.5,2.5,6.0,ChIJfycJmbFhwokRo7YrFdE-ZgY,Executive Office Center at Fresh Meadows
+1270,40.728224,-73.7948516,5.0,2.5,5.0,ChIJPz_r-9eEY0gR298O-VTjpfM,Regency Hotel
+1271,40.7068364,-73.748097,5.0,2.5,6.0,ChIJ4TWCAWJhwokRQdVENwBkpC8,Sherry Destinations Travel
+1272,40.7351444,-73.7812964,5.0,2.5,4.0,ChIJe42XPqVhwokREWsyaZy90i4,Kai Massage Therapy
+1273,40.7398444,-73.788236,5.0,2.5,7.0,ChIJl4_febFhwokRIyIWzoHa9tg,Diamond Rexine Works
+1274,40.7402997,-73.7907046,5.0,2.5,7.0,ChIJqyeftrNhwokRhxZQImLSK3E,Courtyard by Marriott
+1275,40.7405056,-73.7898104,5.0,2.5,7.0,ChIJZcVRyLNhwokRzPlrU_tItWU,Fairfield Inn by Marriott
+1276,40.712423,-73.731329,2.3,2.5,7.0,ChIJg1ILw85jwokR2BSefH6h3F0,Belmont Hotel
+1277,40.7315077,-73.7729195,5.0,2.5,6.0,ChIJdZaWQaJhwokRsUAx0zWgWCA,And Estates LLC
+1278,40.7248401,-73.759315,5.0,2.5,7.0,ChIJzU-wzYJhwokRNMxZhn3sLAo,Home2
+1279,40.713239,-73.736447,5.0,2.5,7.0,ChIJh5HD29FjwokR0t_CggmgYY8,Casegha
+1280,40.7123838,-73.7313553,5.0,2.5,7.0,ChIJozHYws5jwokRLAkuL038fHI,Belmont Inn
+1281,40.7318638,-73.8229433,5.0,2.5,6.0,ChIJWbCMDIpgwokRIkkqxaep9Sk,Ezra International Entertainer
+1282,40.740023,-73.7509358,5.0,2.5,7.0,ChIJsWBJHIthwokRzqOSyBO12aI,WOTC
+1283,40.7402002,-73.7491598,5.0,2.5,5.0,ChIJrWvdv4phwokRHNXMQuuvSuY,Alley Pond Park YP Camp
+1284,40.6640658,-73.8771343,1.8,2.5,7.0,ChIJibp4J6ZdwokR5JnYftTjLY8,Hotel Bliss - Brooklyn
+1285,40.644557,-73.892285,5.0,2.5,7.0,ChIJ0VDpi-BcwokRL_8f9cyFuLE,Exquisite Guesthouse & Suites
+1286,40.6524622,-73.8875216,2.0,2.5,7.0,ChIJLbt2NR1dwokRjt8a4inEeGg,Oasis Motel
+1287,40.635753,-73.890704,5.0,2.5,7.0,ChIJWc3A9dhcwokRvOHQeg-2VKY,Bae
+1288,40.6328058,-73.7394732,1.1,2.5,7.0,ChIJ00RT8dBlwokROO9w7siDxtY,Five Towns Inn
+1289,40.6165734,-73.7451792,5.0,2.5,7.0,ChIJU24vMuJlwokRc2jgAGkj5Ac,Leonardo Da Vinci Lodge 2385
+1290,40.660037,-73.719508,5.0,2.5,7.0,ChIJR2owN2pkwokRG0ac0UecEgg,South valley stream
+1291,40.6228854,-73.7248443,5.0,2.5,2.0,ChIJwzZbmMBlwokRKSy5PNvhvuc,Pure Aesthetics
+1292,40.6398719,-73.713371,5.0,2.5,7.0,ChIJsWbWd01kwokRHDoz6Mp3IcU,LLS Properties Incorporated
+1293,40.6388633,-73.7069653,5.0,2.5,7.0,ChIJh0fLeFNkwokRWu8sO1SRfTQ,Regional Home Care Services Inc
+1294,40.621234,-73.723755,5.0,2.5,7.0,ChIJL_1uhL9lwokRuMLDPKdf37U,Casa
+1295,40.6694559,-73.70989,5.0,2.5,7.0,ChIJfwXZU3pkwokR9Dv3GvkkGf0,Kima's Place
+1296,40.7106353,-73.7086916,1.4,2.5,7.0,ChIJFfHVgq5jwokRsbuMfmWN-bI,Parkway Motor Inn
+1297,40.6427866,-73.8988641,5.0,2.5,6.0,ChIJQa7NFd1cwokRVCgAinsik7M,Four Seasons
+1298,40.5936411,-73.9973127,1.9,2.5,7.0,ChIJfc5ZLaRFwokR1cCtn2MBR7c,Harbor Motor Inn
+1299,40.595724,-73.973005,2.6,2.5,5.0,ChIJ-f_yc_hEwokRZTIKJE7G13k,Coney Island Auto Parts Unlimited
+1300,40.6003704,-73.9711103,5.0,2.5,7.0,ChIJ2X4oqvBEwokRu7Wx7xXh9i0,Sovah Catering
+1301,40.5963588,-73.9766376,5.0,2.5,7.0,ChIJR0L2rvhEwokR9-DoEzPiFvY,Prime chef's 68 corporation
+1302,40.6177336,-73.9278975,5.0,2.5,7.0,ChIJawwCZlpDwokRPBx19btiYB8,Comfort Inn
+1303,40.5953482,-73.9504567,5.0,2.5,6.0,ChIJn4O84ohEwokRKN787RHbNKE,Work and Travel blueline2020
+1304,40.7468639,-73.9822994,0.8,2.5,7.0,ChIJm3WzjwdZwokRvy13roQxKVQ,Hilton Garden Inn New York/Midtown Park Ave
+1305,40.723683,-73.9780799,5.0,2.5,7.0,ChIJbxxX7HlZwokRMGFN6bVABvI,East Village Bed and Breakfast
+1306,40.7266747,-73.9772465,5.0,2.5,7.0,ChIJVZXlLHdZwokRx01KcAL2ve4,The Log Cabin
+1307,40.7173881,-73.9856751,5.0,2.5,7.0,ChIJ0Y3sXoBZwokRjUbF-mhvcI8,高盛公司
+1308,40.729517,-73.979,5.0,2.5,7.0,ChIJZY8HnHZZwokRGNYw0ADDuMQ,Sushi Apt
+1309,40.7192505,-73.9886766,5.0,2.5,7.0,ChIJ09xXLIFZwokRAA3iPYBVHik,B & B International LLC
+1310,40.7089472,-74.0020689,5.0,2.5,7.0,ChIJRVc5SCNawokROILDrVs7is8,Hampton Inn
+1311,40.7079853,-74.0077109,5.0,2.5,7.0,ChIJPWVt6hdawokR37B5ASVO86U,AKA Wall Street
+1312,40.7092622,-74.0090837,5.0,2.5,7.0,ChIJ7UTNgBdawokRxCaGAbIjs7s,James Madison's Res.
+1313,40.709607,-74.0097921,0.5,2.5,7.0,ChIJE1b91RlawokRoKQ8l9Y6-co,Residence Inn New York Downtown Manhattan/World Trade Center Area
+1314,40.8310122,-73.8844742,2.6,2.5,7.0,ChIJEyFJQPf0wokRHS0j4dWzCWs,Sheridan Hotel
+1315,40.8395952,-73.8811142,2.4,2.5,7.0,ChIJE_Djy4z0wokR6FQGv9PF9uo,Howard Johnson Express Inn Bronx
+1316,40.8554373,-73.8907145,1.1,2.5,7.0,ChIJJcio3330wokR98POe6iF50o,Jet Set Hotel
+1317,40.858339,-73.8999091,1.9,2.5,7.0,ChIJ9cpXw3n0wokRU_rB3thX2cc,Concourse Hotel
+1318,40.8485896,-73.9000797,5.0,2.5,7.0,ChIJowv-jWX0wokR0nrUeDL7t6c,Park Overlook Hotel
+1319,40.8188869,-73.91491,1.1,2.5,7.0,ChIJFRDFhMn1wokRRpIkH0sR6Ss,Umbrella Hotel
+1320,40.817109,-73.910632,5.0,2.5,7.0,ChIJq7AwRrb1wokRVrCigEYc1sI,The Eagle Enclave Estate
+1321,40.8202086,-73.9126637,5.0,2.5,7.0,ChIJv1aqC8r1wokRiR7lCuSaT4I,Marco's Spot
+1322,40.821101,-73.910316,5.0,2.5,7.0,ChIJSUcyprX1wokR0a_SgejzUlU,Casa de paloma
+1323,40.835602,-73.913058,5.0,2.5,7.0,ChIJ00uYcTj0wokR-qkqSA96GN4,Jessica's Apartment
+1324,40.824559,-73.89085,5.0,2.5,7.0,ChIJsSHEuFX0wokRIfzAVczYSBU,Casa Del Compañero
+1325,40.8369324,-73.9089312,5.0,2.5,7.0,ChIJjwlS5kb0wokRsrB2r5qPWbU,Flat Fix Quality Tire Shop
+1326,40.8391595,-73.8992539,5.0,2.5,5.0,ChIJdeJf3lz0wokRfxxL8GnWVRo,Crotona Park West Hdsc
+1327,40.8463148,-73.9090585,1.6,2.5,7.0,ChIJMTGkpGv0wokRc62-yctBMkc,Concourse Plaza Hotel
+1328,40.8445004,-73.8980774,5.0,2.5,7.0,ChIJr4qlqmf0wokRd50PScCVfMQ,Lincoln Atlantic Motor Inn Inc
+1329,40.8448859,-73.9377863,5.0,2.5,7.0,ChIJz_1QS572wokR70k13uk-x4o,Tio Bolo
+1330,40.8483761,-73.9002002,1.2,2.5,7.0,ChIJhxkjjWX0wokRZKYJ5i3BNdQ,Webster Hotel Inc
+1331,40.845773,-73.889966,5.0,2.5,7.0,ChIJSVkiHGL0wokRp2ZAgpMnShI,Da KhAh-ReeiiBoh
+1332,40.848156,-73.9391919,5.0,2.5,7.0,ChIJ91QezqH2wokR76_NZiZQX08,Apartament Marc sch
+1333,40.8495657,-73.9369327,5.0,2.5,7.0,ChIJseesY6D2wokR-HV1q7RN8o8,Lugar de trabajo
+1334,40.799161,-73.961936,5.0,2.5,7.0,ChIJxeTi-CL2wokRfeiLuiPHI2g,NY Address Micah
+1335,40.7972398,-73.9608065,5.0,2.5,7.0,ChIJ6ThnFiL2wokRx5vHJxy2_68,NUESTRA CASA
+1336,40.8217588,-73.8648408,5.0,2.5,7.0,ChIJee-wBd70wokRptPrizHWGOw,Nevaeh's House
+1337,40.852688,-73.9328781,0.4,2.5,7.0,ChIJWxH-NBz0wokRLQzD1wvn0M0,Bone Palace Luxury Resort and Spa
+1338,40.854613,-73.9092,5.0,2.5,7.0,ChIJ-4yZXnL0wokR4kc8adMwPSY,Ma yard
+1339,40.7700684,-73.9832901,5.0,2.5,6.0,ChIJ4a_IVF9YwokR_oPGQu08MnI,Dream Vacations CruiseOne New York Brill and Associates
+1340,40.7715251,-73.9858662,5.0,2.5,7.0,ChIJ5z-e315YwokRZn7FgU5HE0s,Glenwood Management Corporation
+1341,40.7633934,-73.9698667,5.0,2.5,7.0,ChIJr-KHX-VYwokRNZfXtiwHXko,Delmonico Hotel
+1342,40.7644854,-73.9745386,0.7,2.5,3.0,ChIJZbSYh_BYwokRVbSGraozj5I,Olma Caviar Boutique & Bar
+1343,40.8685274,-73.9240383,5.0,2.5,7.0,ChIJMzjVY_fzwokRcnYLnFCOu5k,Beysicair Hotel
+1344,40.8561797,-73.9378908,5.0,2.5,7.0,ChIJiVffxqf2wokRSmZeq_lqvcA,Apt NYC
+1345,40.765807,-73.978095,5.0,2.5,7.0,ChIJp0NjOfdYwokRly2_FF-YjwU,The Meurice
+1346,40.8565893,-73.8819837,1.9,2.5,7.0,ChIJbUEly4P0wokR7ShfL6252I8,Bronx Park Motel
+1347,40.8386678,-73.8670539,5.0,2.5,7.0,ChIJE85SFJX0wokRHdspFVn2iuw,Delta Manor Men's Shelter
+1348,40.8634755,-73.8973519,5.0,2.5,7.0,ChIJDScRBIfzwokRze57sDOcocc,Fordham Residence Hotel
+1349,40.8380063,-73.8637722,5.0,2.5,7.0,ChIJrXOPlb_0wokRGKYV4qMmF_0,Pet Lodge
+1350,40.8213979,-73.8584858,5.0,2.5,7.0,ChIJrxB9YNn0wokRzVLncyWnV5M,J&n Liquor
+1351,40.8270274,-73.8565741,5.0,2.5,7.0,ChIJZ_96IMX0wokRqv06caWhnOc,Westchester car rentals
+1352,40.8689048,-73.9029868,5.0,2.5,7.0,ChIJyW60Go_zwokRTxucrvMpClU,Massachusetts Aparments
+1353,40.7969397,-73.9695893,5.0,2.5,7.0,ChIJMeb2bSb2wokRfWz859j4q-k,Midway Hotel
+1354,40.7936132,-74.0107719,5.0,2.5,7.0,ChIJi-iCigtYwokR9oGFEriPF9c,Sandhaus Bed & Breakfast
+1355,40.7571805,-73.9866032,5.0,2.5,5.0,ChIJfxG_wnVZwokRv-kAu_1gXLg,New York City holiday apartments
+1356,40.8828019,-73.8988527,2.0,2.5,7.0,ChIJyzwq7KLzwokRxg3QNQ4JZeI,Deegan Motel
+1357,40.8752475,-73.8841639,5.0,2.5,7.0,ChIJFzqLE3TzwokRboUfuAdrwZM,Americana Homestay Host Service
+1358,40.8762,-73.886331,5.0,2.5,6.0,ChIJcU3Fs3XzwokRjL7s5gMcApQ,Dreamstyle Vacation
+1359,40.8701771,-73.8778424,1.4,2.5,7.0,ChIJQZ9lJXDzwokRv-GptM0Vxlk,Rodeway Inn Bronx Zoo
+1360,40.8818507,-73.8643621,2.1,2.5,7.0,ChIJR99M5D3zwokRlj3IKqVVjQI,El Rancho Motel
+1361,40.8693751,-73.8572473,1.3,2.5,7.0,ChIJD2fkOUTzwokRp0bLCMP72jM,Paradise Motor Inn
+1362,40.8907776,-73.8989737,5.0,2.5,7.0,ChIJefssYaXzwokRXPHzKwA_FNI,Horan Hall
+1363,40.883747,-73.8924842,5.0,2.5,7.0,ChIJYd1YF6HzwokRqZCuBtIYJeM,VFW Post 95
+1364,40.8892084,-73.904505,5.0,2.5,7.0,ChIJ8cA7srvzwokRGFfmNyeBXA4,casa de dania
+1365,40.890331,-73.900062,5.0,2.5,7.0,ChIJS_G3SKXzwokRsft8bYXQhw8,Lee Hall
+1366,40.892365,-73.909239,5.0,2.5,7.0,ChIJSaQV1LnzwokRzo5t84_gv1A,Briar Oaks Apartments
+1367,40.8396544,-73.8488572,5.0,2.5,7.0,ChIJBaylTLH0wokRcJrQC8G9dNw,Cri
+1368,40.8500269,-73.8426515,0.4,2.5,7.0,ChIJTz49ZKmMwokRMP4rAQlNtvk,Residence Inn New York The Bronx at Metro Center Atrium
+1369,40.7611007,-73.9680109,5.0,2.5,7.0,ChIJj2NvpuVYwokR8vAvj0BOkOU,Grande Hotels Group
+1370,40.7828772,-73.8261508,1.6,2.5,7.0,ChIJMSmWSLuKwokRv_eglLOJyaY,Extended Stay America - New York City - LaGuardia Airport
+1371,40.752787,-73.828016,5.0,2.5,7.0,ChIJBb5FzRJgwokRBNJLcMWfLlE,New York Guesthouse
+1372,40.7624771,-73.8262972,5.0,2.5,7.0,ChIJNVyydxpgwokRP6YtkAprrQc,Flushing Guest House
+1373,40.7587007,-73.8253584,5.0,2.5,7.0,ChIJLWYrORFgwokRLUiYSl-emys,家庭旅馆
+1374,40.757411,-73.8253,5.0,2.5,7.0,ChIJt3bbWBFgwokRVdo6lH48Zvc,Flushinginn
+1375,40.754355,-73.826528,5.0,2.5,7.0,ChIJH3CxGhNgwokRnYUMy-_GKKY,纽约亚洲民宿
+1376,40.7616182,-73.8233897,5.0,2.5,7.0,ChIJ0_UlWhdgwokRVCpnTTyPRv4,华为客栈 华为客栈
+1377,40.7555102,-73.824302,5.0,2.5,7.0,ChIJH-rciRNgwokR3U0idbv2SrA,法拉盛住宿
+1378,40.7587518,-73.8222804,5.0,2.5,7.0,ChIJqUmo7xZgwokRGH0dQ7J4y8U,뉴욕집
+1379,40.757595,-73.820151,5.0,2.5,7.0,ChIJgTbPaxZgwokR3QDqRMd2jt4,Maple Inn
+1380,40.76156,-73.815138,5.0,2.5,7.0,ChIJV6OOJiNgwokRd5JbzTzVQcI,New york home
+1381,40.7818577,-73.8172524,5.0,2.5,7.0,ChIJ1bDQ65eKwokRwBb2Qh_soBA,vfw hall
+1382,40.756969,-73.8116299,5.0,2.5,7.0,ChIJvUC7kTtgwokRYWhKe0ENDGk,Sean Hotel🏩
+1383,40.7555882,-73.8043074,5.0,2.5,6.0,ChIJieMT6DBgwokR_EtpSqoZp94,Well Design Solutions Inc
+1384,40.7586935,-73.7969385,5.0,2.5,6.0,ChIJlxoVZS1gwokRluS6zJgg9C0,James Kim
+1385,40.7653886,-73.8002002,5.0,2.5,7.0,ChIJdwiH2itgwokR3ygcegI5ZUs,Crew Connections & Accmdtns
+1386,40.7645991,-73.9661703,5.0,2.5,7.0,ChIJRZD3L-9YwokROmwsy4s1Rt0,Barbizon Hotel
+1387,40.7602861,-73.9722443,5.0,2.5,7.0,ChIJa24JO_tYwokRG9ZfwVvq2fU,J w New York
+1388,40.756772,-73.971554,5.0,2.5,7.0,ChIJSXQ8zPxYwokRIHb5ZhtvZFU,Metropolitan Hotel Realty LLC
+1389,40.7597692,-73.9689568,5.0,2.5,7.0,ChIJawhX8ORYwokRuwcj3Z4nxKI,Hotel Property Solutions
+1390,40.75243,-73.9737387,5.0,2.5,4.0,ChIJiYyf7QJZwokResGkoVzvjnw,Montgomery Communications
+1391,40.7577217,-73.9698936,5.0,2.5,7.0,ChIJC9WgXeNYwokRu9imlo_TLTc,affinia hotel
+1392,40.7616523,-73.9702151,1.3,2.5,5.0,ChIJH7f3O-VYwokREKYwS5Cmaxs,Spa Castle Premier 57
+1393,40.7607674,-73.9705315,5.0,2.5,7.0,ChIJLxY62ORYwokR3Oo9GROElG8,Howard C Hirsch
+1394,40.755201,-73.97248,5.0,2.5,6.0,ChIJhaDuPv1YwokRf7Mj4-t9BUI,Cosmopolitan Condominium
+1395,40.7601785,-73.9722121,5.0,2.5,7.0,ChIJkWCvO_tYwokRU0XtfwrVDh0,Fairmont Hotels Resorts
+1396,40.7535511,-73.9715775,5.0,2.5,7.0,ChIJEetoEwEE2YgRxLi4MpJ2Qv0,Suites at United Nations
+1397,40.7516375,-73.9717605,5.0,2.5,7.0,ChIJewzX0QJZwokRmGnC0b6fcPA,紐約小房子
+1398,40.754432,-73.9727408,5.0,2.5,7.0,ChIJ_at7Qv1YwokR2qpt_r6A1IM,The Bernic NYC
+1399,40.751837,-73.972356,5.0,2.5,7.0,ChIJxWdiwwJZwokRWbr59FIxWhU,EVEN Hotels New York - Midtown East
+1400,40.7512947,-73.9763115,5.0,2.5,7.0,ChIJd1YVzgNZwokRH7svnShoDG8,Resort Sports Network
+1401,40.7576495,-73.9783318,5.0,2.5,5.0,ChIJPwTctf9YwokR-ioyXzdd46I,Zstay
+1402,40.7563972,-73.9768721,5.0,2.5,7.0,ChIJwQEGnf5YwokRBVgRZpAYcrg,Maybourne Hotel Group
+1403,40.7577674,-73.9780542,5.0,2.5,5.0,ChIJ0Zgpkf5YwokR7erKiCuR5T0,Prompt Gem Importers Inc
+1404,40.7683824,-73.7736815,5.0,2.5,7.0,ChIJj7UsjXSKwokRdPIed3ifq_s,East Coast Realtors
+1405,40.709666,-74.0144108,5.0,2.5,7.0,ChIJ2d__mhBawokRHRD02GcVIHg,Casa andres
+1406,40.710968,-74.0084713,5.0,2.5,7.0,ChIJ3dRbRBhawokR0NPbkbaokdM,ProcessMaker
+1407,40.7111443,-74.0066413,0.1,2.5,7.0,ChIJq6r-exhawokRKgBzzPkn57U,The Beekman, A Thompson Hotel
+1408,40.7114059,-74.0067871,5.0,2.5,7.0,ChIJW_FCfhhawokR3V-dPnQJitA,5 Beekman JV Llc
+1409,40.7124701,-74.0090856,5.0,2.5,7.0,ChIJiz9V4xhawokRorqq7eXaNxM,Four Seasons Hotel New York Downtown
+1410,40.7117715,-73.9982173,5.0,2.5,7.0,ChIJO0LnNiRawokRwXANybebnFY,New York City Housing Authority Smith Houses
+1411,40.7149048,-74.0155325,5.0,2.5,7.0,ChIJtQIseRtawokRsI7gVeTra3g,Conrad New York
+1412,40.7150015,-74.0152218,5.0,2.5,7.0,ChIJmaO3gRtawokReyBYfRHipJM,Conrad
+1413,40.7134531,-73.9928831,5.0,2.5,7.0,ChIJt_nywShawokRBra6mzYGV6k,Hotel New York
+1414,40.6156092,-74.0635287,1.6,2.5,7.0,ChIJPRwpCKVPwokRfa8FpLE-6Co,Harbor House Bed & Breakfast
+1415,40.598719,-74.062256,0.2,2.5,7.0,ChIJee5vQg5PwokRR7QBVFHpilM,Navy Lodge
+1416,40.608409,-74.0767755,2.1,2.5,7.0,ChIJhZQdKQBPwokRhDPxApNOZTc,Staten Island Motor Lodge
+1417,40.6418148,-74.079025,0.8,2.5,7.0,ChIJ9biMGi1OwokR0iVs17tJsIc,Fort Pl B&B
+1418,40.6000471,-74.054907,5.0,2.5,5.0,ChIJIU1c5gtPwokRNHylUSBWfdM,Camp Gateway - Staten Island
+1419,40.6399325,-74.076381,2.6,2.5,7.0,ChIJafkhptJPwokRcuCeFHS5AVk,Hotel Richmond
+1420,40.6293904,-74.0769066,5.0,2.5,7.0,ChIJmYDoUrVPwokRN1wKpoj0jWo,Tompkins Lodge #471
+1421,40.6082456,-74.0733825,5.0,2.5,7.0,ChIJKXOa8gBPwokRxDDG7DBHmEw,Baby's place
+1422,40.63911,-74.076785,5.0,2.5,7.0,ChIJJWmaTc1PwokRbOAV9k2gN4o,Project Hospitality Family Shelter
+1423,40.6440773,-74.0770609,1.5,2.5,3.0,ChIJyfusU9NPwokRuuRjlsaXau4,Twin Dragon's Asian Cuisine
+1424,40.588752,-73.941351,5.0,2.5,7.0,ChIJ83GFe35EwokRhkLX5HaJ_k0,Camp Spot
+1425,40.584162,-73.9385193,1.1,2.5,7.0,ChIJ7ZyL5nhEwokRGdTeHdoXcZ4,Best Western Plus Brooklyn Bay Hotel
+1426,40.5817134,-73.9646774,5.0,2.5,7.0,ChIJaXPPgkNEwokRLaszWcdETGA,Karlsson Loft Guesthouse
+1427,40.5845285,-73.9832156,1.8,2.5,7.0,ChIJyezy1bJFwokRFqD4y5dSwh4,Sleep Inn Coney Island
+1428,40.5840218,-73.9321679,1.6,2.5,7.0,ChIJAyXvz4ZDwokR1VRI6cmzIxM,Comfort Inn
+1429,40.5834529,-73.9324495,2.8,2.5,7.0,ChIJP1Rp0IZDwokRYlU51THRXZI,Lyghthouse Inn
+1430,40.5959677,-73.8859674,1.1,2.5,5.0,ChIJ0fUAreNCwokRQISrkLhtEJ4,Camp Gateway
+1431,40.5968502,-73.8843563,5.0,2.5,5.0,ChIJ3eG25-NCwokRFpQoorH9yIs,Wiley Post A
+1432,40.5783476,-73.9345212,5.0,2.5,7.0,ChIJr2RvR4hDwokRQvzrnCigivY,Panda House At Kingsborough
+1433,40.5781977,-73.941651,1.0,2.5,7.0,ChIJu1Kb03ZEwokRGKq_-XiTY_s,eshel hotel
+1434,40.5730593,-74.0033615,1.0,2.5,7.0,ChIJ4TsOt8NFwokRkhQrFQXVuYw,Sea Gate Beach & Cabana Club
+1435,40.5970529,-74.0846242,1.9,2.5,7.0,ChIJUz6rPOROwokR0ZmlU1JO6Lo,Cosmopolitan Motel
+1436,40.575954,-73.962383,0.3,2.5,4.0,ChIJbRHwV0BEwokRjgh6EkzrUqw,My Fast Travel inc. Tel.1646-464-1173
+1437,40.760499,-73.76609,1.5,2.5,7.0,ChIJk5NmbuFhwokRb1zMCOfJg5I,Anchor Inn
+1438,40.7280036,-73.7080372,2.0,2.5,7.0,ChIJDURr_0pcwokRI70JFEjsVwA,Quality Inn
+1439,40.7267931,-73.7156253,1.7,2.5,7.0,ChIJmQECgUViwokRl1i436IbC_E,Bellerose Inn
+1440,40.7268942,-73.7117232,1.2,2.5,7.0,ChIJiYFKpVpiwokRyAKkuvPuiIs,Floral Park Motor Lodge
+1441,40.726007,-73.703056,5.0,2.5,7.0,ChIJo6-wN1hiwokRulTJWtYpJqg,Temperature Systems Inc
+1442,40.726754,-73.7156207,5.0,2.5,7.0,ChIJZbY5fk9iwokRxk-ikQjpTac,Bellerose Inn
+1443,40.747939,-73.723576,5.0,2.5,7.0,ChIJ97dFr3JiwokRaN1n6boTAHg,Colonial Farmhouse Restoration
+1444,40.742185,-73.7078809,5.0,2.5,7.0,ChIJJyqIaGRiwokRr_Mc2doAsIQ,East End Hospitality Management Company, LLC
+1445,40.753361,-73.705176,5.0,2.5,5.0,ChIJBRw7Pn9iwokR4ACKOGvuQvk,Chabad @ The Medical Centers
+1446,40.761952,-73.7598347,1.2,2.5,7.0,ChIJP3gesuJhwokRjvRGHCe6yn4,Adria Hotel & Conference Center
+1447,40.761853,-73.7608216,5.0,2.5,7.0,ChIJq4ObvuJhwokR6-TSWyWU2RI,Best Western Queens Gold Coast
+1448,40.7687644,-73.7495407,5.0,2.5,6.0,ChIJzWQi4huKwokRpBqXA5zro8A,Douglas Manor Association Inc
+1449,40.7602449,-73.7586816,5.0,2.5,7.0,ChIJGVZFJv1hwokRCYxkM3M2xLc,Bayside
+1450,40.7670537,-73.7438505,5.0,2.5,7.0,ChIJSbS8EfmJwokRY1yC5neYoTI,Diana -Catering
+1451,40.7773929,-73.7312077,5.0,2.5,7.0,ChIJTQDsu-yJwokReXGAhhviCi8,McSam Hotel Llc
+1452,40.7756851,-73.7323784,0.7,2.5,5.0,ChIJT4KXUOyJwokR6lQpiKDHvDk,H Plaza
+1453,40.5886574,-73.73741,5.0,2.5,7.0,ChIJUxSfnU9vwokRYQ3CTByopN4,Atlantic Beach
+1454,40.586961,-73.739193,5.0,2.5,7.0,ChIJRwPZRk9vwokRPsoxLx1MPc8,Catalina Beach Club
+1455,40.5855353,-73.7101101,0.7,2.5,7.0,ChIJZ9fpbHBvwokRFibJlMIlGhs,Atlantic Beach Club Inc
+1456,40.5868544,-73.7348568,5.0,2.5,7.0,ChIJYc3j7kVvwokRTSytvTkgZgI,New Nautilus Hotel
+1457,40.5863085,-73.7257618,5.0,2.5,7.0,ChIJIdHFcUJvwokRRNrgHxnV-p0,The New Plaza Beach Club
+1458,40.5864607,-73.7286324,5.0,2.5,7.0,ChIJ4Y6FukNvwokRTVOdiA0z8-I,Atlantic Beach Estates
+1459,40.5869816,-73.7312108,5.0,2.5,5.0,ChIJ19NwbERvwokR6SD5_j4jNe0,Clear Water Beach Club
+1460,40.5937119,-73.7747159,1.0,2.5,7.0,ChIJQV4N-pZowokRLIMrPR2rdqg,La Quinta Inn & Suites Far Rockaway - JFK Airport
+1461,40.586275,-73.725644,5.0,2.5,5.0,ChIJfSX4QUJvwokRl-uJFD_eA2I,New York Beach Club & Restaurant
+1462,40.5907883,-73.7912621,5.0,2.5,7.0,ChIJ2UP1GYtowokRMTmVNjMz1r8,Sunny Guesthouse
+1463,40.586743,-73.8874179,5.0,2.5,5.0,ChIJifI7Of5CwokRdZOdrCuvWaY,Ecology Village
+1464,40.844128,-73.8362612,1.5,2.5,7.0,ChIJJdl_J1KLwokRwWhprOo_csI,Hutchinson Whitestone Motel
+1465,40.843109,-73.832302,5.0,2.5,7.0,ChIJ86vwOVCLwokRrT1-32ZEItI,Savvy's
+1466,40.861357,-73.8306021,1.1,2.5,7.0,ChIJszyIN7CMwokRGMkOikhTC4I,Pelham Garden
+1467,40.8737234,-73.8544508,2.2,2.5,7.0,ChIJ-wqqwkfzwokRJXE8DxReE1k,Friendly Motor Inn
+1468,40.8738374,-73.8526527,0.9,2.5,7.0,ChIJb0ZNEUjzwokRrRXUH1s3Ft8,Crown Motor Inn
+1469,40.86903,-73.847787,5.0,2.5,7.0,ChIJEykQxLOMwokRWJh2NJilIh8,Dream Vacations
+1470,40.8932834,-73.8597159,5.0,2.5,7.0,ChIJPUJ00yDzwokR4-g8nje1wIc,조성길
+1471,40.9028026,-73.8967085,2.7,2.5,7.0,ChIJX6ImElPywokRBMFIT3cX1Sg,Van Cortlandt Motel
+1472,40.8249489,-73.814262,5.0,2.5,7.0,ChIJmyIhIRSLwokRdPMe0lfyQxo,Bronxonia Yacht Club Inc
+1473,40.832119,-73.8159551,5.0,2.5,7.0,ChIJj3R9-WqLwokRskX6aOJCxkU,Ascov Hall
+1474,40.9061147,-73.9088841,5.0,2.5,7.0,ChIJVV4fyEvywokRkI1unL9Ws_o,Cardinal O'Connor Clergy Residence
+1475,40.8800644,-73.8314483,1.0,2.5,7.0,ChIJkeyKls-MwokRfxIjRgYMeag,Ramada Bronx
+1476,40.8921127,-73.8533516,0.7,2.5,7.0,ChIJSfv4YSjzwokRYhFYe2gaUvI,Bronx Guest House
+1477,40.8815811,-73.8385356,0.7,2.5,7.0,ChIJ9-rfns2MwokRb-g6mGsx3-Y,Oasis Motel
+1478,40.896541,-73.86356,1.4,2.5,7.0,ChIJmU4qhd_ywokRXYcOPG7mWYk,River Road Motor Inn
+1479,40.8831735,-73.8351806,5.0,2.5,7.0,ChIJa-tR7dGMwokRm88WkVM1L2E,Eden Motel
+1480,40.7554085,-73.9881059,1.1,2.5,7.0,ChIJx9RqTqtZwokRMZtxnvbl1nM,Hotel 41 at Times Square
+1481,40.754269,-73.993082,0.6,2.5,7.0,ChIJ_6umC61ZwokRUfAD4mkkMIs,Homewood Suites New York Midtown Manhattan/ Times Square Hotel
+1482,40.7601796,-73.9961339,5.0,2.5,7.0,ChIJF7GMl01YwokR3jqmq3T9wzo,Fico Realty Inc
+1483,40.7533655,-73.9997232,5.0,2.5,7.0,ChIJV4OQk7NZwokRloqQJLB4Tbc,404 Event Space
+1484,40.9037899,-73.8504981,2.2,2.5,7.0,ChIJw67lKtDywokRpUKvurONUus,Metro Motel
+1485,40.901527,-73.856761,5.0,2.5,7.0,ChIJh0F3s9vywokRGkKzW8mdvEE,Lmp studios
+1486,40.8824183,-73.8298368,2.9,2.5,7.0,ChIJOcixmNqMwokRUVDc2h7t0mA,Andrea Motel
+1487,40.9038673,-73.8409078,5.0,2.5,7.0,ChIJS_4WxzKNwokRw7JzSnTlB0Q,Progressive Lodge No. 64
+1488,40.883953,-73.8271137,1.7,2.5,7.0,ChIJOcixmNqMwokRvyRM6Z70lFM,Holiday Motel
+1489,40.8955525,-73.8382181,5.0,2.5,7.0,ChIJGWHTuiuNwokRSl9fwPJv-no,Guy Lodge Eulalee
+1490,40.893058,-73.838302,5.0,2.5,7.0,ChIJCwV0ZSqNwokRIEV_KK8tfoc,Lake George Retreat Summer Rentals
+1491,40.910866,-73.837496,5.0,2.5,7.0,ChIJ88rMlDWNwokRVq2OCDrFBOo,enclave apartments.
+1492,40.9089015,-73.8194393,5.0,2.5,6.0,ChIJjwUw8j-NwokRNUFI89bE-As,Natlew Corporation
+1493,40.7881712,-73.725312,0.8,2.5,7.0,ChIJNRJpEZiJwokRBsByo-2ocMM,The Andrew Hotel
+1494,40.7890294,-73.7299693,5.0,2.5,4.0,ChIJNZx89ZmJwokRDH7UWVHQkoI,ATW Teen Tours | American Trails West
+1495,40.6461198,-74.0831349,1.4,2.5,6.0,ChIJt1YXVylOwokRiUkZGNh7deo,St. Mark's Inn
+1496,40.6346369,-74.1103915,5.0,2.5,6.0,ChIJ8a1YyxJOwokRkEohlD8B8tk,Sandsculptor.com
+1497,40.5811737,-74.0921026,5.0,2.5,4.0,ChIJpxRiDM9OwokRUl3ZOStLmI8,Wonder Years Preschool
+1498,40.605823,-74.11676,5.0,2.5,7.0,ChIJR1cBF6x83IkRpjfQYxjUfvM,Andel Inn
+1499,40.620114,-74.109831,5.0,2.5,7.0,ChIJzXVRhGROwokRDHyNQn5RXs0,Shady's Basement
+1500,40.588085,-74.1023321,5.0,2.5,7.0,ChIJ0_aCxrhOwokRAcC4RdGli9I,Nyze LG mobile
+1501,40.597953,-74.120899,5.0,2.5,5.0,ChIJHz68OJ9OwokRXTDXeNTJ7wk,Henry Kaufmann Campgrounds - Staten Island
+1502,40.590362,-74.126285,0.6,2.5,5.0,ChIJL4k1xaBOwokRPQ4Phl47W6s,William H Pouch Boy Scout Camp
+1503,40.62244,-74.13018,5.0,2.5,7.0,ChIJ6c5t_tNNwokRebqJenRI3Gg,Simply Honest Kitchen, LLC.
+1504,40.5823125,-74.1231853,5.0,2.5,5.0,ChIJ326U8KlOwokReTz4GJRUoT8,High Rock Girl Scout Camp
+1505,40.636659,-74.1237189,5.0,2.5,7.0,ChIJOWHAqwpOwokRBW_gpvsD68M,Victorian Bed and Breakfast of Staten Island
+1506,40.5813938,-73.8485281,5.0,2.5,7.0,ChIJZaIPvYBCwokR3SCjkiC5KTI,Belle Harbor Yacht Club
+1507,40.579252,-73.834568,5.0,2.5,7.0,ChIJD8qnFSxowokRQvlnzQh_WsM,D Piper Inn
+1508,40.5726387,-73.8592732,5.0,2.5,7.0,ChIJrQq4JmRCwokRhbelFy-gTt8,Schwabster Lobster
+1509,40.580305,-73.8314973,5.0,2.5,7.0,ChIJudPjCi5owokRFXXln0lCEHc,Feel At Home Vacations
+1510,40.7850862,-73.7072979,5.0,2.5,6.0,ChIJeRwbGa6JwokR6LU594W8aY4,Courtyard Travel
+1511,40.7914005,-73.7026274,5.0,2.5,7.0,ChIJiakX4aqJwokRN8QW_qXyNk0,Royal Inn
+1512,40.7914023,-73.7026268,5.0,2.5,7.0,ChIJiakX4aqJwokRu2hd1br1Cu8,Mo-Ted Motel Corporation
+1513,40.7914561,-73.7026506,1.9,2.5,7.0,ChIJiakX4aqJwokRDBJJMW1DoAg,Travelodge Manhasset
+1514,40.8113328,-73.7374181,5.0,2.5,7.0,ChIJfVPrn2WJwokR-SdPWtmC-n4,Kings Point
+1515,40.8156768,-73.7010312,0.7,2.5,3.0,ChIJM_nIQCCJwokRVIk3Yi94Uxs,Science Museum of Long Island
+1516,40.5847973,-73.8194312,1.0,2.5,7.0,ChIJWd2RbThowokRKI5bhtikchA,Playland Motel
+1517,40.588626,-73.812895,5.0,2.5,7.0,ChIJnR_5XUFowokRmH21O2CzCBQ,The Hostile Hostel Puerto
+1518,40.586234,-73.813558,5.0,2.5,7.0,ChIJ768ElkZowokR5yzIJCIYnh0,Rockaway Beach Boarding House
+1519,40.5871011,-73.814475,5.0,2.5,7.0,ChIJ5fgNz0ZowokRv9FBkXWT2r0,Post Office
+1520,40.893264,-73.777185,5.0,2.5,5.0,ChIJhw6k1rCNwokRMfA0NuqxlFY,Imperial Yacht Club Inc
+1521,40.9081907,-73.7823814,5.0,2.5,7.0,ChIJH0uaWpeNwokRTHoxlpH1lxQ,Ameritel Retail New Rochelle
+1522,40.9118799,-73.7809288,0.8,2.5,7.0,ChIJW8T-VpCNwokR0gk1PE-32Do,Residence Inn New Rochelle
+1523,40.9095347,-73.7801683,5.0,2.5,5.0,ChIJnzSzD46NwokRBZUdYqq7dwE,New Rochelle Physical Therapy
+1524,40.9139306,-73.7778174,1.0,2.5,7.0,ChIJv8bkdo6NwokREgLqhbdUHJ0,Radisson Hotel New Rochelle
+1525,40.6085975,-74.1466558,1.7,2.5,7.0,ChIJ4WOfbThMwokRNOWHao5rbao,Ramada Staten Island
+1526,40.6135148,-74.1576916,5.0,2.5,6.0,ChIJLRNBuE9MwokRMHcnT2szc74,Esplanade Staten Island Llc
+1527,40.5858411,-74.1643167,5.0,2.5,7.0,ChIJkRKoOnlMwokRRT7vr9lpLyE,Razhberg Motel
+1528,40.5507459,-74.149734,5.0,2.5,7.0,ChIJudAxhrdLwokRBWKxZ_2DcCY,Moonlight Caterers & Entertainment, Inc.
+1529,40.6148741,-74.176704,1.0,2.5,7.0,ChIJX0jg-flMwokRpufpXQlbprI,Hilton Garden Inn New York/Staten Island
+1530,40.6132342,-74.1788797,0.9,2.5,7.0,ChIJLW9E6_BMwokRe_VgiBAOn0I,Hampton Inn & Suites Staten Island
+1531,40.6148615,-74.1767767,5.0,2.5,7.0,ChIJexZIAfpMwokRcEm6g40UTIg,Garden Inn
+1532,40.5510016,-74.1552773,5.0,2.5,7.0,ChIJX12Fb1JZ2YkRMgoMGbjh3uk,Gone Fitch Inn
+1533,40.586199,-74.190087,1.9,2.5,7.0,ChIJcdnQNp5MwokRpKSV0n-Rlr0,Comfort Inn Staten Island
+1534,40.5868444,-74.1911134,1.3,2.5,7.0,ChIJCa8ASJ5MwokRuDzMIzMPvWM,Holiday Inn Staten Island
+1535,40.5616558,-74.1781162,5.0,2.5,7.0,ChIJSQ8laAxLwokRFl11ZcWsJB8,Castles
+1536,40.5536541,-74.2166876,5.0,2.5,7.0,ChIJFddePCtLwokRENxre9Q-ik8,The Wedding Cottage
+1537,40.548625,-74.232525,5.0,2.5,5.0,ChIJ5fjqYSa1w4kRlG5lLuDVWvI,NICKS ICE CREAM & DRY ICE DISTRIBUTOR
+1538,40.5328095,-74.2252455,2.3,2.5,7.0,ChIJsVQPFTa1w4kRf53Tt1b6cYc,West Shore Motor Lodge Inc
+1539,40.526663,-74.229681,5.0,2.5,6.0,ChIJhzyW8UW1w4kRfvSOxrYfx3c,Staten Island Corporate Plaza
