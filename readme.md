@@ -6,6 +6,7 @@ The java implementation of the [Skyline Queries Constrained by Multi-cost Transp
 </p>
 The code implements four methods that is used solve the constrain skyline query with/without index, and the goodness score function. Moreover, related pre-processes are implemented as well, include generating synthetic road network, POIs information data, and index building.  
 
+
 ## Preliminary 
 - Neo4j,[https://neo4j.com/](https://neo4j.com/), our code embedded Neo4j ([https://neo4j.com/docs/java-reference/current/java-embedded/](https://neo4j.com/docs/java-reference/current/java-embedded/)) to our JAVA code. So there is no need to install the neo4j physically. 
 - [Apache Maven](https://maven.apache.org/)
