@@ -35,6 +35,8 @@ Execute the maven command, ```mvn clean compile assembly:single```, The executab
 ```
 usage: java -jar constrainSkylineQuery.jar
 Run the code of the constrain skyline path query :
+ -c,--city <arg>                 the city name (NY, LA and SF) of the
+                                 real-world dataset.
  -d,--distance_threshold <arg>   distance threshold that is used in the
                                  approximation methods, the default value
                                  is '30'.
@@ -70,6 +72,7 @@ Run the code of the constrain skyline path query :
  -v,--verbose <arg>              calculate the goodness score while
                                  executing the approximate methods, the
                                  default value is 'false'.
+
 ```
 
 ## Details and examples
@@ -83,7 +86,7 @@ Run the code of the constrain skyline path query :
 ```u``` is the threshold of the max number of bus stops are within ```r``` of a generated object  
 4. Build the index for a given graph and a list of POI objects. The ```id``` is the range that is used to calculate the index from graph nodes to POI objects. The default value of ```id``` is **-1** which means no index range threshold. The details calculation can be found in the paper. 
 > * ```java -jar constrainSkylineQuery.jar -m IndexBuilding -gs 1000 -gd 4 -gm 3 -hn 200 -hd 3 -r 20 -u 60 -id 500```  
-> * ```java -jar constrainSkylineQuery.jar -m IndexBuilding -gs 1000 -gd 4 -gm 3 -hn 200 -hd 3 -r 20 -u 60 ```  
+> * ```java -jar constrainSkylineQuery.jar -m IndexBuilding -gs 1000 -gd 4 -gm 3 -hn 200 -hd 3 -r 20 -u 60 ```
 > * ```java -jar constrainSkylineQuery.jar -m IndexBuilding -gs 1000 -gd 4 -gm 3 -hn 200 -hd 3 -r 20 -u 60 -id -1```  
 5. Execute the exact methods (*ExactBaseline* and *ExactImproved*)with given graph information and a query POI object. If the query object Id is not given, a random generated object will be used to conduct the query. 
 > * ```java -jar constrainSkylineQuery.jar -m ExactBaseline -gs 1000 -gd 4 -gm 3 -hn 200 -hd 3 -r 20```  
@@ -109,6 +112,32 @@ The performance results are displayed like
 >```181|195 14| running time(ms):11,52,165,89,281| overall:1845   41(28+6+0+0+4),113|result size:382 95|984,346,0.3516260162601626|16965,3533,3545,4026```
 
 Where are ```[query object ID], [# of POI objects don't dominated by the query object], [# of skyline POI objects in ], [Best First Search Time], [Nearest Graph Node search Time], [Search on the Graph Time], [Index Search Time], [Query time without Index], [Overall Query Time], [Time used to form the final result and add the result set] (Components: [Add to results time], [condition checking time], [Map operation time], [Empty checking time], [POI object Reading Time], [Path Expansion Time]), [# of Skyline Solutions], [# of distinct POI objects], [# of visited graph nodes], [# of graph nodes in the final solutions], [visited ratio], [# of times form the candidate solutions], [# of prefix skyline paths from query object to each graph nodes], [# of pop-up times from the queue].``` from left to right. 
+
+## Running Example:
+##### 1.Conduct the query by using the approxMixed method on a new synthetic road network and a list of synthetic POI objects. 
+1. Generate synthetic graph with **2000** nodes that average degree is **4** and the dimension of  each edge in the graph is *3*. The generated node and edge information is stored under ```Data\2000_4_3\``` folder. 
+2. Create the Neo4j DB files by using the generated node and edge files, which are stored under ```Data/Neo4jDB_files/2000_4_3```. 
+3. Generate **200** POI objects with **3-dimensional** costs based on our generated 2000 node synthetic graph. Moreover, we set the range to be 15 and the maximum number of objects are within range are 60 in order to follow the number of POI objects are within given range. **The distance is Euclidean distance, which can be changed by the parameter ```-e```. It may need a long running time when the parameters of the range ```-r``` and the upper ```-u``` is set improperly.** The tree and objects information are put ```Data/2000_4_3/``` as well.
+4. Generate the index file with index distance 30. The index files are stored at ```Data/index/2000_4_3_15.0_200_30```.
+5. Conduct the query with a random generated query object by using the ```approxMixed``` method with distance_threshold **30**. Also, the goodness is calculated where the exact method is called automatically. The index with the given distance_threshold must be created before (we generated at step 4 with index distance **30** already). Moreover, If the approximate methods are called and the ```-v``` is set to true, make sure the overall index is created before (```java -jar constrainSkylineQuery.jar -m IndexBuilding -c SF -gm 3 -id -1 -e actual```).
+> 1. java -jar constrainSkylineQuery.jar -m GenerateSynethicRoadNetwork -gs 2000 -gd 4 -gm 3
+> 2. java -jar constrainSkylineQuery.jar -m CreateRoadNetworkDB -gs 2000 -gd 4 -gm 3
+> 3. java -jar constrainSkylineQuery.jar -m GenerateSynethicPOIsData -gs 2000 -gd 4 -gm 3 -hn 200 -hd 3 -r 15 -u 60
+> 4. java -jar constrainSkylineQuery.jar -m IndexBuilding -gs 2000 -gd 4 -gm 3 -hn 200 -hd 3 -r 15 -u 60 -id 30 
+> 5. java -jar constrainSkylineQuery.jar -m ApproxMixed -gs 2000 -gd 4 -gm 3 -hn 200 -hd 3 -r 15 -d 30 -v true -i true -e actual  
+
+##### 2.Conduct the query by using the approxRange method on the real-world data of SF. 
+1. Put the ```SF_NodeInfo.txt```, ```SF_SegInfo.txt```, and ```staticNode_real_SF``` of San Francisco under the folder ```Data\SF```
+2. Create the Neo4j DB files for SF.
+3. Store the POI objects of SF to the Rtree
+4. Build the index with *500* meters for all the network nodes. In order to make the distance calculation to be actual meters,  the parameter ```-e actual``` is added.
+5. Conduct the query with a random query point. **Make sure the parameter ```-e actual``` is added. If the approximate methods are called and the ```-v``` is set to true, make sure the overall index is created before (```java -jar constrainSkylineQuery.jar -m IndexBuilding -c SF -gm 3 -id -1 -e actual```)**
+> java -jar constrainSkylineQuery.jar -m CreateRoadNetworkDB -c SF  
+> java -jar constrainSkylineQuery.jar -m GenerateSynethicPOIsData -c SF -gm 3  
+> java -jar constrainSkylineQuery.jar -m IndexBuilding -c SF -gm 3 -id 1500 -e actual  
+> java -jar constrainSkylineQuery.jar -m ApproxRange -c SF -gm 3 -d 1500 -v true -i true -e actual
+
+
 
 ## Acknowledgements
 pecial thanks to java implementatioan fo the [R*-tree](http://chorochronos.datastories.org/?q=node/43)\[1\].  

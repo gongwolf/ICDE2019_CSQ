@@ -40,6 +40,7 @@ public class ApproxRange {
     private Data queryD;
     private int obj_dimension;
     double distance_threshold = 0.001;
+    private String city;
 
 
     public ApproxRange(int graph_size, int degree, int dimension, double range, int hotels_num, int obj_dimension, double distance_threshold) {
@@ -54,6 +55,24 @@ public class ApproxRange {
         this.graphPath = constant.db_path + "/" + this.graph_size + "_" + this.degree + "_" + dimension + "/databases/graph.db";
         this.treePath = constant.data_path + "/" + this.graph_size + "_" + this.degree + "_" + dimension + "/" + this.graph_size + "_" + this.degree + "_" + dimension + "_" + range + "_" + hotels_num + ".rtr";
         this.dataPath = constant.data_path + "/" + this.graph_size + "_" + this.degree + "_" + dimension + "/" + this.graph_size + "_" + this.degree + "_" + dimension + "_" + range + "_" + hotels_num + ".txt";
+
+        System.out.println("graph db: " + graphPath);
+        System.out.println("Rtree files: " + treePath);
+        System.out.println("POI objects: " + dataPath);
+    }
+
+    public ApproxRange(String city, int obj_dimension, double distance_threshold) {
+        this.obj_dimension = obj_dimension;
+        this.distance_threshold = distance_threshold;
+        this.city = city;
+
+        this.graphPath = constant.db_path + "/" + city + "_db" + "/databases/graph.db";
+        this.treePath = constant.data_path + "/" + city + "/" + "real_tree_" + this.city + ".rtr";
+        this.dataPath = constant.data_path + "/" + city + "/" + "staticNode_real_" + this.city + ".txt";
+        System.out.println("graph db: " + graphPath);
+        System.out.println("Rtree files: " + treePath);
+        System.out.println("POI objects: " + dataPath);
+
     }
 
     public ArrayList<Result> Query(Data queryD) {
@@ -181,7 +200,11 @@ public class ApproxRange {
 //            hotels_scope = new HashMap<>();
             Index idx = null;
             if (constant.index_enabled) {
-                idx = new Index(this.graph_size, this.degree, this.dimension, this.range, this.hotels_num, this.obj_dimension, distance_threshold);
+                if (this.city.equals("")) {
+                    idx = new Index(this.graph_size, this.degree, this.dimension, this.range, this.hotels_num, this.obj_dimension, distance_threshold);
+                }else {
+                    idx = new Index(this.city, this.obj_dimension, distance_threshold);
+                }
             }
 
             for (Map.Entry<Long, myNode> entry : tmpStoreNodes.entrySet()) {

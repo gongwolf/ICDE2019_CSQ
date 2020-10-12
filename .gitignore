@@ -2,6 +2,11 @@ target
 classes
 !Data/POIs_Data
 !Data/RoadNetworks
+
+!Data/LA
+!Data/NY
+!Data/SF
+
 Data
 output
 .idea

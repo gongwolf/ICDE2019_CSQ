@@ -4,7 +4,9 @@ import RstarTree.Data;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Random;
 
 public class constant {
@@ -16,11 +18,12 @@ public class constant {
     public static String distance_calculation_type = "euclidean";
     public static boolean index_enabled = false;
 
+    public static HashSet<String> cityList = new HashSet<>(Arrays.asList("SF", "LA", "NY"));
 
     static Random r = new Random(System.nanoTime());
 
     public static final String home_dir = System.getProperty("user.home");
-    public static final String data_path = home_dir + "/shared_git/ICDE_ConstrainSkylineQuery/Data";
+    public static final String data_path = home_dir + "/shared_git/ICDE2019_CSQ/Data";
     public static final String db_path = data_path + "/Neo4jDB_files";
     public static final String index_path = data_path + "/index";
 
@@ -121,5 +124,23 @@ public class constant {
 
         return queryD;
 
+    }
+
+    public static int getNumberOfLines(String pathpois) {
+        BufferedReader br = null;
+        int linenumber = 0;
+
+        try {
+            br = new BufferedReader(new FileReader(pathpois));
+            while (br.readLine() != null) {
+                linenumber++;
+            }
+            br.close();
+        } catch (Exception e) {
+            e.printStackTrace();
+            System.err.println("Can not open the file, please check it. ");
+        }
+
+        return linenumber;
     }
 }

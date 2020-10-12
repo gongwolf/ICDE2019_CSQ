@@ -13,6 +13,7 @@ import tools.configuration.constant;
 import java.util.*;
 
 public class ExactImproved {
+    private String city;
     public double nn_dist;
     public ArrayList<path> qqqq = new ArrayList<>();
     public ArrayList<Result> skyPaths = new ArrayList<>();
@@ -54,6 +55,23 @@ public class ExactImproved {
         this.graphPath = constant.db_path + "/" + this.graph_size + "_" + this.degree + "_" + dimension + "/databases/graph.db";
         this.treePath = constant.data_path + "/" + this.graph_size + "_" + this.degree + "_" + dimension + "/" + this.graph_size + "_" + this.degree + "_" + dimension + "_" + range + "_" + hotels_num + ".rtr";
         this.dataPath = constant.data_path + "/" + this.graph_size + "_" + this.degree + "_" + dimension + "/" + this.graph_size + "_" + this.degree + "_" + dimension + "_" + range + "_" + hotels_num + ".txt";
+
+        System.out.println("graph db: " + graphPath);
+        System.out.println("Rtree files: " + treePath);
+        System.out.println("POI objects: " + dataPath);
+    }
+
+    public ExactImproved(String city, int obj_dimension) {
+        this.obj_dimension = obj_dimension;
+        this.city = city;
+
+        this.graphPath = constant.db_path + "/" + city + "_db" + "/databases/graph.db";
+        this.treePath = constant.data_path + "/" + city + "/" + "real_tree_" + this.city + ".rtr";
+        this.dataPath = constant.data_path + "/" + city + "/" + "staticNode_real_" + this.city + ".txt";
+        System.out.println("graph db: " + graphPath);
+        System.out.println("Rtree files: " + treePath);
+        System.out.println("POI objects: " + dataPath);
+
     }
 
     public ArrayList<Result> Query(Data queryD) {
@@ -174,12 +192,16 @@ public class ExactImproved {
             }
 
             long exploration_rt = System.currentTimeMillis() - rt; // time that is used to search on the graph
-//            System.out.println("expansion finished " + exploration_rt);
+            System.out.println("expansion finished, using " + exploration_rt+" ms");
             long tt_sl = 0;
 //            hotels_scope = new HashMap<>();
             Index idx = null;
             if (constant.index_enabled) {
-                idx = new Index(this.graph_size, this.degree, this.dimension, this.range, this.hotels_num, this.obj_dimension, -1);
+                if (this.city.equals("")) {
+                    idx = new Index(this.graph_size, this.degree, this.dimension, this.range, this.hotels_num, this.obj_dimension, -1);
+                } else {
+                    idx = new Index(this.city, this.obj_dimension, -1);
+                }
             }
 
             for (Map.Entry<Long, myNode> entry : tmpStoreNodes.entrySet()) {

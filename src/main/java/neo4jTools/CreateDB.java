@@ -15,6 +15,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class CreateDB {
+    String city;
     String DBBase;
     String DB_PATH;
     String NodesPath;
@@ -31,13 +32,16 @@ public class CreateDB {
     }
 
 
-    public CreateDB() {
-        String city = "LA";
-        this.DB_PATH = "/home/gqxwolf/neo4j334/testdb_" + city + "_Gaussian/databases/graph.db";
-        this.DBBase = "/home/gqxwolf/mydata/projectData/testGraph_real_50_Random/data/";
+    public CreateDB(String city) {
+        this.city = city;
+        this.DBBase = constant.data_path + "/" + this.city + "/";
+        this.DB_PATH = constant.db_path + "/" + city + "_db" + "/databases/graph.db";
         NodesPath = DBBase + city + "_NodeInfo.txt";
         SegsPath = DBBase + city + "_SegInfo.txt";
+        System.out.println("Road Network Data : " + DBBase);
+        System.out.println("DB path : " + DB_PATH);
     }
+
 
     public static void main(String args[]) {
         CreateDB db = new CreateDB(1000, 4, 3);
@@ -53,6 +57,75 @@ public class CreateDB {
         //delete the data base at first
         nconn.deleteDB();
 //        nconn.startDB();
+        nconn.startBD_without_getProperties();
+        this.graphdb = nconn.getDBObject();
+
+        int num_node = 0, num_edge = 0;
+
+
+        try (Transaction tx = this.graphdb.beginTx()) {
+            BufferedReader br = new BufferedReader(new FileReader(NodesPath));
+            String line = null;
+            while ((line = br.readLine()) != null) {
+                //System.out.println(line);
+                String[] attrs = line.split(" ");
+
+                String id = attrs[0];
+                double lat = Double.parseDouble(attrs[1]);
+                double log = Double.parseDouble(attrs[2]);
+                Node n = createNode(id, lat, log);
+                num_node++;
+                if (num_node % 10000 == 0) {
+                    System.out.println(num_node + " nodes was created");
+                }
+            }
+            tx.success();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        nconn.shutdownDB();
+
+
+        BufferedReader br = null;
+        try {
+            br = new BufferedReader(new FileReader(SegsPath));
+            String line = null;
+
+
+            ArrayList<String> ss = new ArrayList<>();
+
+            while ((line = br.readLine()) != null) {
+                //System.out.println(line);
+                ss.add(line);
+                num_edge++;
+
+                if (num_edge % 100000 == 0) {
+                    process_batch_edges(ss);
+                    ss.clear();
+                    System.out.println(num_edge + " edges were created");
+                }
+            }
+            process_batch_edges(ss);
+            ss.clear();
+            System.out.println(num_edge + " edges were created");
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        System.out.println("Database is created, the location of the db file is " + this.DB_PATH);
+        System.out.println("there are total " + num_node + " nodes and " + num_edge + " edges");
+    }
+
+
+    public void createDatabaseForCity() {
+        connector nconn = new connector(DB_PATH);
+        //delete the data base at first
+        nconn.deleteDB();
         nconn.startBD_without_getProperties();
         this.graphdb = nconn.getDBObject();
 

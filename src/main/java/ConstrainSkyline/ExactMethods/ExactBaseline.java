@@ -12,6 +12,7 @@ import tools.configuration.constant;
 import java.util.*;
 
 public class ExactBaseline {
+    private String city;
     public double nn_dist;
     public ArrayList<path> qqqq = new ArrayList<>();
     public ArrayList<Result> skyPaths = new ArrayList<>();
@@ -53,6 +54,22 @@ public class ExactBaseline {
         this.graphPath = constant.db_path + "/" + this.graph_size + "_" + this.degree + "_" + dimension + "/databases/graph.db";
         this.treePath = constant.data_path + "/" + this.graph_size + "_" + this.degree + "_" + dimension + "/" + this.graph_size + "_" + this.degree + "_" + dimension + "_" + range + "_" + hotels_num + ".rtr";
         this.dataPath = constant.data_path + "/" + this.graph_size + "_" + this.degree + "_" + dimension + "/" + this.graph_size + "_" + this.degree + "_" + dimension + "_" + range + "_" + hotels_num + ".txt";
+
+        System.out.println("graph db: "+graphPath);
+        System.out.println("Rtree files: "+treePath);
+        System.out.println("POI objects: "+dataPath);
+    }
+
+    public ExactBaseline(String city, int obj_dimension) {
+        this.obj_dimension = obj_dimension;
+        this.city = city;
+
+        this.graphPath = constant.db_path + "/" + city + "_db" + "/databases/graph.db";
+        this.treePath = constant.data_path + "/" + city + "/" + "real_tree_" + this.city + ".rtr";
+        this.dataPath = constant.data_path + "/" + city + "/" + "staticNode_real_" + this.city + ".txt";
+        System.out.println("graph db: "+graphPath);
+        System.out.println("Rtree files: "+treePath);
+        System.out.println("POI objects: "+dataPath);
     }
 
     public ArrayList<Result> Query(Data queryD) {

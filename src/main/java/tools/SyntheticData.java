@@ -8,6 +8,7 @@ import org.apache.commons.math3.distribution.BetaDistribution;
 import tools.configuration.constant;
 
 import java.io.*;
+import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Random;
 
@@ -15,16 +16,20 @@ import static tools.configuration.constant.randomFloatInRange;
 
 public class SyntheticData {
 
-    private final int numberOfNodes; // number of POIs
-    private final int dimension; //Costs of each POI
+    private int numberOfNodes; // number of POIs
+    private int dimension; //Costs of each POI
 
     /**** graph information that is used to store the POIs tree and data information ****/
-    private final int grahsize;
-    private final int degree;
-    private final int upper;
-    private final int graph_dimension;
+    private int grahsize;
+    private int degree;
+    private int upper;
+    private int graph_dimension;
 
-    private final String info_path;
+    private String info_path;
+    private String treePath;
+    private String dataPath;
+    private String city;
+
     Random r = new Random(System.nanoTime());
     HashSet<Pair<Double, Double>> busLocation = new HashSet<>();
     BetaDistribution bt = new BetaDistribution(2, 19);
@@ -39,9 +44,24 @@ public class SyntheticData {
         this.graph_dimension = graph_dimension;
 
         this.info_path = constant.data_path + "/" + this.grahsize + "_" + this.degree + "_" + this.graph_dimension;
+        this.treePath = this.info_path + "/" + grahsize + "_" + degree + "_" + graph_dimension + "_" + range + "_" + numberOfNodes + ".rtr";
+        this.dataPath = this.info_path + "/" + grahsize + "_" + degree + "_" + graph_dimension + "_" + range + "_" + numberOfNodes + ".txt";
+
         System.out.println("read the graph information from :" + this.info_path);
         this.upper = upper;
         this.range = range;
+    }
+
+    public SyntheticData(String city, int poi_dimension) {
+        this.city = city;
+        this.dimension = poi_dimension;
+
+        this.info_path = constant.data_path + "/" + this.city;
+        this.treePath = this.info_path + "/real_tree_" + this.city + ".rtr";
+        this.dataPath = this.info_path + "/staticNode_real_" + this.city + ".txt";
+
+        System.out.println("read the graph information from :" + this.info_path);
+
     }
 
     public void createStaticNodes_betaDistribution() {
@@ -49,7 +69,6 @@ public class SyntheticData {
         readNodeInfo();
 
         //location of the R-tree
-        String treePath = this.info_path + "/" + grahsize + "_" + degree + "_" + graph_dimension + "_" + range + "_" + numberOfNodes + ".rtr";
         System.out.println("The POIs are stored in the rtree file :" + treePath);
         File fp = new File(treePath);
 
@@ -58,9 +77,8 @@ public class SyntheticData {
         }
 
         //list of the information of the object
-        String infoPath = this.info_path + "/" + grahsize + "_" + degree + "_" + graph_dimension + "_" + range + "_" + numberOfNodes + ".txt";
-        System.out.println("The POIs information are stored in the file :" + treePath);
-        File file = new File(infoPath);
+        System.out.println("The POIs information are stored in the file :" + dataPath);
+        File file = new File(dataPath);
         if (file.exists()) {
             file.delete();
         }
@@ -150,6 +168,50 @@ public class SyntheticData {
         }
     }
 
+
+    public void createTreeForCity() {
+
+        //location of the R-tree
+        System.out.println("The POIs are stored in the rtree file :" + treePath);
+        File fp = new File(treePath);
+        if (fp.exists()) {
+            fp.delete();
+        }
+
+
+        ArrayList<String> poi_strs = readPOIsFromFile();
+
+
+        RTree rt = new RTree(treePath, Constants.BLOCKLENGTH, Constants.CACHESIZE, dimension);
+
+        int i = 0;
+        for (; i < poi_strs.size(); i++) {
+            String st = poi_strs.get(i);
+
+            Data d = new Data(this.dimension);
+            d.setPlaceId(i);
+
+            String[] infors = st.split(",");
+            float latitude, longitude;
+            latitude = Float.parseFloat(infors[1]);
+            longitude = Float.parseFloat(infors[2]);
+            d.setLocation(new double[]{latitude, longitude});
+
+
+            float priceLevel = Float.parseFloat(infors[3]);
+            float Rating = Float.parseFloat(infors[4]);
+            float other = Float.parseFloat(infors[5]);
+
+            d.setData(new float[]{priceLevel, Rating, other});
+
+            rt.insert(d);
+        }
+
+        rt.delete();
+        System.out.println("There are " + poi_strs.size() + " POIs are generated !!!!!");
+    }
+
+
     /**
      * Read the bus station location information that is used to make sure the generated synthetic POIs follow given
      * Beta Distribution
@@ -175,5 +237,29 @@ public class SyntheticData {
         }
 
         System.out.println("there are " + this.busLocation.size() + " bus stops");
+    }
+
+
+    /**
+     * Read the POIs objects from the dataPath file
+     *
+     * @return
+     */
+    private ArrayList<String> readPOIsFromFile() {
+        ArrayList<String> POIsInfoStr = new ArrayList<>();
+        try {
+            File f = new File(this.dataPath);
+            BufferedReader b = new BufferedReader(new FileReader(f));
+            String readLine = "";
+//            System.out.println("Reading file using Buffered Reader");
+            while (((readLine = b.readLine()) != null)) {
+                POIsInfoStr.add(readLine);
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        System.out.println("there are " + POIsInfoStr.size() + " POIs Objects");
+        return POIsInfoStr;
     }
 }

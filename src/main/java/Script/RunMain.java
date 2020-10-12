@@ -31,8 +31,9 @@ public class RunMain {
     private int index_threshold;
     private boolean verbose;
     private int query_id;
+    private String city;
 
-    public static void main(String args[]) throws ParseException {
+    public static void main(String[] args) {
         RunMain r = new RunMain();
         if (r.readParameters(args)) {
             r.execute();
@@ -49,45 +50,93 @@ public class RunMain {
                 g.generateG(true);
                 break;
             case "CreateRoadNetworkDB":
-                CreateDB db = new CreateDB(this.graph_size, this.graph_degree, this.graph_dimension);
-                db.createDatabase();
+                if (this.city.equals("")) {
+                    CreateDB db = new CreateDB(this.graph_size, this.graph_degree, this.graph_dimension);
+                    db.createDatabase();
+                } else {
+                    CreateDB db = new CreateDB(this.city);
+                    db.createDatabaseForCity();
+                }
                 break;
             case "GenerateSynethicPOIsData":
-                SyntheticData syn_creator = new SyntheticData(this.hotel_number, this.hotel_dimension, this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.upper);
-                syn_creator.createStaticNodes_betaDistribution();
+                if (this.city.equals("")) {
+                    SyntheticData syn_creator = new SyntheticData(this.hotel_number, this.hotel_dimension, this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.upper);
+                    syn_creator.createStaticNodes_betaDistribution();
+                } else {
+                    SyntheticData syn_creator = new SyntheticData(this.city, this.hotel_dimension);
+                    syn_creator.createTreeForCity();
+                }
                 break;
             case "IndexBuilding":
-                Index index = new Index(this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.hotel_number, this.hotel_dimension, index_threshold);
-                index.buildIndex(true);
+                if (this.city.equals("")) {
+                    Index index = new Index(this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.hotel_number, this.hotel_dimension, index_threshold);
+                    index.buildIndex(true);
+                } else {
+                    Index index = new Index(this.city, this.hotel_dimension, this.index_threshold);
+                    index.buildIndex(true);
+
+                }
                 break;
             case "ExactBaseline":
                 queryD = getQueryDByID(this.query_id);
-                ExactBaseline exact_baseline = new ExactBaseline(this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.hotel_number, this.hotel_dimension);
+                ExactBaseline exact_baseline;
+                if (city.equals("")) {
+                    exact_baseline = new ExactBaseline(this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.hotel_number, this.hotel_dimension);
+                } else {
+                    exact_baseline = new ExactBaseline(this.city, this.hotel_dimension);
+                }
                 exact_baseline.Query(queryD);
                 break;
             case "ExactImproved":
                 queryD = getQueryDByID(this.query_id);
-                ExactImproved exact_improved = new ExactImproved(this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.hotel_number, this.hotel_dimension);
+                ExactImproved exact_improved;
+                if (city.equals("")) {
+                    exact_improved = new ExactImproved(this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.hotel_number, this.hotel_dimension);
+                } else {
+                    exact_improved = new ExactImproved(this.city, this.hotel_dimension);
+                }
                 exact_improved.Query(queryD);
                 break;
             case "ApproxRange":
-                queryD = getQueryDByID(this.query_id);
-                ApproxRange apprx_range = new ApproxRange(this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.hotel_number, this.hotel_dimension, this.distance_threshold);
-                ArrayList<Result> apprx_range_results = apprx_range.Query(queryD);
-                if (verbose) {
-                    exact_improved = new ExactImproved(this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.hotel_number, this.hotel_dimension);
-                    exact_solutions = exact_improved.Query(queryD);
-                    System.out.println("GOODNESS SCORE: " + goodnessAnalyze(exact_solutions, apprx_range_results, "cos"));
+                if (city.equals("")) {
+                    queryD = getQueryDByID(this.query_id);
+                    ApproxRange apprx_range = new ApproxRange(this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.hotel_number, this.hotel_dimension, this.distance_threshold);
+                    ArrayList<Result> apprx_range_results = apprx_range.Query(queryD);
+                    if (verbose) {
+                        exact_improved = new ExactImproved(this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.hotel_number, this.hotel_dimension);
+                        exact_solutions = exact_improved.Query(queryD);
+                        System.out.println("GOODNESS SCORE: " + goodnessAnalyze(exact_solutions, apprx_range_results, "cos"));
+                    }
+                } else {
+                    queryD = getQueryDByID(this.query_id, city);
+                    ApproxRange apprx_range = new ApproxRange(this.city, this.hotel_dimension, this.distance_threshold);
+                    ArrayList<Result> apprx_range_results = apprx_range.Query(queryD);
+                    if (verbose) {
+                        exact_improved = new ExactImproved(this.city, this.hotel_dimension);
+                        exact_solutions = exact_improved.Query(queryD);
+                        System.out.println("GOODNESS SCORE: " + goodnessAnalyze(exact_solutions, apprx_range_results, "cos"));
+                    }
                 }
                 break;
             case "ApproxMixed":
-                queryD = getQueryDByID(this.query_id);
-                ApproxMixed apprx_mixed = new ApproxMixed(this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.hotel_number, this.hotel_dimension, this.distance_threshold);
-                ArrayList<Result> apprx_mixed_results = apprx_mixed.Query(queryD);
-                if (verbose) {
-                    exact_improved = new ExactImproved(this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.hotel_number, this.hotel_dimension);
-                    exact_solutions = exact_improved.Query(queryD);
-                    System.out.println("GOODNESS SCORE: " + goodnessAnalyze(exact_solutions, apprx_mixed_results, "cos"));
+                if (this.city.equals("")) {
+                    queryD = getQueryDByID(this.query_id);
+                    ApproxMixed apprx_mixed = new ApproxMixed(this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.hotel_number, this.hotel_dimension, this.distance_threshold);
+                    ArrayList<Result> apprx_mixed_results = apprx_mixed.Query(queryD);
+                    if (verbose) {
+                        exact_improved = new ExactImproved(this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.hotel_number, this.hotel_dimension);
+                        exact_solutions = exact_improved.Query(queryD);
+                        System.out.println("GOODNESS SCORE: " + goodnessAnalyze(exact_solutions, apprx_mixed_results, "cos"));
+                    }
+                } else {
+                    queryD = getQueryDByID(this.query_id, city);
+                    ApproxMixed apprx_mixed = new ApproxMixed(this.city, this.hotel_dimension, this.distance_threshold);
+                    ArrayList<Result> apprx_mixed_results = apprx_mixed.Query(queryD);
+                    if (verbose) {
+                        exact_improved = new ExactImproved(this.city, this.hotel_dimension);
+                        exact_solutions = exact_improved.Query(queryD);
+                        System.out.println("GOODNESS SCORE: " + goodnessAnalyze(exact_solutions, apprx_mixed_results, "cos"));
+                    }
                 }
                 break;
         }
@@ -105,6 +154,20 @@ public class RunMain {
         Data queryD = constant.getDataById(place_id, this.hotel_dimension, poi_path);
         return queryD;
     }
+
+    public Data getQueryDByID(int obj_id, String city) {
+        String poi_path = constant.data_path + "/" + city + "/staticNode_real_" + this.city + ".txt";
+        hotel_number = constant.getNumberOfLines(poi_path);
+        int place_id;
+        if (obj_id == -1) {
+            place_id = constant.getRandomNumberInRange_int(0, hotel_number - 1);
+        } else {
+            place_id = obj_id;
+        }
+        Data queryD = constant.getDataById(place_id, this.hotel_dimension, poi_path);
+        return queryD;
+    }
+
 
     private boolean readParameters(String[] args) {
         Options options = new Options();
@@ -128,6 +191,7 @@ public class RunMain {
             options.addOption("d", "distance_threshold", true, "distance threshold that is used in the approximation methods, the default value is '30'.");
             options.addOption("id", "index_threshold", true, "the distance range that is used to build the index, the default value is '-1'.");
             options.addOption("q", "query", true, "query by a given object ID or a random generated POI object ID), the default value is '-1'.");
+            options.addOption("c", "city", true, "the city name (NY, LA and SF) of the real-world dataset. ");
 
             options.addOption("h", "help", false, "print the help of this command");
 
@@ -150,6 +214,7 @@ public class RunMain {
             String i_str = cmd.getOptionValue("i");
             String e_str = cmd.getOptionValue("e");
             String v_str = cmd.getOptionValue("v");
+            String c_str = cmd.getOptionValue("c");
 
 
             if (cmd.hasOption("h")) {
@@ -248,6 +313,15 @@ public class RunMain {
                     this.query_id = Integer.parseInt(q_str);
                     if (this.query_id > this.hotel_number || this.query_id < 0) {
                         System.out.println("The query ID must be 'r', less than or equals to the number of POI objects, or greater than 0.");
+                        return printHelper(options);
+                    }
+                }
+
+                if (c_str == null) {
+                    this.city = "";
+                } else {
+                    this.city = c_str.toUpperCase();
+                    if (!constant.cityList.contains(this.city)) {
                         return printHelper(options);
                     }
                 }

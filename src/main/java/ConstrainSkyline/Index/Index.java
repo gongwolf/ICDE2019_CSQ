@@ -4,7 +4,6 @@ import ConstrainSkyline.utilities.Skyline;
 import ConstrainSkyline.utilities.myNode;
 import RstarTree.Data;
 import neo4jTools.connector;
-import org.apache.commons.cli.*;
 import org.apache.commons.io.FileUtils;
 import org.neo4j.graphdb.Transaction;
 import tools.configuration.constant;
@@ -16,21 +15,16 @@ import java.util.Comparator;
 import java.util.Random;
 
 public class Index {
-    //    private final String base = System.getProperty("user.home") + "/shared_git/bConstrainSkyline/data/index";
-    private final String base = System.getProperty("user.home") + "/mydata/DemoProject/data/index";
     public String home_folder;
-    private String dataPath;
-    private String treePath;
-    private String graphPath;
     private String source_data_tree;
     private String neo4j_db;
-    //    private final int pagesize_data;
     private int pagesize_list;
     private String node_info_path;
     private long num_nodes;
     private double distance_threshold;
 
-    private int obj_dimension = 3;
+    private int obj_dimension;
+    private String city;
 
     public Index(int graph_size, int degree, int dimension, double range, int num_hotels, int obj_dimension, double distance_thresholds) {
         this.obj_dimension = obj_dimension;
@@ -49,31 +43,36 @@ public class Index {
             this.node_info_path = constant.data_path + "/" + graph_folder_str + "/NodeInfo.txt";
         }
 
+        System.out.println("Reading the index with distance_threshold "+this.distance_threshold);
+
         this.num_nodes = getLineNumbers();
         this.pagesize_list = 1024;
 
     }
 
 
-    public Index(String city, double distance_threshold) {
-//		this.distance_threshold = 0.0105;
-        this.distance_threshold = distance_threshold;
-        if (distance_threshold != -1) {
-            this.home_folder = base + "/" + city + "_index_" + (int) distance_threshold + "/";
+    public Index(String city, int obj_dimension, double distance_thresholds) {
+        this.obj_dimension = obj_dimension;
+        this.distance_threshold = distance_thresholds;
+        this.city = city;
+
+        if (distance_thresholds != -1) {
+            this.home_folder = constant.index_path + "/" + city + "_" + (int) distance_thresholds;
+            this.source_data_tree = constant.data_path + "/" + city + "/" + "real_tree_" + this.city + ".rtr";
+            this.neo4j_db = constant.db_path + "/" + city + "_db" + "/databases/graph.db";
+            this.node_info_path = constant.data_path + "/" + city + "/" + this.city + "_NodeInfo.txt";
         } else {
-            this.home_folder = base + "/" + city + "_index_all/";
+            this.home_folder = constant.index_path + "/" + city + "_all";
+            this.source_data_tree = constant.data_path + "/" + city + "/" + "real_tree_" + this.city + ".rtr";
+            this.neo4j_db = constant.db_path + "/" + city + "_db" + "/databases/graph.db";
+            this.node_info_path = constant.data_path + "/" + city + "/" + this.city + "_NodeInfo.txt";
         }
 
-        this.graphPath = System.getProperty("user.home") + "/neo4j334/testdb_" + city + "_Random/databases/graph.db";
-        this.treePath = System.getProperty("user.home") + "/mydata/DemoProject/data/real_tree_" + city + ".rtr";
-        this.dataPath = System.getProperty("user.home") + "/mydata/DemoProject/data/staticNode_real_" + city + ".txt";
+        System.out.println("Reading the index with distance_threshold "+this.distance_threshold);
 
-        this.source_data_tree = this.treePath;
-        this.neo4j_db = this.graphPath;
-        this.node_info_path = System.getProperty("user.home") + "/mydata/projectData/testGraph_real_50_Random/data/"
-                + city + "_NodeInfo.txt";
         this.num_nodes = getLineNumbers();
         this.pagesize_list = 1024;
+
     }
 
 
