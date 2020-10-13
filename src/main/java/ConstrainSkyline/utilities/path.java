@@ -33,6 +33,7 @@ public class path {
 
         this.nodes = new ArrayList<>();
         this.rels = new ArrayList<>();
+
         this.propertiesName = new ArrayList<>();
 
         this.setPropertiesName();
@@ -48,20 +49,18 @@ public class path {
         this.startNode = old_path.startNode;
         this.endNode = rel.getOtherNodeId(old_path.endNode);
 
-
-        this.nodes = new ArrayList<>();
-        this.nodes.addAll(old_path.nodes);
-
-        this.rels = new ArrayList<>();
-        this.rels.addAll(old_path.rels);
+        if (constant.details_path) {
+            this.nodes = new ArrayList<>();
+            this.nodes.addAll(old_path.nodes);
+            this.rels = new ArrayList<>();
+            this.rels.addAll(old_path.rels);
+            this.nodes.add(this.endNode);
+            this.rels.add(rel.getId());
+        }
 
         this.propertiesName = new ArrayList<>(old_path.propertiesName);
-
-
         expaned = false;
 
-        this.nodes.add(this.endNode);
-        this.rels.add(rel.getId());
 
         System.arraycopy(old_path.costs, 0, this.costs, 0, this.costs.length);
 
@@ -107,17 +106,20 @@ public class path {
     public String toString() {
 //        System.out.println("dasdasd:   "+this.nodes.size()+"  "+this.rels.size());
         StringBuffer sb = new StringBuffer();
-        if (this.rels.isEmpty()) {
-            sb.append("(").append(this.startNode).append(")");
-        } else {
-            int i;
-            for (i = 0; i < this.nodes.size() - 1; i++) {
+
+        if (constant.details_path) {
+            if (this.rels.isEmpty()) {
+                sb.append("(").append(this.startNode).append(")");
+            } else {
+                int i;
+                for (i = 0; i < this.nodes.size() - 1; i++) {
+                    sb.append("(").append(this.nodes.get(i)).append(")");
+                    // sb.append("-[Linked," + this.relationships.get(i).getId() +
+                    // "]->");
+                    sb.append("-[").append(this.rels.get(i)).append("]-");
+                }
                 sb.append("(").append(this.nodes.get(i)).append(")");
-                // sb.append("-[Linked," + this.relationships.get(i).getId() +
-                // "]->");
-                sb.append("-[").append(this.rels.get(i)).append("]-");
             }
-            sb.append("(").append(this.nodes.get(i)).append(")");
         }
 
         sb.append(",[");
@@ -161,12 +163,16 @@ public class path {
     }
 
     public boolean hasCycle() {
-        for (int i = 0; i < rels.size() - 2; i++) {
-            if (this.endNode == rels.get(i)) {
-                return true;
+        if (constant.details_path) {
+            for (int i = 0; i < rels.size() - 2; i++) {
+                if (this.endNode == rels.get(i)) {
+                    return true;
+                }
             }
+            return false;
+        } else {
+            return false;
         }
-        return false;
     }
 
     public boolean isDummyPath() {

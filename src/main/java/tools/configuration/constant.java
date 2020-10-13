@@ -19,6 +19,7 @@ public class constant {
     public static boolean index_enabled = false;
 
     public static HashSet<String> cityList = new HashSet<>(Arrays.asList("SF", "LA", "NY"));
+    public static boolean details_path = false;
 
     static Random r = new Random(System.nanoTime());
 

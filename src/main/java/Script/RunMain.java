@@ -178,6 +178,7 @@ public class RunMain {
             options.addOption("i", "index", true, "index enable/disable, the default value is 'false'.");
             options.addOption("e", "measure", true, "the measure is used to calculate the distance between two points, the default value is 'euclidean'.");
             options.addOption("v", "verbose", true, "calculate the goodness score while executing the approximate methods, the default value is 'false'.");
+            options.addOption("p", "path", true, "detailed path information that stores the nodes and edges.");
 
 
             /************ Query related Parameters **************/
@@ -215,6 +216,7 @@ public class RunMain {
             String e_str = cmd.getOptionValue("e");
             String v_str = cmd.getOptionValue("v");
             String c_str = cmd.getOptionValue("c");
+            String p_str = cmd.getOptionValue("p");
 
 
             if (cmd.hasOption("h")) {
@@ -244,6 +246,12 @@ public class RunMain {
                     constant.distance_calculation_type = e_str;
                 } else {
                     return printHelper(options);
+                }
+
+                if (p_str == null) {
+                    constant.details_path = false;
+                } else {
+                    constant.details_path = Boolean.parseBoolean(p_str);
                 }
 
                 if (v_str == null) {

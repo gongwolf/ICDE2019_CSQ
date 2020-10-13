@@ -224,7 +224,7 @@ public class ApproxRange {
                 }
                 index_s += (System.nanoTime() - t_index_s);
                 for (path p : my_n.skyPaths) {
-                    if (!p.rels.isEmpty()) {
+                    if (!constant.details_path || !p.rels.isEmpty()) {
                         long ats = System.nanoTime();
                         boolean f = addToSkylineResult(p, d_list);
                         addResult_rt += System.nanoTime() - ats;
@@ -260,7 +260,7 @@ public class ApproxRange {
 
         for (Result r : sortedList) {
             this.finalDatas.add(r.end.getPlaceId());
-            if (r.p != null) {
+            if (r.p != null && constant.details_path) {
                 for (Long nn : r.p.nodes) {
                     final_bus_stops.add(nn);
                 }
