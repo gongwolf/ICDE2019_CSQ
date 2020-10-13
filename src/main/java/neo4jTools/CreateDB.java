@@ -209,51 +209,6 @@ public class CreateDB {
         nconn.shutdownDB();
     }
 
-
-    public void createDatabasewithIndex(String property) {
-        connector nconn = new connector(DB_PATH);
-        //delete the data base at first
-        nconn.deleteDB();
-        nconn.startDB();
-        this.graphdb = nconn.getDBObject();
-
-
-        try (Transaction tx = this.graphdb.beginTx()) {
-            IndexManager indexm = this.graphdb.index();
-            Index<Node> indexs = indexm.forNodes(property);
-            BufferedReader br = new BufferedReader(new FileReader(NodesPath));
-            String line = null;
-            while ((line = br.readLine()) != null) {
-                System.out.println(line);
-                String[] attrs = line.split(" ");
-
-                String id = attrs[0];
-                double lat = Double.parseDouble(attrs[1]);
-                double log = Double.parseDouble(attrs[2]);
-                Node n = createNode(id, lat, log);
-                indexs.add(n, "name", id);
-            }
-
-            br = new BufferedReader(new FileReader(SegsPath));
-            line = null;
-            while ((line = br.readLine()) != null) {
-                System.out.println(line);
-                String attrs[] = line.split(" ");
-                String src = attrs[0];
-                String des = attrs[1];
-                double EDistence = Double.parseDouble(attrs[2]);
-                double MetersDistance = Double.parseDouble(attrs[3]);
-                double RunningTime = Double.parseDouble(attrs[4]);
-                createRelation(src, des, EDistence, MetersDistance, RunningTime);
-            }
-
-            tx.success();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        nconn.shutdownDB();
-    }
-
     private void createRelation(String src, String des, double eDistence, double metersDistance, double runningTime) {
         try {
             //Node srcNode = this.graphdb.findNode(BNode.BusNode, "name", src);

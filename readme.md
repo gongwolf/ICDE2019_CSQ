@@ -14,7 +14,7 @@ The code implements four methods that is used solve the constrain skyline query 
 - [Apache commons-io](http://commons.apache.org/proper/commons-io/)
 - [Apache commons-math3](https://commons.apache.org/proper/commons-math/)
 - [Apache commons-cli](https://commons.apache.org/proper/commons-cli/)
-- JAVA 8
+- JAVA 8, if you are not using JAVA8, please make sure the [JavaFX](https://en.wikipedia.org/wiki/JavaFX) is included in your JAVA path. 
 
 ## Data
 ### Synthetic data
@@ -96,8 +96,7 @@ Run the code of the constrain skyline path query :
 6. Execute the approximate methods (*ApproxRange* and *ApproxMixed*)with given graph information and a query POI object. If the query object Id is not given, a random generated object will be used to conduct the query. Compared with the exact methods, one extra parameter, distance_threshold, ```d``` is used to constrains the range of search from a graph node to POI objects. **NOTICE:Before executing the approximate methods with the given distance threshold by using index, a corresponding index with same index_threshold, ```id```, as distance_threshold needs to be created before.**
 > * ```java -jar constrainSkylineQuery.jar -m ApproxMixed -gs 1000 -gd 4 -gm 3 -hn 200 -hd 3 -r 20 -d 30```  
 > * ```java -jar constrainSkylineQuery.jar -m ApproxRange -gs 1000 -gd 4 -gm 3 -hn 200 -hd 3 -r 20 -d 40 -i true -v true```
-
-#
+***************
 - Graph information is identified by the graph size, degree and dimension
 - POI object information is identified by the given graph with the range, the number of POIs and the POI object cost dimension. 
 - The **index version** of queries is enabled by using the ```-i true```, when ```-m``` is equals to ```ExactBaseline```, ```ExactImproved```, ```ExactBaseline``` and ```ApproxMixed```.
@@ -107,6 +106,7 @@ Run the code of the constrain skyline path query :
 - The neo4j database are stored under the folder ```Data\Neo4jDB_files```.
 - The index files are stored under the folder ```Data\index```.
 - Default values and the paths can be changed in the ```tools.configuration.constant``` file.
+- When ```-p``` is set to be ```false```, the visited ratio related value will not be counted. 
 
 ## output
 The performance results are displayed like  
@@ -114,6 +114,9 @@ The performance results are displayed like
 >```181|195 14| running time(ms):11,52,165,89,281| overall:1845   41(28+6+0+0+4),113|result size:382 95|984,346,0.3516260162601626|16965,3533,3545,4026```
 
 Where are ```[query object ID], [# of POI objects don't dominated by the query object], [# of skyline POI objects in ], [Best First Search Time], [Nearest Graph Node search Time], [Search on the Graph Time], [Index Search Time], [Query time without Index], [Overall Query Time], [Time used to form the final result and add the result set] (Components: [Add to results time], [condition checking time], [Map operation time], [Empty checking time], [POI object Reading Time], [Path Expansion Time]), [# of Skyline Solutions], [# of distinct POI objects], [# of visited graph nodes], [# of graph nodes in the final solutions], [visited ratio], [# of times form the candidate solutions], [# of prefix skyline paths from query object to each graph nodes], [# of pop-up times from the queue].``` from left to right. 
+***************
+- When ```-p``` is set to be ```false```, the visited ratio related value will not be counted. 
+
 
 ## Running Example:
 ##### 1.Conduct the query by using the approxMixed method on a new synthetic road network and a list of synthetic POI objects. 
@@ -137,9 +140,9 @@ Where are ```[query object ID], [# of POI objects don't dominated by the query o
 6. if ```-v``` parameter is set ```True```, the index file of SF with index distance ```-1``` need to be created. 
 > java -jar constrainSkylineQuery.jar -m CreateRoadNetworkDB -c SF  
 > java -jar constrainSkylineQuery.jar -m GenerateSynethicPOIsData -c SF -gm 3  
-> java -jar constrainSkylineQuery.jar -m IndexBuilding -c SF -gd 4  -gm 3 -id 1500 -e actual  
-> java -jar constrainSkylineQuery.jar -m ApproxRange -c SF -gd 4  -gm 3 -d 1500 -v true -i true -e actual
-> java -jar constrainSkylineQuery.jar -m IndexBuilding -c SF -gd 4  -gm 3 -id -1 -e actual  
+> java -jar constrainSkylineQuery.jar -m IndexBuilding -c SF -gm 3 -id 1500 -e actual  
+> java -jar constrainSkylineQuery.jar -m ApproxRange -c SF -hd 3 -gm 3 -d 1500 -v true -i true -e actual -p true
+> java -jar constrainSkylineQuery.jar -m IndexBuilding -c SF -gm 3 -id -1 -e actual  
 
 ##### 3.Conduct the query by using the approxRange method on the real-world data of SF using the euclidean distance instead of actual meters. 
 1. Step 1 ~ 3 are same as previous query. 
@@ -148,7 +151,7 @@ Where are ```[query object ID], [# of POI objects don't dominated by the query o
 > java -jar constrainSkylineQuery.jar -m CreateRoadNetworkDB -c SF  
 > java -jar constrainSkylineQuery.jar -m GenerateSynethicPOIsData -c SF -gm 3  
 > java -jar constrainSkylineQuery.jar -m IndexBuilding -c SF -gd 4  -gm 3 -id 0.0105  
-> java -jar constrainSkylineQuery.jar -m ApproxRange -c SF -gd 4  -gm 3 -d 0.0105  -v true -i true  
+> java -jar constrainSkylineQuery.jar -m ApproxRange -c SF -hd 3 4  -gm 3 -d 0.0105  -v true -i true -p true  
 > java -jar constrainSkylineQuery.jar -m IndexBuilding -c SF -gd 4  -gm 3 -id -1  
 
 ## Acknowledgements
