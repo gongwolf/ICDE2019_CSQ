@@ -56,11 +56,13 @@ public class myNode {
         try (Transaction tx = connector.graphDB.beginTx()) {
             locations[0] = (double) connector.graphDB.getNodeById(this.id).getProperty("lat");
             locations[1] = (double) connector.graphDB.getNodeById(this.id).getProperty("log");
-            if (constant.distance_calculation_type.equals("actual")) {
-                this.distance_q = constant.distanceInMeters(locations[0], locations[1], queryNode.location[0], queryNode.location[1]);
-            } else {
-                this.distance_q = Math.sqrt(Math.pow(locations[0] - queryNode.location[0], 2) + Math.pow(locations[1] - queryNode.location[1], 2));
+            if (this.distance_q == 0) {
+                if (constant.distance_calculation_type.equals("actual")) {
+                    this.distance_q = constant.distanceInMeters(locations[0], locations[1], queryNode.location[0], queryNode.location[1]);
+                } else {
+                    this.distance_q = Math.sqrt(Math.pow(locations[0] - queryNode.location[0], 2) + Math.pow(locations[1] - queryNode.location[1], 2));
 
+                }
             }
             tx.success();
         }

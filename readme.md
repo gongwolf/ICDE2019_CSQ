@@ -1,4 +1,5 @@
 # Constrain Sekyline Query
+This repository is the source code for our paper "Gong, Q. et al. “Skyline Queries Constrained by Multi-cost Transportation Networks.” 2019 IEEE 35th International Conference on Data Engineering (ICDE) (2019): 926-937."
 The java implementation of the [Skyline Queries Constrained by Multi-cost Transportation Networks
 ](https://ieeexplore.ieee.org/abstract/document/8731518). Given a multi-cost transportation network (MCTN), a list of POI objects **D** (could be on/off the MCTN) and a query POI object **q** in **D**, constrain skyline queries return the skyline solutions from **q** to objects **o** in **D**, where one solution is consists of the costs of the walking distance, the cost of the road network paths and the cost of the reached object **o**. 
 <p align="center">

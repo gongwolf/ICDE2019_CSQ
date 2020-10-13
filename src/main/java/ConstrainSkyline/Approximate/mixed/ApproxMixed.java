@@ -410,7 +410,7 @@ public class ApproxMixed {
 
             if (constant.index_enabled) {
                 if (constant.distance_calculation_type.equals("actual")) {
-                    d.distance_q = Math.sqrt(Math.pow(d.location[0] - queryD.location[0], 2) + Math.pow(d.location[1] - queryD.location[1], 2));
+                    d.distance_q = constant.distanceInMeters(d.location[0], d.location[1], queryD.location[0], queryD.location[1]);
                 } else {
                     d.distance_q = Math.sqrt(Math.pow(queryD.location[0] - d.location[0], 2) + Math.pow(queryD.location[1] - d.location[1], 2));
                 }
