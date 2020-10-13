@@ -68,7 +68,7 @@ public class Index {
             this.node_info_path = constant.data_path + "/" + city + "/" + this.city + "_NodeInfo.txt";
         }
 
-        System.out.println("Reading the index with distance_threshold "+this.distance_threshold);
+        System.out.println("Reading the index with distance_threshold "+this.distance_threshold+"  obj dimension:"+obj_dimension);
 
         this.num_nodes = getLineNumbers();
         this.pagesize_list = 1024;
@@ -126,7 +126,6 @@ public class Index {
         String Data_file = this.home_folder + "/data.dat";
         System.out.println(Data_file);
         try {
-
             long d_id = getRandomNumberInRange_int(0, number_of_pois - 1);
             RandomAccessFile data_f = new RandomAccessFile(Data_file, "rw");
             Data d = new Data(3);

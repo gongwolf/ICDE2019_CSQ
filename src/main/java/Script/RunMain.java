@@ -83,7 +83,7 @@ public class RunMain {
                 if (city.equals("")) {
                     exact_baseline = new ExactBaseline(this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.hotel_number, this.hotel_dimension);
                 } else {
-                    exact_baseline = new ExactBaseline(this.city, this.hotel_dimension);
+                    exact_baseline = new ExactBaseline(this.city, this.graph_dimension, this.hotel_dimension);
                 }
                 exact_baseline.Query(queryD);
                 break;
