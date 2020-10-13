@@ -61,8 +61,9 @@ public class ApproxRange {
         System.out.println("POI objects: " + dataPath);
     }
 
-    public ApproxRange(String city, int obj_dimension, double distance_threshold) {
+    public ApproxRange(String city, int dimension, int obj_dimension, double distance_threshold) {
         this.obj_dimension = obj_dimension;
+        this.dimension = dimension;
         this.distance_threshold = distance_threshold;
         this.city = city;
 
@@ -78,6 +79,7 @@ public class ApproxRange {
     public ArrayList<Result> Query(Data queryD) {
         this.queryD = queryD;
         StringBuffer sb = new StringBuffer();
+//        System.out.println(queryD);
         sb.append(queryD.getPlaceId() + "|");
 
         Skyline sky = new Skyline(treePath);
@@ -95,6 +97,8 @@ public class ApproxRange {
         long bbs_rt = System.currentTimeMillis() - r1;
         sNodes = sky.skylineStaticNodes;
         sb.append(this.sNodes.size() + " " + this.sky_hotel.size() + "|");
+//        System.out.println(this.sNodes.size()+" "+this.sky_hotel.size());
+//        System.exit(0);
 
         //Lemma 1: Assumes the POIs that can be reached from the query point, included the skyline POIs
         for (Data d : sNodes) {
@@ -195,14 +199,14 @@ public class ApproxRange {
             }
 
             long exploration_rt = System.currentTimeMillis() - rt; // time that is used to search on the graph
-//            System.out.println("expansion finished " + exploration_rt);
+            System.out.println("expansion finished, using " + exploration_rt + " ms");
             long tt_sl = 0;
 //            hotels_scope = new HashMap<>();
             Index idx = null;
             if (constant.index_enabled) {
                 if (this.city.equals("")) {
                     idx = new Index(this.graph_size, this.degree, this.dimension, this.range, this.hotels_num, this.obj_dimension, distance_threshold);
-                }else {
+                } else {
                     idx = new Index(this.city, this.obj_dimension, distance_threshold);
                 }
             }
@@ -275,16 +279,7 @@ public class ApproxRange {
 
         System.out.println(sb.toString());
 
-//        System.out.println("====================");
-//        for (Map.Entry<Integer, HashSet<Long>> e : hotels_scope.entrySet()) {
-//            System.out.println(e.getKey() + "  " + e.getValue().size());
-//        }
-//        System.out.println("====================");
-
-//        System.out.println(finalDatas.size() + " " + this.skyPaths.size());
-//        System.out.println(addResult_rt + "/" + add_counter + "=" + (double) addResult_rt / add_counter / 1000000);
-//        System.out.println(sky_add_result_counter + "/" + add_counter + "=" + (double) sky_add_result_counter / add_counter);
-        ArrayList<Result> fianl_result_set = new ArrayList<Result>(this.skyPaths);
+        ArrayList<Result> fianl_result_set = new ArrayList<>(this.skyPaths);
         return fianl_result_set;
 
     }
@@ -363,7 +358,6 @@ public class ApproxRange {
     private boolean addToSkylineResult(path np, ArrayList<Data> d_list) {
         this.add_counter++; // number of time to form the candidate results
 
-
         long rr = System.nanoTime();
         myNode my_endNode = this.tmpStoreNodes.get(np.endNode);
         this.map_operation += System.nanoTime() - rr;
@@ -383,6 +377,7 @@ public class ApproxRange {
                 continue;
             }
 
+
             double[] final_costs = new double[np.costs.length + dimension];
             System.arraycopy(np.costs, 0, final_costs, 0, np.costs.length);
             double end_distance; // distance from v_i to o in d_list
@@ -394,7 +389,7 @@ public class ApproxRange {
 
             if (constant.index_enabled) {
                 if (constant.distance_calculation_type.equals("actual")) {
-                    d.distance_q = Math.sqrt(Math.pow(d.location[0] - queryD.location[0], 2) + Math.pow(d.location[1] - queryD.location[1], 2));
+                    d.distance_q = constant.distanceInMeters(d.location[0], d.location[1], queryD.location[0], queryD.location[1]);
                 } else {
                     d.distance_q = Math.sqrt(Math.pow(queryD.location[0] - d.location[0], 2) + Math.pow(queryD.location[1] - d.location[1], 2));
                 }
@@ -408,7 +403,13 @@ public class ApproxRange {
                     final_costs[i] = d_attrs[i - 4];
                 }
 
+//                System.out.println(d_attrs[0] + " " + d_attrs[1] + " " + d_attrs[2]);
+//                System.out.println(final_costs[4] + " " + final_costs[5] + " " + final_costs[6]);
+
+
                 Result r = new Result(this.queryD, d, final_costs, np);
+//                System.out.println(d);
+//                System.out.println(r);
 
                 this.check_add_oper += System.nanoTime() - rrr;
                 d1 += System.nanoTime() - rrr;
@@ -424,6 +425,8 @@ public class ApproxRange {
                 }
             }
         }
+
+//        System.exit(0);
 
         this.read_data += (System.nanoTime() - d1 - d2 - dsad);
         return flag;

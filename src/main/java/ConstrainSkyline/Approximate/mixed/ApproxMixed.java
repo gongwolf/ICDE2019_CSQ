@@ -61,8 +61,9 @@ public class ApproxMixed {
         System.out.println("POI objects: " + dataPath);
     }
 
-    public ApproxMixed(String city, int obj_dimension, double distance_threshold) {
+    public ApproxMixed(String city, int dimension, int obj_dimension, double distance_threshold) {
         this.obj_dimension = obj_dimension;
+        this.dimension = dimension;
         this.distance_threshold = distance_threshold;
         this.city = city;
 
@@ -212,6 +213,7 @@ public class ApproxMixed {
             }
 
             long exploration_rt = System.currentTimeMillis() - rt; // time that is used to search on the graph
+            System.out.println("expansion finished, using " + exploration_rt+" ms");
 
             Index idx = null;
             if (constant.index_enabled) {

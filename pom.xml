@@ -56,6 +56,13 @@
             <artifactId>slf4j-nop</artifactId>
             <version>1.7.25</version>
         </dependency>
+        <dependency>
+            <groupId>javafx</groupId>
+            <artifactId>jfxrt</artifactId>
+            <version>${java.version}</version>
+            <scope>system</scope>
+            <systemPath>${java.home}/lib/ext/jfxrt.jar</systemPath>
+        </dependency>
     </dependencies>
 
     <build>

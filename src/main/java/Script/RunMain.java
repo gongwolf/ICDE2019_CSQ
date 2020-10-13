@@ -93,7 +93,7 @@ public class RunMain {
                 if (city.equals("")) {
                     exact_improved = new ExactImproved(this.graph_size, this.graph_degree, this.graph_dimension, this.range, this.hotel_number, this.hotel_dimension);
                 } else {
-                    exact_improved = new ExactImproved(this.city, this.hotel_dimension);
+                    exact_improved = new ExactImproved(this.city, this.graph_dimension, this.hotel_dimension);
                 }
                 exact_improved.Query(queryD);
                 break;
@@ -109,10 +109,10 @@ public class RunMain {
                     }
                 } else {
                     queryD = getQueryDByID(this.query_id, city);
-                    ApproxRange apprx_range = new ApproxRange(this.city, this.hotel_dimension, this.distance_threshold);
+                    ApproxRange apprx_range = new ApproxRange(this.city, this.graph_dimension, this.hotel_dimension, this.distance_threshold);
                     ArrayList<Result> apprx_range_results = apprx_range.Query(queryD);
                     if (verbose) {
-                        exact_improved = new ExactImproved(this.city, this.hotel_dimension);
+                        exact_improved = new ExactImproved(this.city, this.graph_dimension, this.hotel_dimension);
                         exact_solutions = exact_improved.Query(queryD);
                         System.out.println("GOODNESS SCORE: " + goodnessAnalyze(exact_solutions, apprx_range_results, "cos"));
                     }
@@ -130,10 +130,10 @@ public class RunMain {
                     }
                 } else {
                     queryD = getQueryDByID(this.query_id, city);
-                    ApproxMixed apprx_mixed = new ApproxMixed(this.city, this.hotel_dimension, this.distance_threshold);
+                    ApproxMixed apprx_mixed = new ApproxMixed(this.city, this.graph_dimension, this.hotel_dimension, this.distance_threshold);
                     ArrayList<Result> apprx_mixed_results = apprx_mixed.Query(queryD);
                     if (verbose) {
-                        exact_improved = new ExactImproved(this.city, this.hotel_dimension);
+                        exact_improved = new ExactImproved(this.city, this.graph_dimension, this.hotel_dimension);
                         exact_solutions = exact_improved.Query(queryD);
                         System.out.println("GOODNESS SCORE: " + goodnessAnalyze(exact_solutions, apprx_mixed_results, "cos"));
                     }

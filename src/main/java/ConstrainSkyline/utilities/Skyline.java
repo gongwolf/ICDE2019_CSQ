@@ -59,6 +59,7 @@ public class Skyline {
                     if (!checkDominated(queryPoint.getData(), dataN.data[i].getData())) {
                         if (constant.distance_calculation_type.equals("actual")) {
                             dataN.data[i].distance_q = constant.distanceInMeters(dataN.data[i].location[0], dataN.data[i].location[1], queryPoint.location[0], queryPoint.location[1]);
+                            this.skylineStaticNodes.add(dataN.data[i]);
                         } else {
                             dataN.data[i].distance_q = Math.pow(dataN.data[i].location[0] - queryPoint.location[0], 2) + Math.pow(dataN.data[i].location[1] - queryPoint.location[1], 2);
                             dataN.data[i].distance_q = Math.sqrt(dataN.data[i].distance_q);
@@ -72,7 +73,6 @@ public class Skyline {
         queryPoint.distance_q = 0;
         this.skylineStaticNodes.add(queryPoint);
     }
-
 
 
     public void allDatas() {
@@ -224,13 +224,12 @@ public class Skyline {
                 for (int i = 0; i < n; i++) {
                     Data d = dataN.data[i];
                     if (constant.distance_calculation_type.equals("actual")) {
-                        dataN.data[i].distance_q = 0;
+                        d.distance_q = constant.distanceInMeters(dataN.data[i].location[0], dataN.data[i].location[1], 0, 0);
                     } else {
                         d.distance_q = Math.pow(dataN.data[i].location[0], 2) + Math.pow(dataN.data[i].location[1], 2);
                         d.distance_q = Math.sqrt(dataN.data[i].distance_q);
                     }
                     addToSkyline(d);
-//                    this.sky_hotels.add(d);
                 }
             }
         }

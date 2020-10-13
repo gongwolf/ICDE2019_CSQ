@@ -61,8 +61,9 @@ public class ExactImproved {
         System.out.println("POI objects: " + dataPath);
     }
 
-    public ExactImproved(String city, int obj_dimension) {
+    public ExactImproved(String city, int dimension, int obj_dimension) {
         this.obj_dimension = obj_dimension;
+        this.dimension = dimension;
         this.city = city;
 
         this.graphPath = constant.db_path + "/" + city + "_db" + "/databases/graph.db";
