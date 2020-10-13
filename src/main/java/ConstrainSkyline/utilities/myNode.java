@@ -61,7 +61,6 @@ public class myNode {
                     this.distance_q = constant.distanceInMeters(locations[0], locations[1], queryNode.location[0], queryNode.location[1]);
                 } else {
                     this.distance_q = Math.sqrt(Math.pow(locations[0] - queryNode.location[0], 2) + Math.pow(locations[1] - queryNode.location[1], 2));
-
                 }
             }
             tx.success();

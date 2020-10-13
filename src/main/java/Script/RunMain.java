@@ -28,7 +28,7 @@ public class RunMain {
     private double range;
     private int upper;
     private double distance_threshold;
-    private int index_threshold;
+    private double index_threshold;
     private boolean verbose;
     private int query_id;
     private String city;
@@ -312,7 +312,7 @@ public class RunMain {
                 if (id_str == null) {
                     this.index_threshold = -1;
                 } else {
-                    this.index_threshold = Integer.parseInt(id_str);
+                    this.index_threshold = Double.parseDouble(id_str);
                 }
 
                 if (q_str == null || q_str.equals("r")) {

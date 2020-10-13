@@ -222,6 +222,7 @@ public class ApproxRange {
                 } else {
                     d_list = sNodes;
                 }
+
                 index_s += (System.nanoTime() - t_index_s);
                 for (path p : my_n.skyPaths) {
                     if (!constant.details_path || !p.rels.isEmpty()) {
