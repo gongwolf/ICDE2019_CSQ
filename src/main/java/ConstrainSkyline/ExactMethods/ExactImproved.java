@@ -218,14 +218,12 @@ public class ExactImproved {
                 }
                 index_s += (System.nanoTime() - t_index_s);
                 for (path p : my_n.skyPaths) {
-                    if (!p.rels.isEmpty() || !constant.details_path) {
+                    if (!constant.details_path || !p.rels.isEmpty()) {
                         long ats = System.nanoTime();
                         boolean f = addToSkylineResult(p, d_list);
                         addResult_rt += System.nanoTime() - ats;
                     }
                 }
-
-
             }
 
             //time that is used to find the candicated objects, find the nearest objects,
@@ -255,9 +253,7 @@ public class ExactImproved {
         for (Result r : sortedList) {
             this.finalDatas.add(r.end.getPlaceId());
             if (r.p != null && constant.details_path) {
-                for (Long nn : r.p.nodes) {
-                    final_bus_stops.add(nn);
-                }
+                final_bus_stops.addAll(r.p.nodes);
             }
         }
 
@@ -391,7 +387,7 @@ public class ExactImproved {
 
             if (constant.index_enabled) {
                 if (constant.distance_calculation_type.equals("actual")) {
-                    d.distance_q = Math.sqrt(Math.pow(d.location[0] - queryD.location[0], 2) + Math.pow(d.location[1] - queryD.location[1], 2));
+                    d.distance_q = constant.distanceInMeters(d.location[0], d.location[1], queryD.location[0], queryD.location[1]);
                 } else {
                     d.distance_q = Math.sqrt(Math.pow(queryD.location[0] - d.location[0], 2) + Math.pow(queryD.location[1] - d.location[1], 2));
                 }

@@ -61,6 +61,8 @@ Run the code of the constrain skyline path query :
                                  the index, the default value is '-1'.
  -m,--method <arg>               method to execute, the default value is
                                  'exact_improved'.
+ -p,--path <arg>                 detailed path information that stores the
+                                 nodes and edges.
  -q,--query <arg>                query by a given object ID or a random
                                  generated POI object ID), the default
                                  value is '-1'.
@@ -73,7 +75,6 @@ Run the code of the constrain skyline path query :
  -v,--verbose <arg>              calculate the goodness score while
                                  executing the approximate methods, the
                                  default value is 'false'.
-
 ```
 
 ## Details and examples
@@ -127,18 +128,28 @@ Where are ```[query object ID], [# of POI objects don't dominated by the query o
 > 4. java -jar constrainSkylineQuery.jar -m IndexBuilding -gs 2000 -gd 4 -gm 3 -hn 200 -hd 3 -r 15 -u 60 -id 30 
 > 5. java -jar constrainSkylineQuery.jar -m ApproxMixed -gs 2000 -gd 4 -gm 3 -hn 200 -hd 3 -r 15 -d 30 -v true -i true -e actual  
 
-##### 2.Conduct the query by using the approxRange method on the real-world data of SF. 
+##### 2.Conduct the query by using the approxRange method on the real-world data of SF using the actual distance in meters. 
 1. Put the ```SF_NodeInfo.txt```, ```SF_SegInfo.txt```, and ```staticNode_real_SF``` of San Francisco under the folder ```Data\SF```
 2. Create the Neo4j DB files for SF.
 3. Store the POI objects of SF to the Rtree
 4. Build the index with *500* meters for all the network nodes. In order to make the distance calculation to be actual meters,  the parameter ```-e actual``` is added.
 5. Conduct the query with a random query point. **Make sure the parameter ```-e actual``` is added. If the approximate methods are called and the ```-v``` is set to true, make sure the overall index is created before (```java -jar constrainSkylineQuery.jar -m IndexBuilding -c SF -gm 3 -id -1 -e actual```)**
+6. if ```-v``` parameter is set ```True```, the index file of SF with index distance ```-1``` need to be created. 
 > java -jar constrainSkylineQuery.jar -m CreateRoadNetworkDB -c SF  
 > java -jar constrainSkylineQuery.jar -m GenerateSynethicPOIsData -c SF -gm 3  
-> java -jar constrainSkylineQuery.jar -m IndexBuilding -c SF -gm 3 -id 1500 -e actual  
-> java -jar constrainSkylineQuery.jar -m ApproxRange -c SF -gm 3 -d 1500 -v true -i true -e actual
+> java -jar constrainSkylineQuery.jar -m IndexBuilding -c SF -gd 4  -gm 3 -id 1500 -e actual  
+> java -jar constrainSkylineQuery.jar -m ApproxRange -c SF -gd 4  -gm 3 -d 1500 -v true -i true -e actual
+> java -jar constrainSkylineQuery.jar -m IndexBuilding -c SF -gd 4  -gm 3 -id -1 -e actual  
 
-
+##### 3.Conduct the query by using the approxRange method on the real-world data of SF using the euclidean distance instead of actual meters. 
+1. Step 1 ~ 3 are same as previous query. 
+2. Convert the actual meters to euclidean distance and build the index with the converted index distance. 
+3. Query by using the specified distance with index. 
+> java -jar constrainSkylineQuery.jar -m CreateRoadNetworkDB -c SF  
+> java -jar constrainSkylineQuery.jar -m GenerateSynethicPOIsData -c SF -gm 3  
+> java -jar constrainSkylineQuery.jar -m IndexBuilding -c SF -gd 4  -gm 3 -id 0.0105  
+> java -jar constrainSkylineQuery.jar -m ApproxRange -c SF -gd 4  -gm 3 -d 0.0105  -v true -i true  
+> java -jar constrainSkylineQuery.jar -m IndexBuilding -c SF -gd 4  -gm 3 -id -1  
 
 ## Acknowledgements
 pecial thanks to java implementatioan fo the [R*-tree](http://chorochronos.datastories.org/?q=node/43)\[1\].  
